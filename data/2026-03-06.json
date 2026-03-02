@@ -1,0 +1,184 @@
+{
+  "date": "2026-03-06",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "이화수전통육개장",
+      "courseName": "A:한식",
+      "setName": "이화수전통육개장&분홍소시지전",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260306/s20251003110617.png",
+      "nutrition": [
+        {
+          "name": "이화수전통육개장",
+          "isMain": true,
+          "calorie": 215,
+          "carbohydrate": 17,
+          "sugar": 2,
+          "fiber": 5,
+          "fat": 11,
+          "protein": 14
+        },
+        {
+          "name": "흑미밥",
+          "isMain": false,
+          "calorie": 354,
+          "carbohydrate": 81,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 7
+        },
+        {
+          "name": "분홍소시지전&케찹",
+          "isMain": false,
+          "calorie": 203,
+          "carbohydrate": 27,
+          "sugar": 5,
+          "fiber": 2,
+          "fat": 7,
+          "protein": 9
+        },
+        {
+          "name": "꽈리고추게맛살조림",
+          "isMain": false,
+          "calorie": 101,
+          "carbohydrate": 13,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 5
+        },
+        {
+          "name": "어묵채볶음",
+          "isMain": false,
+          "calorie": 140,
+          "carbohydrate": 16,
+          "sugar": 5,
+          "fiber": 0,
+          "fat": 5,
+          "protein": 8
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "오미자차",
+          "isMain": false,
+          "calorie": 49,
+          "carbohydrate": 12,
+          "sugar": 11,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "고구마돈가스",
+      "courseName": "B:일품",
+      "setName": "고구마돈가스&푸실리샐러드",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260306/s20240429184409.png",
+      "nutrition": [
+        {
+          "name": "고구마돈가스",
+          "isMain": true,
+          "calorie": 258,
+          "carbohydrate": 32,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 8,
+          "protein": 14
+        },
+        {
+          "name": "쌀밥&후리가케",
+          "isMain": false,
+          "calorie": 209,
+          "carbohydrate": 48,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 4
+        },
+        {
+          "name": "크림스프",
+          "isMain": false,
+          "calorie": 89,
+          "carbohydrate": 14,
+          "sugar": 5,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 1
+        },
+        {
+          "name": "감자튀김&케찹",
+          "isMain": false,
+          "calorie": 235,
+          "carbohydrate": 32,
+          "sugar": 0,
+          "fiber": 3,
+          "fat": 10,
+          "protein": 3
+        },
+        {
+          "name": "푸실리샐러드",
+          "isMain": false,
+          "calorie": 124,
+          "carbohydrate": 25,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 4
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 12,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 67,
+          "carbohydrate": 4,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 6,
+          "protein": 0
+        },
+        {
+          "name": "피클",
+          "isMain": false,
+          "calorie": 64,
+          "carbohydrate": 15,
+          "sugar": 16,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "오미자차",
+          "isMain": false,
+          "calorie": 49,
+          "carbohydrate": 12,
+          "sugar": 11,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-03-02T21:22:29.993Z"
+}

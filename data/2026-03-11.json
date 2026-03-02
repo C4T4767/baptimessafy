@@ -1,0 +1,164 @@
+{
+  "date": "2026-03-11",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "닭갈비",
+      "courseName": "A:한식",
+      "setName": "닭갈비&조랭이떡미역국",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260311/s20190321122825.png",
+      "nutrition": [
+        {
+          "name": "닭갈비",
+          "isMain": true,
+          "calorie": 465,
+          "carbohydrate": 50,
+          "sugar": 14,
+          "fiber": 4,
+          "fat": 18,
+          "protein": 25
+        },
+        {
+          "name": "혼합잡곡밥",
+          "isMain": false,
+          "calorie": 355,
+          "carbohydrate": 80,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "조랭이떡미역국",
+          "isMain": false,
+          "calorie": 95,
+          "carbohydrate": 18,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 2,
+          "protein": 2
+        },
+        {
+          "name": "잡채",
+          "isMain": false,
+          "calorie": 212,
+          "carbohydrate": 38,
+          "sugar": 6,
+          "fiber": 0,
+          "fat": 6,
+          "protein": 1
+        },
+        {
+          "name": "멕시칸샐러드",
+          "isMain": false,
+          "calorie": 192,
+          "carbohydrate": 14,
+          "sugar": 5,
+          "fiber": 1,
+          "fat": 12,
+          "protein": 6
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 20,
+          "carbohydrate": 5,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "김치나베돈가스",
+      "courseName": "B:일품",
+      "setName": "김치나베돈가스&콘버터구이",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260311/s20250903185512.png",
+      "nutrition": [
+        {
+          "name": "김치나베돈가스",
+          "isMain": true,
+          "calorie": 528,
+          "carbohydrate": 44,
+          "sugar": 13,
+          "fiber": 3,
+          "fat": 28,
+          "protein": 26
+        },
+        {
+          "name": "혼합잡곡밥",
+          "isMain": false,
+          "calorie": 290,
+          "carbohydrate": 67,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0.4,
+          "protein": 5
+        },
+        {
+          "name": "유부장국",
+          "isMain": false,
+          "calorie": 55,
+          "carbohydrate": 2,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 3.6,
+          "protein": 3
+        },
+        {
+          "name": "콘버터구이",
+          "isMain": false,
+          "calorie": 121,
+          "carbohydrate": 20,
+          "sugar": 9,
+          "fiber": 3,
+          "fat": 4,
+          "protein": 3
+        },
+        {
+          "name": "일식양배추샐러드",
+          "isMain": false,
+          "calorie": 11,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 20,
+          "carbohydrate": 5,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-03-02T21:22:32.604Z"
+}
