@@ -70,7 +70,7 @@
           "protein": 1
         },
         {
-          "name": "아이스티",
+          "name": "아이스티(복숭아맛)",
           "isMain": false,
           "calorie": 49,
           "carbohydrate": 8,
@@ -85,7 +85,7 @@
       "name": "열무비빔국수",
       "courseName": "B:일품",
       "setName": "열무비빔국수&해물파전",
-      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260309/s20250807171244.jpg",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260309/s20250509103126.png",
       "nutrition": [
         {
           "name": "열무비빔국수",
@@ -170,5 +170,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-03-02T21:22:30.940Z"
+  "updatedAt": "2026-03-03T21:23:05.932Z"
 }
