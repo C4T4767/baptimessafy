@@ -1,0 +1,164 @@
+{
+  "date": "2026-03-13",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "설렁탕",
+      "courseName": "A:한식",
+      "setName": "설렁탕&깻잎고기전",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260313/s20220217165614.png",
+      "nutrition": [
+        {
+          "name": "설렁탕",
+          "isMain": true,
+          "calorie": 172,
+          "carbohydrate": 17,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 6,
+          "protein": 11
+        },
+        {
+          "name": "보리밥",
+          "isMain": false,
+          "calorie": 397,
+          "carbohydrate": 91,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 8
+        },
+        {
+          "name": "깻잎고기전",
+          "isMain": false,
+          "calorie": 125,
+          "carbohydrate": 5,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 9,
+          "protein": 6
+        },
+        {
+          "name": "청포묵무침",
+          "isMain": false,
+          "calorie": 35,
+          "carbohydrate": 6,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0.9,
+          "protein": 1
+        },
+        {
+          "name": "오이맛고추된장무침",
+          "isMain": false,
+          "calorie": 24,
+          "carbohydrate": 4,
+          "sugar": 1,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "석박지",
+          "isMain": false,
+          "calorie": 36,
+          "carbohydrate": 8,
+          "sugar": 3,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "식혜",
+          "isMain": false,
+          "calorie": 55,
+          "carbohydrate": 14,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "명태회냉면",
+      "courseName": "B:일품",
+      "setName": "명태회냉면&찐만두",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260313/s20250918100929.png",
+      "nutrition": [
+        {
+          "name": "명태회냉면",
+          "isMain": true,
+          "calorie": 952,
+          "carbohydrate": 151,
+          "sugar": 7,
+          "fiber": 11,
+          "fat": 22,
+          "protein": 38
+        },
+        {
+          "name": "사골온육수",
+          "isMain": false,
+          "calorie": 11,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "미니보리밥&쌀밥",
+          "isMain": false,
+          "calorie": 198,
+          "carbohydrate": 46,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 4
+        },
+        {
+          "name": "찐만두",
+          "isMain": false,
+          "calorie": 359,
+          "carbohydrate": 50,
+          "sugar": 7,
+          "fiber": 1,
+          "fat": 12,
+          "protein": 11
+        },
+        {
+          "name": "냉면김치",
+          "isMain": false,
+          "calorie": 30,
+          "carbohydrate": 7,
+          "sugar": 6,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "열무김치",
+          "isMain": false,
+          "calorie": 34,
+          "carbohydrate": 5,
+          "sugar": 1,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "식혜",
+          "isMain": false,
+          "calorie": 88,
+          "carbohydrate": 21,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-03-04T21:23:20.161Z"
+}
