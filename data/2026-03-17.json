@@ -1,0 +1,174 @@
+{
+  "date": "2026-03-17",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "오징어고추장불고기",
+      "courseName": "A:한식",
+      "setName": "오징어고추장불고기&계란찜",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260317/s20250818055703.png",
+      "nutrition": [
+        {
+          "name": "오징어고추장불고기",
+          "isMain": true,
+          "calorie": 259,
+          "carbohydrate": 21,
+          "sugar": 9,
+          "fiber": 3,
+          "fat": 7,
+          "protein": 28
+        },
+        {
+          "name": "흑미밥",
+          "isMain": false,
+          "calorie": 354,
+          "carbohydrate": 81,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 7
+        },
+        {
+          "name": "건새우아욱된장국",
+          "isMain": false,
+          "calorie": 52,
+          "carbohydrate": 5,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 2,
+          "protein": 5
+        },
+        {
+          "name": "계란찜",
+          "isMain": false,
+          "calorie": 127,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 8,
+          "protein": 12
+        },
+        {
+          "name": "매콤사각어묵볶음",
+          "isMain": false,
+          "calorie": 138,
+          "carbohydrate": 16,
+          "sugar": 5,
+          "fiber": 0,
+          "fat": 5,
+          "protein": 8
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 20,
+          "carbohydrate": 5,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "치킨마요덮밥",
+      "courseName": "B:일품",
+      "setName": "치킨마요덮밥&미니우동",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260317/s20250822094006.png",
+      "nutrition": [
+        {
+          "name": "치킨마요덮밥",
+          "isMain": true,
+          "calorie": 921,
+          "carbohydrate": 121,
+          "sugar": 13,
+          "fiber": 2,
+          "fat": 37,
+          "protein": 27
+        },
+        {
+          "name": "미니우동",
+          "isMain": false,
+          "calorie": 108,
+          "carbohydrate": 21,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 4
+        },
+        {
+          "name": "고구마샐러드",
+          "isMain": false,
+          "calorie": 152,
+          "carbohydrate": 23,
+          "sugar": 12,
+          "fiber": 0,
+          "fat": 6,
+          "protein": 1
+        },
+        {
+          "name": "매콤사각어묵볶음",
+          "isMain": false,
+          "calorie": 138,
+          "carbohydrate": 16,
+          "sugar": 5,
+          "fiber": 0,
+          "fat": 4,
+          "protein": 8
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 12,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 74,
+          "carbohydrate": 4,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 6,
+          "protein": 0
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 20,
+          "carbohydrate": 5,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-03-08T21:13:21.272Z"
+}
