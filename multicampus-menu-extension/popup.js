@@ -466,6 +466,27 @@ const DEFAULT_LINKS = [
 let quickLinks = []
 let isEditMode = false
 let isExpanded = false
+// 드래그 정렬 상태값
+let draggedLinkId = null
+// 기본 브라우저 ghost 이미지 숨김용 1x1 이미지
+let invisibleDragImage = null
+// 커스텀 드래그 미리보기 엘리먼트
+let dragPreviewEl = null
+
+// 팝업 영역 전체에서 dragover/drop 기본동작을 막아 커서 상태(금지/링크 표시) 깜빡임 완화
+document.addEventListener('dragover', (e) => {
+    if (!isEditMode || !draggedLinkId) return
+    e.preventDefault()
+    if (e.dataTransfer) {
+        e.dataTransfer.dropEffect = 'move'
+    }
+    moveDragPreview(e)
+})
+
+document.addEventListener('drop', (e) => {
+    if (!isEditMode || !draggedLinkId) return
+    e.preventDefault()
+})
 
 function initQuickLinks() {
     chrome.storage.sync.get({ quickLinks: DEFAULT_LINKS }, (data) => {
@@ -482,13 +503,16 @@ function saveQuickLinks() {
 
 function renderQuickLinks() {
     const grid = document.getElementById('quickLinksGrid')
+    const panel = document.getElementById('quickLinksPanel')
     if (!grid) return
     grid.innerHTML = ''
 
     if (isEditMode) {
         grid.classList.add('edit-mode')
+        if (panel) panel.classList.add('edit-mode')
     } else {
         grid.classList.remove('edit-mode')
+        if (panel) panel.classList.remove('edit-mode')
     }
 
     const allItems = []
@@ -496,6 +520,7 @@ function renderQuickLinks() {
     quickLinks.forEach(link => {
         const item = document.createElement('a')
         item.className = 'quick-link-item user-link-item'
+        item.draggable = isEditMode
 
         item.onclick = (e) => {
             if (isEditMode) {
@@ -525,6 +550,10 @@ function renderQuickLinks() {
             </div>
             <span class="quick-link-name">${link.name}</span>
         `
+        const iconImg = item.querySelector('.quick-link-icon img')
+        if (iconImg) {
+            iconImg.draggable = false
+        }
 
         if (isEditMode && !link.isDefault) {
             const badge = item.querySelector('.delete-badge')
@@ -536,6 +565,50 @@ function renderQuickLinks() {
                     saveQuickLinks()
                 }
             }
+        }
+
+        if (isEditMode) {
+            item.addEventListener('dragstart', (e) => {
+                draggedLinkId = link.id
+                item.classList.add('dragging')
+                // "카드 통째로 따라오는" 시각 피드백용 프리뷰 생성
+                createDragPreview(item)
+                if (e.dataTransfer) {
+                    e.dataTransfer.effectAllowed = 'move'
+                    e.dataTransfer.setData('text/plain', link.id)
+                    // 브라우저 기본 ghost는 숨기고 커스텀 프리뷰만 노출
+                    e.dataTransfer.setDragImage(getInvisibleDragImage(), 0, 0)
+                }
+                moveDragPreview(e)
+            })
+
+            item.addEventListener('dragend', () => {
+                item.classList.remove('dragging')
+                draggedLinkId = null
+                grid.querySelectorAll('.drag-over').forEach(el => el.classList.remove('drag-over'))
+                removeDragPreview()
+            })
+
+            item.addEventListener('dragover', (e) => {
+                if (!draggedLinkId || draggedLinkId === link.id) return
+                e.preventDefault()
+                if (e.dataTransfer) {
+                    e.dataTransfer.dropEffect = 'move'
+                }
+                moveDragPreview(e)
+                item.classList.add('drag-over')
+            })
+
+            item.addEventListener('dragleave', () => {
+                item.classList.remove('drag-over')
+            })
+
+            item.addEventListener('drop', (e) => {
+                e.preventDefault()
+                item.classList.remove('drag-over')
+                // source -> target 위치로 배열 순서를 바꿔 저장
+                reorderQuickLink(draggedLinkId, link.id)
+            })
         }
 
         allItems.push(item)
@@ -680,5 +753,62 @@ if (saveLinkBtn) {
         document.getElementById('addLinkForm').classList.add('hidden')
         nameInput.value = ''
         urlInput.value = ''
+    }
+}
+
+function reorderQuickLink(sourceId, targetId) {
+    if (!sourceId || !targetId || sourceId === targetId) {
+        return
+    }
+
+    const fromIndex = quickLinks.findIndex(link => link.id === sourceId)
+    const toIndex = quickLinks.findIndex(link => link.id === targetId)
+    if (fromIndex < 0 || toIndex < 0) {
+        return
+    }
+
+    const [moved] = quickLinks.splice(fromIndex, 1)
+    quickLinks.splice(toIndex, 0, moved)
+    saveQuickLinks()
+}
+
+function getInvisibleDragImage() {
+    if (invisibleDragImage) {
+        return invisibleDragImage
+    }
+
+    const canvas = document.createElement('canvas')
+    canvas.width = 1
+    canvas.height = 1
+    invisibleDragImage = canvas
+    return invisibleDragImage
+}
+
+function createDragPreview(sourceItem) {
+    removeDragPreview()
+
+    const preview = sourceItem.cloneNode(true)
+    preview.classList.add('quick-link-drag-preview')
+    // 프리뷰에서는 삭제 배지를 숨겨 시각적 노이즈 최소화
+    preview.querySelectorAll('.delete-badge').forEach(badge => badge.remove())
+    preview.style.width = `${sourceItem.offsetWidth}px`
+
+    dragPreviewEl = preview
+    document.body.appendChild(dragPreviewEl)
+}
+
+function moveDragPreview(e) {
+    if (!dragPreviewEl || typeof e.clientX !== 'number' || typeof e.clientY !== 'number') {
+        return
+    }
+
+    dragPreviewEl.style.left = `${e.clientX}px`
+    dragPreviewEl.style.top = `${e.clientY}px`
+}
+
+function removeDragPreview() {
+    if (dragPreviewEl) {
+        dragPreviewEl.remove()
+        dragPreviewEl = null
     }
 }
