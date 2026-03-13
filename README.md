@@ -1,4 +1,5 @@
 # 멀티캠퍼스 식단 자동화 시스템
+<img width="640" height="400" alt="스크린샷 2026-03-14 004514" src="https://github.com/user-attachments/assets/664ecca0-3c18-4b21-a259-aed56901d3ac" />
 
 멀티캠퍼스 **20층 / 10층 식당 식단 정보를 자동으로 수집·가공·배포**하는 저장소입니다.  
 수집한 식단 데이터는 JSON으로 관리되며, Chrome Extension에서 바로 사용할 수 있습니다.
