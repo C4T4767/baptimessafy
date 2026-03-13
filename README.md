@@ -1,71 +1,220 @@
 # 멀티캠퍼스 식단 자동화 시스템
 
-멀티캠퍼스 20층 및 10층 식당의 식단 정보를 자동으로 수집하고 제공하는 시스템입니다.
+멀티캠퍼스 **20층 / 10층 식당 식단 정보를 자동으로 수집·가공·배포**하는 저장소입니다.  
+수집한 식단 데이터는 JSON으로 관리되며, Chrome Extension에서 바로 사용할 수 있습니다.
 
-## 📋 개요
+---
 
-- **20층 식단**: Welstory API를 통해 자동으로 7일치 식단 데이터 수집
-- **10층 식단**: PNG 이미지를 Google Gemini API로 파싱하여 JSON 변환
+# 📋 개요
 
-## 🏗️ 프로젝트 구조
+이 프로젝트는 두 가지 식단 소스를 자동화합니다.
+
+### 20층 식단
+- Welstory API 기반
+- 매일 자동 실행
+- 최근 7일치 식단 데이터를 `data/`에 저장
+
+### 10층 식단
+- Mattermost에 업로드된 주간 식단표 PNG 기반
+- GitHub Actions가 이미지를 자동 수집
+- Google Gemini API로 이미지 파싱
+- 결과 JSON을 `data-10f/`에 저장
+
+---
+
+# 🏗️ 프로젝트 구조
 
 ```
 .
 ├── .github/
 │   └── workflows/
-│       ├── fetch-menu.yml          # 20층 식단 자동 수집
-│       └── parse-10f-menu.yml      # 10층 식단 PNG 파싱
-├── data/                           # 20층 식단 JSON 파일 (YYYY-MM-DD.json)
-├── data-10f/                       # 10층 식단 JSON 파일 (YYYY-MM-DD.json)
-├── images/                         # 10층 식단 PNG 이미지 업로드 폴더
-├── multicampus-menu-extension/     # Chrome Extension
-├── fetch-menu.js                   # 20층 식단 수집 스크립트
-└── parse-10f-menu.js              # 10층 식단 파싱 스크립트
+│       ├── fetch-menu.yml
+│       ├── fetch-ssafy-menu.yml
+│       └── parse-10f-menu.yml
+├── data/
+├── data-10f/
+├── images/
+├── multicampus-menu-extension/
+├── fetch-menu.js
+└── parse-10f-menu.js
 ```
 
-## 🚀 설정 방법
+---
 
-### 1. GitHub Secrets 설정
+# ⚙️ 동작 방식
 
-#### 20층 식단용 (Welstory API)
-- `WELSTORY_USERNAME`: Welstory 계정 아이디
-- `WELSTORY_PASSWORD`: Welstory 계정 비밀번호
+## 20층 식단 수집 흐름
 
-#### 10층 식단용 (Google Gemini API)
-1. [Google AI Studio](https://aistudio.google.com/app/apikey)에서 API 키 생성
-2. GitHub Secrets에 `GEMINI_API_KEY` 추가
+```
+Welstory API
+   ↓
+GitHub Actions
+   ↓
+fetch-menu.js
+   ↓
+data/YYYY-MM-DD.json 생성
+```
 
-> 💡 **무료**: 월 1,500건 무료! (RPM 15 제한)
+## 10층 식단 수집 및 파싱 흐름
 
-### 2. 20층 식단 자동 수집
+```
+Mattermost 식단표 업로드
+   ↓
+GitHub Actions (fetch-ssafy-menu.yml)
+   ↓
+images/ 에 최신 10층 식단표 PNG 저장
+   ↓
+GitHub Actions (parse-10f-menu.yml)
+   ↓
+parse-10f-menu.js 실행
+   ↓
+data-10f/YYYY-MM-DD.json 생성
+```
 
-**자동 실행**: 매일 오전 6시 (KST) 자동으로 실행되어 7일치 식단 데이터를 `data/` 폴더에 저장합니다.
+---
 
-**수동 실행**: GitHub Actions 탭에서 "Fetch Menu Data" 워크플로우를 수동으로 실행할 수 있습니다.
+# 🚀 설정 방법
 
-### 3. 10층 식단 PNG 파싱
+## 1️⃣ GitHub Secrets 설정
 
-**사용 방법**:
-1. 10층 식단 PNG 이미지를 `images/` 폴더에 추가
-2. Git에 커밋 및 푸시
-3. GitHub Actions가 자동으로 실행되어 PNG를 파싱하고 JSON 생성
-4. 생성된 JSON 파일이 `data-10f/` 폴더에 자동으로 커밋됨
+## 20층 식단용
 
-**예시**:
-```bash
-# PNG 파일을 images/ 폴더에 복사
-cp "멀티캠퍼스(10층)_공존식단_26년_1월_2주차.png" images/
+```
+WELSTORY_USERNAME
+WELSTORY_PASSWORD
+```
 
-# Git에 추가 및 푸시
+## 10층 식단 파싱용
+
+```
+GEMINI_API_KEY
+```
+
+API Key 발급
+
+```
+https://aistudio.google.com/app/apikey
+```
+
+## 10층 자동 수집용
+
+```
+MM_LOGIN_JSON
+GH_PAT
+```
+
+### MM_LOGIN_JSON 예시
+
+```
+{
+  "login_id": "your_id",
+  "password": "your_password",
+  "token": "",
+  "deviceId": ""
+}
+```
+
+### GH_PAT 권한
+
+```
+Repository access: Only this repository
+Permissions: Contents -> Read and Write
+```
+
+---
+
+# 🤖 자동 실행 워크플로
+
+## 1️⃣ 20층 식단 자동 수집
+
+```
+workflow: fetch-menu.yml
+schedule: 매일 실행
+output: data/YYYY-MM-DD.json
+```
+
+## 2️⃣ 10층 식단 이미지 자동 수집
+
+```
+workflow: fetch-ssafy-menu.yml
+schedule: 평일 오전 9시
+```
+
+동작
+
+```
+Mattermost 로그인
+→ 최신 식단표 게시글 조회
+→ 10층 PNG 선택
+→ images/ 저장
+→ Git push
+```
+
+## 3️⃣ 10층 식단 PNG 파싱
+
+```
+workflow: parse-10f-menu.yml
+trigger: images/** 변경
+```
+
+동작
+
+```
+PNG 파싱
+→ JSON 생성
+→ data-10f 저장
+→ 성공 시 images PNG 삭제
+```
+
+---
+
+# 🧪 수동 실행 방법
+
+## 20층 식단 수동 실행
+
+GitHub Actions 탭에서
+
+```
+Fetch Menu Data
+```
+
+워크플로 실행
+
+---
+
+## 10층 식단 수동 실행
+
+### 방법 1
+
+GitHub Actions에서
+
+```
+Fetch SSAFY 10F Menu Image
+```
+
+워크플로 실행
+
+### 방법 2
+
+```
+cp "멀티캠퍼스(10층)_주간식단.png" images/
+
 git add images/
-git commit -m "Add 10F menu for week 2"
+git commit -m "Add 10F menu image"
 git push
 ```
 
-## 📊 JSON 데이터 형식
+---
 
-### 20층 식단 (data/YYYY-MM-DD.json)
-```json
+# 📊 JSON 데이터 형식
+
+## 20층 식단
+
+```
+data/YYYY-MM-DD.json
+```
+
+```
 {
   "date": "2026-01-06",
   "restaurant": "멀티캠퍼스",
@@ -74,26 +223,20 @@ git push
     {
       "name": "대파육개장",
       "courseName": "A:한식",
-      "setName": "대파육개장&오징어완자전",
-      "photoUrl": "http://...",
-      "nutrition": [
-        {
-          "name": "대파육개장",
-          "isMain": true,
-          "calorie": 253,
-          "carbohydrate": 8,
-          "protein": 18,
-          ...
-        }
-      ]
+      "setName": "대파육개장&오징어완자전"
     }
   ],
   "updatedAt": "2026-01-06T04:26:27.220Z"
 }
 ```
 
-### 10층 식단 (data-10f/YYYY-MM-DD.json)
-```json
+## 10층 식단
+
+```
+data-10f/YYYY-MM-DD.json
+```
+
+```
 {
   "date": "2026-01-06",
   "restaurant": "멀티캠퍼스 10층",
@@ -101,47 +244,71 @@ git push
   "meals": [
     {
       "name": "메뉴 이름",
-      "courseName": "10층 식단",
-      "setName": "공존식단",
-      "photoUrl": "",
-      "nutrition": []
+      "courseName": "10층 식단"
     }
   ],
   "updatedAt": "2026-01-06T04:26:27.220Z"
 }
 ```
 
-## 🔧 로컬 테스트
+---
 
-### 20층 식단 수집
-```bash
-# 환경 변수 설정
+# 🧪 로컬 테스트
+
+## 20층 식단 수집
+
+```
 export WELSTORY_USERNAME="your_username"
 export WELSTORY_PASSWORD="your_password"
 
-# 스크립트 실행
 node fetch-menu.js
 ```
 
-### 10층 식단 파싱
-```bash
-# Gemini API 키 설정
+## 10층 식단 파싱
+
+```
 export GEMINI_API_KEY="your_gemini_api_key"
 
-# 스크립트 실행
-node parse-10f-menu.js images/멀티캠퍼스(10층)_공존식단_26년_1월_2주차.png
+node parse-10f-menu.js images/menu.png
 ```
 
-## 🌐 Chrome Extension
+---
 
-`multicampus-menu-extension/` 폴더에 있는 Chrome Extension을 사용하면 브라우저에서 식단을 편리하게 확인할 수 있습니다.
+# 🌐 Chrome Extension
 
-자세한 설치 방법은 `multicampus-menu-extension/README.md`를 참고하세요.
 
-## 📝 라이선스
+### [Bap Time with SSAFY](https://chromewebstore.google.com/detail/beminaoknafglpdlnjlconallpkhfgdm?utm_source=item-share-cb)
+
+브라우저에서 식단 확인 가능
+
+---
+
+# ⚠️ 주의 사항
+
+```
+images/ 폴더는 임시 저장 폴더입니다.
+파싱 성공 시 PNG는 삭제됩니다.
+최종 데이터는 data-10f 폴더에 저장됩니다.
+```
+
+```
+MM_LOGIN_JSON에는 비밀번호가 포함되므로
+GitHub Secrets에만 저장해야 합니다.
+```
+
+```
+GH_PAT는 workflow chain을 위해 사용됩니다.
+권한은 최소로 설정하세요.
+```
+
+---
+
+# 📄 라이선스
 
 MIT License
 
-## 🤝 기여
+---
 
-이슈 및 Pull Request를 환영합니다!
+# 🤝 기여
+
+Issue 및 Pull Request 환영합니다.
