@@ -19,7 +19,7 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y jq
 
       - name: Prepare directory
-        run: mkdir -p tmpimage
+        run: mkdir -p images
 
       - name: Create login.json
         run: |
@@ -108,7 +108,7 @@ jobs:
         run: |
           set -e
 
-          if [ -f "tmpimage/${{ steps.pick.outputs.file_name }}" ]; then
+          if [ -f "images/${{ steps.pick.outputs.file_name }}" ]; then
             echo "already_exists=true" >> $GITHUB_OUTPUT
           else
             echo "already_exists=false" >> $GITHUB_OUTPUT
@@ -122,9 +122,9 @@ jobs:
           curl -L -sS \
             "https://meeting.ssafy.com/api/v4/files/${{ steps.pick.outputs.file_id }}" \
             -H "Authorization: Bearer ${{ steps.login.outputs.token }}" \
-            -o "tmpimage/${{ steps.pick.outputs.file_name }}"
+            -o "images/${{ steps.pick.outputs.file_name }}"
 
-          ls -lh tmpimage
+          ls -lh images
 
       - name: Commit and push
         if: steps.pick.outputs.found == 'true' && steps.dupcheck.outputs.already_exists == 'false'
@@ -134,7 +134,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
 
-          git add tmpimage
+          git add images
 
           if git diff --cached --quiet; then
             echo "No changes to commit"
