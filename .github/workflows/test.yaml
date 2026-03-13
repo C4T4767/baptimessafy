@@ -1,0 +1,146 @@
+name: Fetch SSAFY 10F Menu Image
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"   # 매일 09:00 KST
+
+jobs:
+  fetch-menu:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Prepare directory
+        run: mkdir -p tmpimage
+
+      - name: Create login.json
+        run: |
+          cat > login.json <<'EOF'
+          ${{ secrets.MM_LOGIN_JSON }}
+          EOF
+
+      - name: Login to Mattermost
+        id: login
+        run: |
+          set -e
+
+          RESPONSE_HEADERS=$(mktemp)
+          RESPONSE_BODY=$(mktemp)
+
+          curl -sS -D "$RESPONSE_HEADERS" \
+            -X POST "https://meeting.ssafy.com/api/v4/users/login" \
+            -H "Content-Type: application/json" \
+            --data-binary @login.json \
+            -o "$RESPONSE_BODY"
+
+          TOKEN=$(grep -i '^Token:' "$RESPONSE_HEADERS" | head -n 1 | awk '{print $2}' | tr -d '\r')
+
+          if [ -z "$TOKEN" ]; then
+            echo "Login failed"
+            echo "=== headers ==="
+            cat "$RESPONSE_HEADERS"
+            echo "=== body ==="
+            cat "$RESPONSE_BODY"
+            exit 1
+          fi
+
+          echo "::add-mask::$TOKEN"
+          echo "token=$TOKEN" >> $GITHUB_OUTPUT
+
+      - name: Fetch thread
+        run: |
+          set -e
+
+          curl -sS \
+            "https://meeting.ssafy.com/api/v4/posts/1e1qeg3ujp8tu87kobhqweq1rh/thread?skipFetchThreads=false&collapsedThreads=false&collapsedThreadsExtended=false&direction=down&perPage=60" \
+            -H "Authorization: Bearer ${{ steps.login.outputs.token }}" \
+            -o thread.json
+
+      - name: Pick latest 10F image
+        id: pick
+        run: |
+          set -e
+
+          FILE_JSON=$(jq -c '
+            .posts
+            | to_entries
+            | map(select(.value.message | test("식단표 공유")))
+            | map(select((.value.metadata.files // []) | length > 0))
+            | sort_by(.value.create_at)
+            | reverse
+            | map({
+                create_at: .value.create_at,
+                file: (
+                  (.value.metadata.files // [])
+                  | map(select(.name | test("10층")))
+                  | map(select(.mime_type == "image/png"))
+                  | .[0]
+                )
+              })
+            | map(select(.file != null))
+            | .[0].file
+          ' thread.json)
+
+          FILE_ID=$(echo "$FILE_JSON" | jq -r '.id // empty')
+          FILE_NAME=$(echo "$FILE_JSON" | jq -r '.name // empty')
+
+          if [ -z "$FILE_ID" ] || [ -z "$FILE_NAME" ]; then
+            echo "No latest 10F image found"
+            echo "found=false" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          echo "found=true" >> $GITHUB_OUTPUT
+          echo "file_id=$FILE_ID" >> $GITHUB_OUTPUT
+          echo "file_name=$FILE_NAME" >> $GITHUB_OUTPUT
+
+      - name: Skip if already exists
+        if: steps.pick.outputs.found == 'true'
+        id: dupcheck
+        run: |
+          set -e
+
+          if [ -f "tmpimage/${{ steps.pick.outputs.file_name }}" ]; then
+            echo "already_exists=true" >> $GITHUB_OUTPUT
+          else
+            echo "already_exists=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Download image
+        if: steps.pick.outputs.found == 'true' && steps.dupcheck.outputs.already_exists == 'false'
+        run: |
+          set -e
+
+          curl -L -sS \
+            "https://meeting.ssafy.com/api/v4/files/${{ steps.pick.outputs.file_id }}" \
+            -H "Authorization: Bearer ${{ steps.login.outputs.token }}" \
+            -o "tmpimage/${{ steps.pick.outputs.file_name }}"
+
+          ls -lh tmpimage
+
+      - name: Commit and push
+        if: steps.pick.outputs.found == 'true' && steps.dupcheck.outputs.already_exists == 'false'
+        run: |
+          set -e
+
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          git add tmpimage
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Add latest SSAFY 10F menu image"
+          git pull --rebase origin main
+          git push origin main
