@@ -14,6 +14,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.GH_PAT }}
 
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
@@ -45,9 +46,6 @@ jobs:
 
           if [ -z "$TOKEN" ]; then
             echo "Login failed"
-            echo "=== headers ==="
-            cat "$RESPONSE_HEADERS"
-            echo "=== body ==="
             cat "$RESPONSE_BODY"
             exit 1
           fi
@@ -128,6 +126,8 @@ jobs:
 
       - name: Commit and push
         if: steps.pick.outputs.found == 'true' && steps.dupcheck.outputs.already_exists == 'false'
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           set -e
 
@@ -142,5 +142,6 @@ jobs:
           fi
 
           git commit -m "Add latest SSAFY 10F menu image"
-          git pull --rebase origin main
-          git push origin main
+
+          git pull --rebase https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git main
+          git push https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git HEAD:main
