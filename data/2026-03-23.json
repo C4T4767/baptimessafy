@@ -1,0 +1,174 @@
+{
+  "date": "2026-03-23",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "비지찌개",
+      "courseName": "A:한식",
+      "setName": "비지찌개&바베큐바조림",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260323/s20240426084400.png",
+      "nutrition": [
+        {
+          "name": "비지찌개",
+          "isMain": true,
+          "calorie": 121,
+          "carbohydrate": 10,
+          "sugar": 4,
+          "fiber": 9,
+          "fat": 6,
+          "protein": 7
+        },
+        {
+          "name": "혼합잡곡밥",
+          "isMain": false,
+          "calorie": 355,
+          "carbohydrate": 80,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "바베큐바조림",
+          "isMain": false,
+          "calorie": 132,
+          "carbohydrate": 5,
+          "sugar": 5,
+          "fiber": 0,
+          "fat": 8,
+          "protein": 9
+        },
+        {
+          "name": "호박새우젓볶음",
+          "isMain": false,
+          "calorie": 59,
+          "carbohydrate": 8,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 3,
+          "protein": 2
+        },
+        {
+          "name": "토마토양상추샐러드&D",
+          "isMain": false,
+          "calorie": 139,
+          "carbohydrate": 10,
+          "sugar": 6,
+          "fiber": 1,
+          "fat": 11,
+          "protein": 1
+        },
+        {
+          "name": "건파래볶음",
+          "isMain": false,
+          "calorie": 28,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 2
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "오미자차",
+          "isMain": false,
+          "calorie": 49,
+          "carbohydrate": 12,
+          "sugar": 11,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "중국식볶음밥&자장소스",
+      "courseName": "B:일품",
+      "setName": "중국식볶음밥&자장소스&깐풍기",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260323/s20230817125805.png",
+      "nutrition": [
+        {
+          "name": "중국식볶음밥&자장소스",
+          "isMain": true,
+          "calorie": 545,
+          "carbohydrate": 98,
+          "sugar": 8,
+          "fiber": 1,
+          "fat": 10,
+          "protein": 16
+        },
+        {
+          "name": "짬뽕국",
+          "isMain": false,
+          "calorie": 88,
+          "carbohydrate": 9,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 4,
+          "protein": 5
+        },
+        {
+          "name": "깐풍기",
+          "isMain": false,
+          "calorie": 350,
+          "carbohydrate": 29,
+          "sugar": 15,
+          "fiber": 1,
+          "fat": 21,
+          "protein": 12
+        },
+        {
+          "name": "땅콩튀김",
+          "isMain": false,
+          "calorie": 228,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 3,
+          "fat": 21,
+          "protein": 8
+        },
+        {
+          "name": "짜사이채무침",
+          "isMain": false,
+          "calorie": 22,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "오미자차",
+          "isMain": false,
+          "calorie": 49,
+          "carbohydrate": 12,
+          "sugar": 11,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-03-14T21:16:23.574Z"
+}
