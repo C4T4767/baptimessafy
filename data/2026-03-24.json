@@ -1,0 +1,174 @@
+{
+  "date": "2026-03-24",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "장터국밥",
+      "courseName": "A:한식",
+      "setName": "장터국밥&청파래오징어가스",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260324/s20250912090604.png",
+      "nutrition": [
+        {
+          "name": "장터국밥",
+          "isMain": true,
+          "calorie": 489,
+          "carbohydrate": 94,
+          "sugar": 5,
+          "fiber": 8,
+          "fat": 5,
+          "protein": 21
+        },
+        {
+          "name": "보리밥",
+          "isMain": false,
+          "calorie": 397,
+          "carbohydrate": 91,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 8
+        },
+        {
+          "name": "청파래오징어가스&타르타르",
+          "isMain": false,
+          "calorie": 181,
+          "carbohydrate": 10,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 10,
+          "protein": 12
+        },
+        {
+          "name": "잡채",
+          "isMain": false,
+          "calorie": 214,
+          "carbohydrate": 39,
+          "sugar": 5,
+          "fiber": 0,
+          "fat": 6,
+          "protein": 1
+        },
+        {
+          "name": "상추겉절이",
+          "isMain": false,
+          "calorie": 25,
+          "carbohydrate": 5,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "마카로니콘샐러드",
+          "isMain": false,
+          "calorie": 194,
+          "carbohydrate": 13,
+          "sugar": 4,
+          "fiber": 2,
+          "fat": 15,
+          "protein": 3
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "아이스티(복숭아)",
+          "isMain": false,
+          "calorie": 49,
+          "carbohydrate": 8,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 1
+        }
+      ]
+    },
+    {
+      "name": "송계옥닭칼국수",
+      "courseName": "B:일품",
+      "setName": "송계옥닭칼국수&해물파전",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260324/s20260213102038.png",
+      "nutrition": [
+        {
+          "name": "송계옥닭칼국수",
+          "isMain": true,
+          "calorie": 581,
+          "carbohydrate": 77,
+          "sugar": 3,
+          "fiber": 5,
+          "fat": 24,
+          "protein": 21
+        },
+        {
+          "name": "미니보리밥",
+          "isMain": false,
+          "calorie": 238,
+          "carbohydrate": 55,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 5
+        },
+        {
+          "name": "해물파전&초간장",
+          "isMain": false,
+          "calorie": 129,
+          "carbohydrate": 16,
+          "sugar": 2,
+          "fiber": 3,
+          "fat": 5,
+          "protein": 5
+        },
+        {
+          "name": "도라지오이생채",
+          "isMain": false,
+          "calorie": 47,
+          "carbohydrate": 11,
+          "sugar": 6,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "마카로니콘샐러드",
+          "isMain": false,
+          "calorie": 194,
+          "carbohydrate": 13,
+          "sugar": 4,
+          "fiber": 2,
+          "fat": 15,
+          "protein": 3
+        },
+        {
+          "name": "배추겉절이",
+          "isMain": false,
+          "calorie": 34,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 4,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "아이스티(복숭아)",
+          "isMain": false,
+          "calorie": 49,
+          "carbohydrate": 8,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 1
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-03-15T21:17:22.494Z"
+}
