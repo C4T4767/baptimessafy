@@ -1,0 +1,174 @@
+{
+  "date": "2026-03-25",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "돼지고기김치볶음",
+      "courseName": "A:한식",
+      "setName": "돼지고기김치볶음&분홍소시지전",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/main/100026/8500.png",
+      "nutrition": [
+        {
+          "name": "돼지고기김치볶음",
+          "isMain": true,
+          "calorie": 284,
+          "carbohydrate": 15,
+          "sugar": 10,
+          "fiber": 1,
+          "fat": 13,
+          "protein": 24
+        },
+        {
+          "name": "수수밥",
+          "isMain": false,
+          "calorie": 382,
+          "carbohydrate": 87,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "들깨미역국",
+          "isMain": false,
+          "calorie": 48,
+          "carbohydrate": 4,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 3,
+          "protein": 2
+        },
+        {
+          "name": "분홍소시지전&케찹",
+          "isMain": false,
+          "calorie": 203,
+          "carbohydrate": 27,
+          "sugar": 5,
+          "fiber": 2,
+          "fat": 7,
+          "protein": 9
+        },
+        {
+          "name": "명엽채볶음",
+          "isMain": false,
+          "calorie": 125,
+          "carbohydrate": 12,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 11
+        },
+        {
+          "name": "오이생채",
+          "isMain": false,
+          "calorie": 36,
+          "carbohydrate": 7,
+          "sugar": 4,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "불루베리맛홍초",
+          "isMain": false,
+          "calorie": 93,
+          "carbohydrate": 24,
+          "sugar": 13,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "왕새우튀김우동",
+      "courseName": "B:일품",
+      "setName": "왕새우튀김우동&돼지고기땅콩강정",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260325/s20220209123315.png",
+      "nutrition": [
+        {
+          "name": "왕새우튀김우동",
+          "isMain": true,
+          "calorie": 528,
+          "carbohydrate": 87,
+          "sugar": 4,
+          "fiber": 6,
+          "fat": 11,
+          "protein": 16
+        },
+        {
+          "name": "유부양념밥",
+          "isMain": false,
+          "calorie": 278,
+          "carbohydrate": 55,
+          "sugar": 6,
+          "fiber": 0,
+          "fat": 4,
+          "protein": 6
+        },
+        {
+          "name": "돼지고기땅콩강정",
+          "isMain": false,
+          "calorie": 272,
+          "carbohydrate": 33,
+          "sugar": 9,
+          "fiber": 0,
+          "fat": 11,
+          "protein": 9
+        },
+        {
+          "name": "코올슬로",
+          "isMain": false,
+          "calorie": 153,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 1,
+          "fat": 14,
+          "protein": 1
+        },
+        {
+          "name": "무말랭이고춧잎무침",
+          "isMain": false,
+          "calorie": 41,
+          "carbohydrate": 9,
+          "sugar": 1,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "배추겉절이",
+          "isMain": false,
+          "calorie": 34,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 4,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "불루베리맛홍초",
+          "isMain": false,
+          "calorie": 93,
+          "carbohydrate": 24,
+          "sugar": 13,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-03-16T21:27:48.322Z"
+}
