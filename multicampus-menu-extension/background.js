@@ -4,6 +4,15 @@
 // Alarm Helper Functions
 // =========================
 
+const ALARM_SCHEDULE = {
+    'morning-checkin': { hour: 8, minute: 58 },
+    'evening-prepare': { hour: 17, minute: 50 },
+    'evening-checkout': { hour: 18, minute: 0 }
+};
+
+// 예약 시각 기준 10분이 지나면 오래된 알람으로 간주
+const STALE_ALARM_GRACE_MS = 10 * 60 * 1000;
+
 // 다음 평일(월~금) 지정 시:분의 타임스탬프
 function getNextWeekdayTime(hour, minute) {
     const now = new Date();
@@ -34,6 +43,11 @@ function skipWeekendAndReschedule(name, hour, minute) {
     return true; // 주말이라 재예약만
 }
 
+function isStaleAlarm(alarm) {
+    if (typeof alarm.scheduledTime !== 'number') return false;
+    return (Date.now() - alarm.scheduledTime) >= STALE_ALARM_GRACE_MS;
+}
+
 // =========================
 // Alarm Initialization
 // =========================
@@ -57,9 +71,9 @@ function setupAlarms() {
         console.log('기존 알람 모두 제거됨');
 
         // 평일 알람 3종
-        chrome.alarms.create('morning-checkin', { when: getNextWeekdayTime(8, 58) });
-        chrome.alarms.create('evening-prepare', { when: getNextWeekdayTime(17, 50) });
-        chrome.alarms.create('evening-checkout', { when: getNextWeekdayTime(18, 0) });
+        chrome.alarms.create('morning-checkin', { when: getNextWeekdayTime(ALARM_SCHEDULE['morning-checkin'].hour, ALARM_SCHEDULE['morning-checkin'].minute) });
+        chrome.alarms.create('evening-prepare', { when: getNextWeekdayTime(ALARM_SCHEDULE['evening-prepare'].hour, ALARM_SCHEDULE['evening-prepare'].minute) });
+        chrome.alarms.create('evening-checkout', { when: getNextWeekdayTime(ALARM_SCHEDULE['evening-checkout'].hour, ALARM_SCHEDULE['evening-checkout'].minute) });
 
         console.log('모든 알람 설정 완료');
     });
@@ -72,6 +86,16 @@ function setupAlarms() {
 chrome.alarms.onAlarm.addListener((alarm) => {
     console.log('알람 발생:', alarm.name);
 
+    const schedule = ALARM_SCHEDULE[alarm.name];
+    if (!schedule) return; // 등록되지 않은 알람은 무시
+
+    // 브라우저/확장 재시작 직후 과거 알람이 늦게 들어오면 스킵하고 다음 평일로 재예약
+    if (isStaleAlarm(alarm)) {
+        chrome.alarms.create(alarm.name, { when: getNextWeekdayTime(schedule.hour, schedule.minute) });
+        console.log(`오래된 알람 스킵: "${alarm.name}" (${new Date(alarm.scheduledTime).toLocaleString()})`);
+        return;
+    }
+
     let title = '';
     let message = '';
     let iconUrl = 'icons/icon128.png';
@@ -79,24 +103,24 @@ chrome.alarms.onAlarm.addListener((alarm) => {
 
     if (alarm.name === 'morning-checkin') {
         // 주말 무음: 재예약만
-        if (skipWeekendAndReschedule('morning-checkin', 8, 58)) return;
+        if (skipWeekendAndReschedule('morning-checkin', schedule.hour, schedule.minute)) return;
 
         // 다음 평일 재예약
-        chrome.alarms.create('morning-checkin', { when: getNextWeekdayTime(8, 58) });
+        chrome.alarms.create('morning-checkin', { when: getNextWeekdayTime(schedule.hour, schedule.minute) });
         title = '☀️ 입실 체크';
         message = '입실하셨나요? 좋은 하루 되세요! 😊';
         notificationId = 'morning-noti';
     } else if (alarm.name === 'evening-prepare') {
-        if (skipWeekendAndReschedule('evening-prepare', 17, 50)) return;
+        if (skipWeekendAndReschedule('evening-prepare', schedule.hour, schedule.minute)) return;
 
-        chrome.alarms.create('evening-prepare', { when: getNextWeekdayTime(17, 50) });
+        chrome.alarms.create('evening-prepare', { when: getNextWeekdayTime(schedule.hour, schedule.minute) });
         title = '⏰ 퇴실 준비';
         message = '곧 퇴실 시간입니다! 준비하세요~ 🎒';
         notificationId = 'evening-prepare-noti';
     } else if (alarm.name === 'evening-checkout') {
-        if (skipWeekendAndReschedule('evening-checkout', 18, 0)) return;
+        if (skipWeekendAndReschedule('evening-checkout', schedule.hour, schedule.minute)) return;
 
-        chrome.alarms.create('evening-checkout', { when: getNextWeekdayTime(18, 0) });
+        chrome.alarms.create('evening-checkout', { when: getNextWeekdayTime(schedule.hour, schedule.minute) });
         title = '🌙 퇴실 체크';
         message = '퇴실하세요!! 오늘도 수고하셨습니다! 👏';
         notificationId = 'evening-checkout-noti';
