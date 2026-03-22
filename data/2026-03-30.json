@@ -1,0 +1,164 @@
+{
+  "date": "2026-03-30",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "우삼겹된장덮밥",
+      "courseName": "A:한식",
+      "setName": "우삼겹된장덮밥&햄계란말이",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260330/s20250910092608.png",
+      "nutrition": [
+        {
+          "name": "우삼겹된장덮밥",
+          "isMain": true,
+          "calorie": 512,
+          "carbohydrate": 90,
+          "sugar": 1,
+          "fiber": 5,
+          "fat": 10,
+          "protein": 18
+        },
+        {
+          "name": "오징어뭇국",
+          "isMain": false,
+          "calorie": 107,
+          "carbohydrate": 7,
+          "sugar": 3,
+          "fiber": 2,
+          "fat": 3,
+          "protein": 13
+        },
+        {
+          "name": "햄계란말이",
+          "isMain": false,
+          "calorie": 174,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 11,
+          "protein": 15
+        },
+        {
+          "name": "어묵채매운볶음",
+          "isMain": false,
+          "calorie": 141,
+          "carbohydrate": 16,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 5,
+          "protein": 8
+        },
+        {
+          "name": "깻잎순겉절이",
+          "isMain": false,
+          "calorie": 28,
+          "carbohydrate": 5,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "석류차",
+          "isMain": false,
+          "calorie": 150,
+          "carbohydrate": 37,
+          "sugar": 35,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "김치날치알밥",
+      "courseName": "B:일품",
+      "setName": "김치날치알밥&조각돈가스",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260330/s20250313105219.jpg",
+      "nutrition": [
+        {
+          "name": "김치날치알밥",
+          "isMain": true,
+          "calorie": 510,
+          "carbohydrate": 88,
+          "sugar": 3,
+          "fiber": 2,
+          "fat": 13,
+          "protein": 10
+        },
+        {
+          "name": "오징어뭇국",
+          "isMain": false,
+          "calorie": 107,
+          "carbohydrate": 7,
+          "sugar": 3,
+          "fiber": 2,
+          "fat": 3,
+          "protein": 13
+        },
+        {
+          "name": "돈가스&돈가스소스",
+          "isMain": false,
+          "calorie": 358,
+          "carbohydrate": 32,
+          "sugar": 7,
+          "fiber": 2,
+          "fat": 20,
+          "protein": 13
+        },
+        {
+          "name": "어묵채매운볶음",
+          "isMain": false,
+          "calorie": 141,
+          "carbohydrate": 16,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 5,
+          "protein": 8
+        },
+        {
+          "name": "단호박샐러드",
+          "isMain": false,
+          "calorie": 142,
+          "carbohydrate": 19,
+          "sugar": 8,
+          "fiber": 0,
+          "fat": 7,
+          "protein": 1
+        },
+        {
+          "name": "오복지무침",
+          "isMain": false,
+          "calorie": 5,
+          "carbohydrate": 1,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "석류차",
+          "isMain": false,
+          "calorie": 150,
+          "carbohydrate": 37,
+          "sugar": 35,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-03-22T21:15:57.849Z"
+}
