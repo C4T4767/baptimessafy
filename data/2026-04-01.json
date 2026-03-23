@@ -1,0 +1,136 @@
+{
+  "date": "2026-04-01",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "햄버그스테이크",
+      "courseName": "A:한식",
+      "setName": "햄버그스테이크&토마토소스스파게티",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/main/100026/1386.png",
+      "nutrition": [
+        {
+          "name": "햄버그스테이크",
+          "isMain": true,
+          "calorie": 371,
+          "carbohydrate": 19,
+          "sugar": 4,
+          "fiber": 4,
+          "fat": 24,
+          "protein": 20
+        },
+        {
+          "name": "토마토소스스파게티",
+          "isMain": false,
+          "calorie": 283,
+          "carbohydrate": 59,
+          "sugar": 9,
+          "fiber": 3,
+          "fat": 2,
+          "protein": 9
+        },
+        {
+          "name": "미니현미밥&후리가케",
+          "isMain": false,
+          "calorie": 125,
+          "carbohydrate": 29,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "유부장국",
+          "isMain": false,
+          "calorie": 45,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 2,
+          "protein": 3
+        },
+        {
+          "name": "떡볶이",
+          "isMain": false,
+          "calorie": 354,
+          "carbohydrate": 74,
+          "sugar": 11,
+          "fiber": 1,
+          "fat": 2,
+          "protein": 7
+        },
+        {
+          "name": "반달감자튀김(웻지감자)",
+          "isMain": false,
+          "calorie": 168,
+          "carbohydrate": 22,
+          "sugar": 0,
+          "fiber": 2,
+          "fat": 8,
+          "protein": 2
+        },
+        {
+          "name": "더운채소",
+          "isMain": false,
+          "calorie": 67,
+          "carbohydrate": 5,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 5,
+          "protein": 1
+        },
+        {
+          "name": "스위트콘",
+          "isMain": false,
+          "calorie": 25,
+          "carbohydrate": 5,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "그린샐러드",
+          "isMain": false,
+          "calorie": 12,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 23,
+          "carbohydrate": 4,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "오이피클",
+          "isMain": false,
+          "calorie": 64,
+          "carbohydrate": 15,
+          "sugar": 16,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "아이스티",
+          "isMain": false,
+          "calorie": 56,
+          "carbohydrate": 14,
+          "sugar": 14,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-03-23T21:25:38.759Z"
+}
