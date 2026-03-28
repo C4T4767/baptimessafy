@@ -1,0 +1,194 @@
+{
+  "date": "2026-04-06",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "부대찌개",
+      "courseName": "A:한식",
+      "setName": "부대찌개&오징어완자전",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260406/s20210903114858.png",
+      "nutrition": [
+        {
+          "name": "부대찌개",
+          "isMain": true,
+          "calorie": 379,
+          "carbohydrate": 28,
+          "sugar": 6,
+          "fiber": 2,
+          "fat": 19,
+          "protein": 21
+        },
+        {
+          "name": "차조밥",
+          "isMain": false,
+          "calorie": 381,
+          "carbohydrate": 87,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "오징어완자전",
+          "isMain": false,
+          "calorie": 159,
+          "carbohydrate": 13,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 7,
+          "protein": 13
+        },
+        {
+          "name": "잡채",
+          "isMain": false,
+          "calorie": 212,
+          "carbohydrate": 38,
+          "sugar": 5,
+          "fiber": 0,
+          "fat": 6,
+          "protein": 1
+        },
+        {
+          "name": "마카로니콘샐러드",
+          "isMain": false,
+          "calorie": 145,
+          "carbohydrate": 13,
+          "sugar": 3,
+          "fiber": 1,
+          "fat": 9.5,
+          "protein": 2
+        },
+        {
+          "name": "김구이",
+          "isMain": false,
+          "calorie": 8,
+          "carbohydrate": 3,
+          "sugar": 0,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "꽈배기",
+          "isMain": false,
+          "calorie": 157,
+          "carbohydrate": 24,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 5,
+          "protein": 4
+        },
+        {
+          "name": "오미자차",
+          "isMain": false,
+          "calorie": 49,
+          "carbohydrate": 12,
+          "sugar": 11,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "가락국수",
+      "courseName": "B:일품",
+      "setName": "가락국수&비빔채소만두",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260406/s20260319164828.png",
+      "nutrition": [
+        {
+          "name": "가락국수",
+          "isMain": true,
+          "calorie": 487,
+          "carbohydrate": 81,
+          "sugar": 1,
+          "fiber": 10,
+          "fat": 8,
+          "protein": 19
+        },
+        {
+          "name": "유부양념밥",
+          "isMain": false,
+          "calorie": 278,
+          "carbohydrate": 55,
+          "sugar": 6,
+          "fiber": 0,
+          "fat": 4,
+          "protein": 6
+        },
+        {
+          "name": "비빔채소만두",
+          "isMain": false,
+          "calorie": 341,
+          "carbohydrate": 47,
+          "sugar": 11,
+          "fiber": 2,
+          "fat": 12,
+          "protein": 9
+        },
+        {
+          "name": "멕시칸샐러드",
+          "isMain": false,
+          "calorie": 192,
+          "carbohydrate": 14,
+          "sugar": 5,
+          "fiber": 1,
+          "fat": 12,
+          "protein": 6
+        },
+        {
+          "name": "단무지무침",
+          "isMain": false,
+          "calorie": 26,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "꽈배기",
+          "isMain": false,
+          "calorie": 157,
+          "carbohydrate": 24,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 5,
+          "protein": 4
+        },
+        {
+          "name": "오미자차",
+          "isMain": false,
+          "calorie": 49,
+          "carbohydrate": 12,
+          "sugar": 11,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-03-28T21:19:30.228Z"
+}
