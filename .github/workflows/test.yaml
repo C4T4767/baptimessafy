@@ -3,8 +3,7 @@ name: Fetch SSAFY 10F Menu Image
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * 1-5"   # 매일 09:00 KST 월~금
-
+    - cron: "0 21 * * 0-4"
 jobs:
   fetch-menu:
     runs-on: ubuntu-latest
