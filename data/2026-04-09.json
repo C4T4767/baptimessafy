@@ -1,0 +1,174 @@
+{
+  "date": "2026-04-09",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "대파육개장",
+      "courseName": "A:한식",
+      "setName": "대파육개장&연근땅콩강정",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260409/s20250522160943.png",
+      "nutrition": [
+        {
+          "name": "대파육개장",
+          "isMain": true,
+          "calorie": 195,
+          "carbohydrate": 16,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 10,
+          "protein": 10
+        },
+        {
+          "name": "수수밥",
+          "isMain": false,
+          "calorie": 382,
+          "carbohydrate": 87,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "연근땅콩강정",
+          "isMain": false,
+          "calorie": 153,
+          "carbohydrate": 31,
+          "sugar": 8,
+          "fiber": 2,
+          "fat": 3,
+          "protein": 1
+        },
+        {
+          "name": "마늘종명엽채고추장볶음",
+          "isMain": false,
+          "calorie": 64,
+          "carbohydrate": 10,
+          "sugar": 3,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 4
+        },
+        {
+          "name": "치커리유자청무침",
+          "isMain": false,
+          "calorie": 29,
+          "carbohydrate": 7,
+          "sugar": 5,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 20,
+          "carbohydrate": 5,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "나가사키짬뽕",
+      "courseName": "B:일품",
+      "setName": "나가사키짬뽕&찹쌀탕수육",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260409/s20250331124909.png",
+      "nutrition": [
+        {
+          "name": "나가사키짬뽕",
+          "isMain": true,
+          "calorie": 579,
+          "carbohydrate": 96,
+          "sugar": 3,
+          "fiber": 6,
+          "fat": 9,
+          "protein": 25
+        },
+        {
+          "name": "수수밥",
+          "isMain": false,
+          "calorie": 229,
+          "carbohydrate": 52,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 4
+        },
+        {
+          "name": "찹쌀탕수육",
+          "isMain": false,
+          "calorie": 490,
+          "carbohydrate": 66,
+          "sugar": 23,
+          "fiber": 1,
+          "fat": 15,
+          "protein": 20
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 12,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 41,
+          "carbohydrate": 4,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 0
+        },
+        {
+          "name": "치커리유자청무침",
+          "isMain": false,
+          "calorie": 29,
+          "carbohydrate": 7,
+          "sugar": 5,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 20,
+          "carbohydrate": 5,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-03-31T21:27:26.778Z"
+}
