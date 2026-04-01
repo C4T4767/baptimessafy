@@ -1,0 +1,174 @@
+{
+  "date": "2026-04-10",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "산채비빔밥",
+      "courseName": "A:한식",
+      "setName": "산채비빔밥&잡채어묵조림",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/main/100026/1067.png",
+      "nutrition": [
+        {
+          "name": "산채비빔밥",
+          "isMain": true,
+          "calorie": 630,
+          "carbohydrate": 117,
+          "sugar": 16,
+          "fiber": 3,
+          "fat": 10,
+          "protein": 21
+        },
+        {
+          "name": "냉이된장국",
+          "isMain": false,
+          "calorie": 51,
+          "carbohydrate": 6,
+          "sugar": 1,
+          "fiber": 4,
+          "fat": 2,
+          "protein": 4
+        },
+        {
+          "name": "잡채어묵조림",
+          "isMain": false,
+          "calorie": 153,
+          "carbohydrate": 22,
+          "sugar": 4,
+          "fiber": 1,
+          "fat": 2,
+          "protein": 10
+        },
+        {
+          "name": "감자채햄볶음",
+          "isMain": false,
+          "calorie": 125,
+          "carbohydrate": 17,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 5,
+          "protein": 4
+        },
+        {
+          "name": "미역초무침",
+          "isMain": false,
+          "calorie": 27,
+          "carbohydrate": 6,
+          "sugar": 4,
+          "fiber": 2,
+          "fat": 0.4,
+          "protein": 1
+        },
+        {
+          "name": "오이지무침",
+          "isMain": false,
+          "calorie": 18,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "유자차",
+          "isMain": false,
+          "calorie": 50,
+          "carbohydrate": 13,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "키친보스_봉골레파스타",
+      "courseName": "B:일품",
+      "setName": "키친보스_봉골레파스타",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260410/s20251015203606.jpg",
+      "nutrition": [
+        {
+          "name": "키친보스_봉골레파스타",
+          "isMain": true,
+          "calorie": 700,
+          "carbohydrate": 97,
+          "sugar": 6,
+          "fiber": 1,
+          "fat": 25,
+          "protein": 21
+        },
+        {
+          "name": "제로탄산",
+          "isMain": false,
+          "calorie": 0,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "마늘빵(모닝빵)",
+          "isMain": false,
+          "calorie": 208,
+          "carbohydrate": 18,
+          "sugar": 6,
+          "fiber": 0,
+          "fat": 14,
+          "protein": 2
+        },
+        {
+          "name": "으깬고구마샐러드",
+          "isMain": false,
+          "calorie": 277,
+          "carbohydrate": 39,
+          "sugar": 13,
+          "fiber": 3,
+          "fat": 12,
+          "protein": 4
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 12,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 44,
+          "carbohydrate": 4,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 0
+        },
+        {
+          "name": "수제피클",
+          "isMain": false,
+          "calorie": 94,
+          "carbohydrate": 23,
+          "sugar": 21,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "유자차",
+          "isMain": false,
+          "calorie": 50,
+          "carbohydrate": 13,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-04-01T21:31:56.226Z"
+}
