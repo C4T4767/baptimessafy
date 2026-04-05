@@ -1,0 +1,164 @@
+{
+  "date": "2026-04-14",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "차돌된장찌개",
+      "courseName": "A:한식",
+      "setName": "차돌된장찌개&순대볶음",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260414/s20250813111102.png",
+      "nutrition": [
+        {
+          "name": "차돌된장찌개",
+          "isMain": true,
+          "calorie": 195,
+          "carbohydrate": 20,
+          "sugar": 4,
+          "fiber": 7,
+          "fat": 7,
+          "protein": 15
+        },
+        {
+          "name": "흑미밥",
+          "isMain": false,
+          "calorie": 354,
+          "carbohydrate": 81,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 7
+        },
+        {
+          "name": "오징어김치전",
+          "isMain": false,
+          "calorie": 188,
+          "carbohydrate": 30,
+          "sugar": 1,
+          "fiber": 2,
+          "fat": 2,
+          "protein": 11
+        },
+        {
+          "name": "순대볶음",
+          "isMain": false,
+          "calorie": 294,
+          "carbohydrate": 49,
+          "sugar": 6,
+          "fiber": 2,
+          "fat": 8,
+          "protein": 7
+        },
+        {
+          "name": "도토리묵무침",
+          "isMain": false,
+          "calorie": 68,
+          "carbohydrate": 13,
+          "sugar": 3,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "열무생채",
+          "isMain": false,
+          "calorie": 18,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "복분자차",
+          "isMain": false,
+          "calorie": 107,
+          "carbohydrate": 27,
+          "sugar": 16,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 1
+        }
+      ]
+    },
+    {
+      "name": "잔치국수",
+      "courseName": "B:일품",
+      "setName": "잔치국수&오징어김치전",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260414/s20240628063903.png",
+      "nutrition": [
+        {
+          "name": "잔치국수",
+          "isMain": true,
+          "calorie": 670,
+          "carbohydrate": 142,
+          "sugar": 10,
+          "fiber": 1,
+          "fat": 3,
+          "protein": 19
+        },
+        {
+          "name": "미니우엉어묵볶음밥",
+          "isMain": false,
+          "calorie": 283,
+          "carbohydrate": 58,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 7
+        },
+        {
+          "name": "오징어김치전",
+          "isMain": false,
+          "calorie": 188,
+          "carbohydrate": 30,
+          "sugar": 1,
+          "fiber": 2,
+          "fat": 2,
+          "protein": 11
+        },
+        {
+          "name": "고구마견과류조림",
+          "isMain": false,
+          "calorie": 352,
+          "carbohydrate": 53,
+          "sugar": 14,
+          "fiber": 3,
+          "fat": 14,
+          "protein": 7
+        },
+        {
+          "name": "도토리묵무침",
+          "isMain": false,
+          "calorie": 68,
+          "carbohydrate": 13,
+          "sugar": 3,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "배추겉절이",
+          "isMain": false,
+          "calorie": 34,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 4,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "복분자차",
+          "isMain": false,
+          "calorie": 107,
+          "carbohydrate": 27,
+          "sugar": 16,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 1
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-04-05T21:21:10.081Z"
+}
