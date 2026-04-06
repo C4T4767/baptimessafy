@@ -57,7 +57,7 @@ jobs:
           set -e
 
           curl -sS \
-            "https://meeting.ssafy.com/api/v4/posts/1e1qeg3ujp8tu87kobhqweq1rh/thread?skipFetchThreads=false&collapsedThreads=false&collapsedThreadsExtended=false&direction=down&perPage=60" \
+            "https://meeting.ssafy.com/api/v4/posts/1k43iwapofrtbe3a7d66ed9izo/thread?skipFetchThreads=false&collapsedThreads=false&collapsedThreadsExtended=false&direction=down&perPage=60" \
             -H "Authorization: Bearer ${{ steps.login.outputs.token }}" \
             -o thread.json
 
