@@ -1,0 +1,184 @@
+{
+  "date": "2026-04-23",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "비지찌개",
+      "courseName": "A:한식",
+      "setName": "비지찌개_&스팸계란말이",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260423/s20240426084400.png",
+      "nutrition": [
+        {
+          "name": "비지찌개",
+          "isMain": true,
+          "calorie": 121,
+          "carbohydrate": 10,
+          "sugar": 4,
+          "fiber": 9,
+          "fat": 6,
+          "protein": 7
+        },
+        {
+          "name": "혼합잡곡밥",
+          "isMain": false,
+          "calorie": 355,
+          "carbohydrate": 80,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "스팸계란말이&케찹",
+          "isMain": false,
+          "calorie": 174,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 11,
+          "protein": 15
+        },
+        {
+          "name": "감자채카레볶음",
+          "isMain": false,
+          "calorie": 98,
+          "carbohydrate": 14,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 4,
+          "protein": 3
+        },
+        {
+          "name": "옥수수조랭이떡샐러드",
+          "isMain": false,
+          "calorie": 248,
+          "carbohydrate": 26,
+          "sugar": 5,
+          "fiber": 1,
+          "fat": 15,
+          "protein": 4
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 12,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 67,
+          "carbohydrate": 4,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 6,
+          "protein": 0
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 20,
+          "carbohydrate": 5,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "로제까르보나라스파게티",
+      "courseName": "B:일품",
+      "setName": "로제까르보나라스파게티&샐러드",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260423/s20260326153517.png",
+      "nutrition": [
+        {
+          "name": "로제까르보나라스파게티",
+          "isMain": true,
+          "calorie": 645,
+          "carbohydrate": 102,
+          "sugar": 12,
+          "fiber": 7,
+          "fat": 18,
+          "protein": 25
+        },
+        {
+          "name": "제로탄산",
+          "isMain": false,
+          "calorie": 0,
+          "carbohydrate": 0,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "마늘바게트",
+          "isMain": false,
+          "calorie": 104,
+          "carbohydrate": 15,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 2
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 12,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드래싱",
+          "isMain": false,
+          "calorie": 54,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 5,
+          "protein": 0
+        },
+        {
+          "name": "오이피클",
+          "isMain": false,
+          "calorie": 64,
+          "carbohydrate": 15,
+          "sugar": 16,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 20,
+          "carbohydrate": 5,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-04-14T21:40:35.187Z"
+}
