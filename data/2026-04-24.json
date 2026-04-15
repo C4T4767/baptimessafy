@@ -1,0 +1,184 @@
+{
+  "date": "2026-04-24",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "사골떡만둣국",
+      "courseName": "A:한식",
+      "setName": "사골떡만둣국&녹두빈대떡",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260424/s20250926163710.png",
+      "nutrition": [
+        {
+          "name": "사골떡만둣국",
+          "isMain": true,
+          "calorie": 602,
+          "carbohydrate": 94,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 14,
+          "protein": 22
+        },
+        {
+          "name": "미니차조밥",
+          "isMain": false,
+          "calorie": 229,
+          "carbohydrate": 52,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 4
+        },
+        {
+          "name": "녹두빈대떡",
+          "isMain": false,
+          "calorie": 180,
+          "carbohydrate": 26,
+          "sugar": 3,
+          "fiber": 2,
+          "fat": 3,
+          "protein": 11
+        },
+        {
+          "name": "소시지떡꼬치구이",
+          "isMain": false,
+          "calorie": 348,
+          "carbohydrate": 39,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 15,
+          "protein": 15
+        },
+        {
+          "name": "콩나물당면볶음",
+          "isMain": false,
+          "calorie": 163,
+          "carbohydrate": 21,
+          "sugar": 3,
+          "fiber": 2,
+          "fat": 8,
+          "protein": 5
+        },
+        {
+          "name": "상추겉절이",
+          "isMain": false,
+          "calorie": 25,
+          "carbohydrate": 5,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "배추겉절이",
+          "isMain": false,
+          "calorie": 34,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 4,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "유자차",
+          "isMain": false,
+          "calorie": 50,
+          "carbohydrate": 13,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "참치마요덮밥",
+      "courseName": "B:일품",
+      "setName": "참치마요덮밥&소시지떡꼬치구이",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260424/s20260301155808.png",
+      "nutrition": [
+        {
+          "name": "참치마요덮밥",
+          "isMain": true,
+          "calorie": 882,
+          "carbohydrate": 88,
+          "sugar": 10,
+          "fiber": 0,
+          "fat": 51,
+          "protein": 16
+        },
+        {
+          "name": "유부장국",
+          "isMain": false,
+          "calorie": 45,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 2,
+          "protein": 3
+        },
+        {
+          "name": "소시지떡꼬치구이",
+          "isMain": false,
+          "calorie": 348,
+          "carbohydrate": 39,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 15,
+          "protein": 15
+        },
+        {
+          "name": "카레크로켓",
+          "isMain": false,
+          "calorie": 186,
+          "carbohydrate": 20,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 11,
+          "protein": 2
+        },
+        {
+          "name": "상추겉절이",
+          "isMain": false,
+          "calorie": 25,
+          "carbohydrate": 5,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "단무지무침",
+          "isMain": false,
+          "calorie": 26,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "유자차",
+          "isMain": false,
+          "calorie": 50,
+          "carbohydrate": 13,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-04-15T21:40:36.804Z"
+}
