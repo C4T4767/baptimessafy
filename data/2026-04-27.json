@@ -1,0 +1,204 @@
+{
+  "date": "2026-04-27",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "장터국밥",
+      "courseName": "A:한식",
+      "setName": "장터국밥&연근땅콩강정",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/main/100026/11166.png",
+      "nutrition": [
+        {
+          "name": "장터국밥",
+          "isMain": true,
+          "calorie": 338,
+          "carbohydrate": 64,
+          "sugar": 3,
+          "fiber": 1,
+          "fat": 4,
+          "protein": 12
+        },
+        {
+          "name": "혼합잡곡밥",
+          "isMain": false,
+          "calorie": 355,
+          "carbohydrate": 80,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "단호박모둠콩전",
+          "isMain": false,
+          "calorie": 135,
+          "carbohydrate": 27,
+          "sugar": 5,
+          "fiber": 5,
+          "fat": 2,
+          "protein": 4
+        },
+        {
+          "name": "연근땅콩강정",
+          "isMain": false,
+          "calorie": 149,
+          "carbohydrate": 30,
+          "sugar": 11,
+          "fiber": 2,
+          "fat": 3,
+          "protein": 1
+        },
+        {
+          "name": "마늘종게맛살볶음",
+          "isMain": false,
+          "calorie": 76,
+          "carbohydrate": 8,
+          "sugar": 4,
+          "fiber": 2,
+          "fat": 4,
+          "protein": 2
+        },
+        {
+          "name": "일식양배추샐러드",
+          "isMain": false,
+          "calorie": 11,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 40,
+          "carbohydrate": 3,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 0
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "복분자차",
+          "isMain": false,
+          "calorie": 150,
+          "carbohydrate": 38,
+          "sugar": 26,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "햄김치볶음밥",
+      "courseName": "B:일품",
+      "setName": "햄김치볶음밥&청파래오징어가스",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260427/s20250707173819.jpg",
+      "nutrition": [
+        {
+          "name": "햄김치볶음밥",
+          "isMain": true,
+          "calorie": 544,
+          "carbohydrate": 99,
+          "sugar": 6,
+          "fiber": 1,
+          "fat": 11,
+          "protein": 12
+        },
+        {
+          "name": "북어채미역국",
+          "isMain": false,
+          "calorie": 38,
+          "carbohydrate": 2,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 2,
+          "protein": 5
+        },
+        {
+          "name": "청파래오징어가스&탈탈S",
+          "isMain": false,
+          "calorie": 180,
+          "carbohydrate": 10,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 10,
+          "protein": 12
+        },
+        {
+          "name": "잡채",
+          "isMain": false,
+          "calorie": 212,
+          "carbohydrate": 38,
+          "sugar": 5,
+          "fiber": 0,
+          "fat": 6,
+          "protein": 1
+        },
+        {
+          "name": "마늘종게맛살볶음",
+          "isMain": false,
+          "calorie": 76,
+          "carbohydrate": 8,
+          "sugar": 4,
+          "fiber": 2,
+          "fat": 4,
+          "protein": 2
+        },
+        {
+          "name": "일식양배추샐러드",
+          "isMain": false,
+          "calorie": 11,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 35,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 0
+        },
+        {
+          "name": "단무지",
+          "isMain": false,
+          "calorie": 5,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "복분자차 ",
+          "isMain": false,
+          "calorie": 150,
+          "carbohydrate": 38,
+          "sugar": 26,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-04-18T21:22:59.275Z"
+}
