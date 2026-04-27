@@ -1,0 +1,96 @@
+{
+  "date": "2026-05-06",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "하트퐁당떡볶이",
+      "courseName": "A:한식",
+      "setName": "「THANKS, MAY」하트퐁당떡볶이 *카네이션도넛*",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260506/s20260423102706.png",
+      "nutrition": [
+        {
+          "name": "하트퐁당떡볶이",
+          "isMain": true,
+          "calorie": 604,
+          "carbohydrate": 81,
+          "sugar": 14,
+          "fiber": 2,
+          "fat": 20,
+          "protein": 22
+        },
+        {
+          "name": "가다랭이국",
+          "isMain": false,
+          "calorie": 3,
+          "carbohydrate": 0,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "미니햄채소볶음밥",
+          "isMain": false,
+          "calorie": 449,
+          "carbohydrate": 87,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 7,
+          "protein": 9
+        },
+        {
+          "name": "미니토마토소스스파게티",
+          "isMain": false,
+          "calorie": 378,
+          "carbohydrate": 79,
+          "sugar": 12,
+          "fiber": 4,
+          "fat": 3,
+          "protein": 12
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 12,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 20,
+          "carbohydrate": 3,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "사각단무지",
+          "isMain": false,
+          "calorie": 5,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "ICE초코",
+          "isMain": false,
+          "calorie": 41,
+          "carbohydrate": 7,
+          "sugar": 6,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 1
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-04-27T21:43:59.045Z"
+}
