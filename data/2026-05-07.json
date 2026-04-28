@@ -1,0 +1,164 @@
+{
+  "date": "2026-05-07",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "신창돼지국밥",
+      "courseName": "A:한식",
+      "setName": "신창돼지국밥&호박채소전",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260507/s20250408132916.png",
+      "nutrition": [
+        {
+          "name": "신창돼지국밥",
+          "isMain": true,
+          "calorie": 317,
+          "carbohydrate": 18,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 17,
+          "protein": 23
+        },
+        {
+          "name": "보리밥",
+          "isMain": false,
+          "calorie": 397,
+          "carbohydrate": 91,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 8
+        },
+        {
+          "name": "호박채소전",
+          "isMain": false,
+          "calorie": 177,
+          "carbohydrate": 34,
+          "sugar": 0,
+          "fiber": 2,
+          "fat": 3,
+          "protein": 5
+        },
+        {
+          "name": "두부고추장조림",
+          "isMain": false,
+          "calorie": 297,
+          "carbohydrate": 11,
+          "sugar": 6,
+          "fiber": 6,
+          "fat": 23,
+          "protein": 10
+        },
+        {
+          "name": "돌나물&초장",
+          "isMain": false,
+          "calorie": 64,
+          "carbohydrate": 14,
+          "sugar": 8,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "수정과",
+          "isMain": false,
+          "calorie": 80,
+          "carbohydrate": 20,
+          "sugar": 19,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "조광201고추잡채덮밥",
+      "courseName": "B:일품",
+      "setName": "조광201고추잡채덮밥&군만두",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260507/s20260402104136.jpg",
+      "nutrition": [
+        {
+          "name": "조광201고추잡채덮밥",
+          "isMain": true,
+          "calorie": 755,
+          "carbohydrate": 100,
+          "sugar": 9,
+          "fiber": 0,
+          "fat": 30,
+          "protein": 20
+        },
+        {
+          "name": "계란팟국",
+          "isMain": false,
+          "calorie": 45,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 4
+        },
+        {
+          "name": "군만두",
+          "isMain": false,
+          "calorie": 223,
+          "carbohydrate": 32,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 7,
+          "protein": 8
+        },
+        {
+          "name": "옥수수조랭이떡샐러드",
+          "isMain": false,
+          "calorie": 248,
+          "carbohydrate": 26,
+          "sugar": 5,
+          "fiber": 1,
+          "fat": 15,
+          "protein": 4
+        },
+        {
+          "name": "짜사이채무침",
+          "isMain": false,
+          "calorie": 22,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "수정과",
+          "isMain": false,
+          "calorie": 80,
+          "carbohydrate": 20,
+          "sugar": 19,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-04-28T21:48:48.068Z"
+}
