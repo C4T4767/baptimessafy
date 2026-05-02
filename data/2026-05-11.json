@@ -1,0 +1,194 @@
+{
+  "date": "2026-05-11",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "숯불반반돼지불고기",
+      "courseName": "A:한식",
+      "setName": "숯불반반돼지불고기&건새우부추전",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260511/s20240620164434.png",
+      "nutrition": [
+        {
+          "name": "숯불반반돼지불고기",
+          "isMain": true,
+          "calorie": 323,
+          "carbohydrate": 16,
+          "sugar": 7,
+          "fiber": 0,
+          "fat": 22,
+          "protein": 18
+        },
+        {
+          "name": "혼합잡곡밥",
+          "isMain": false,
+          "calorie": 355,
+          "carbohydrate": 80,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "미역국",
+          "isMain": false,
+          "calorie": 23,
+          "carbohydrate": 2,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 2,
+          "protein": 1
+        },
+        {
+          "name": "건새우부추전",
+          "isMain": false,
+          "calorie": 198,
+          "carbohydrate": 33,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 3,
+          "protein": 8
+        },
+        {
+          "name": "무초절임(와사비쌈무)",
+          "isMain": false,
+          "calorie": 32,
+          "carbohydrate": 7,
+          "sugar": 5,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "치커리들깨소스무침",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 20,
+          "carbohydrate": 5,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "옛날짬뽕탕",
+      "courseName": "B:일품",
+      "setName": "옛날짬뽕탕&매실소스탕수육",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/main/100026/26605.jpg",
+      "nutrition": [
+        {
+          "name": "옛날짬뽕탕",
+          "isMain": true,
+          "calorie": 204,
+          "carbohydrate": 24,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 6,
+          "protein": 13
+        },
+        {
+          "name": "혼합잡곡밥",
+          "isMain": false,
+          "calorie": 355,
+          "carbohydrate": 80,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "매실소스탕수육",
+          "isMain": false,
+          "calorie": 232,
+          "carbohydrate": 30,
+          "sugar": 7,
+          "fiber": 0,
+          "fat": 9,
+          "protein": 8
+        },
+        {
+          "name": "중국식땅콩볶음",
+          "isMain": false,
+          "calorie": 229,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 3,
+          "fat": 21,
+          "protein": 8
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 12,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 61,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 5,
+          "protein": 0
+        },
+        {
+          "name": "짜사이채무침",
+          "isMain": false,
+          "calorie": 22,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "단무지",
+          "isMain": false,
+          "calorie": 5,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 20,
+          "carbohydrate": 5,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-05-02T21:29:07.166Z"
+}
