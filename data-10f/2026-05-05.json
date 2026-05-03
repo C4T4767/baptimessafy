@@ -3,6 +3,16 @@
   "dayOfWeek": "화요일",
   "restaurant": "멀티캠퍼스 10층",
   "mealTime": "점심",
-  "meals": [],
-  "updatedAt": "2026-04-30T21:44:09.472Z"
+  "meals": [
+    {
+      "name": "5월 5일, 어린이날",
+      "courseName": "도시락",
+      "setName": "10층 공존식단",
+      "items": [
+        "5월 5일",
+        "어린이날"
+      ]
+    }
+  ],
+  "updatedAt": "2026-05-03T21:30:28.687Z"
 }
