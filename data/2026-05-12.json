@@ -1,0 +1,224 @@
+{
+  "date": "2026-05-12",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "놀부부대찌개",
+      "courseName": "A:한식",
+      "setName": "놀부부대찌개&생선커틀릿",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260512/s20210903114858.png",
+      "nutrition": [
+        {
+          "name": "놀부부대찌개",
+          "isMain": true,
+          "calorie": 783,
+          "carbohydrate": 54,
+          "sugar": 4,
+          "fiber": 1,
+          "fat": 46,
+          "protein": 40
+        },
+        {
+          "name": "차조밥",
+          "isMain": false,
+          "calorie": 381,
+          "carbohydrate": 87,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "생선커틀릿",
+          "isMain": false,
+          "calorie": 244,
+          "carbohydrate": 25,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 8,
+          "protein": 16
+        },
+        {
+          "name": "감자채피망볶음",
+          "isMain": false,
+          "calorie": 84,
+          "carbohydrate": 12,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 2
+        },
+        {
+          "name": "일식양배추샐러드",
+          "isMain": false,
+          "calorie": 11,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 35,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 0
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "블루베리맛홍초 ",
+          "isMain": false,
+          "calorie": 93,
+          "carbohydrate": 24,
+          "sugar": 13,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "모둠가스(등심돈가스&",
+      "courseName": "B:일품",
+      "setName": "모둠가스(등심돈가스&생선커틀릿)",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260512/s20250605144120.png",
+      "nutrition": [
+        {
+          "name": "모둠가스(등심돈가스&",
+          "isMain": true,
+          "calorie": 513,
+          "carbohydrate": 48,
+          "sugar": 22,
+          "fiber": 0,
+          "fat": 27,
+          "protein": 19
+        },
+        {
+          "name": "생선커틀릿)",
+          "isMain": false,
+          "calorie": 189,
+          "carbohydrate": 16,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 10,
+          "protein": 8
+        },
+        {
+          "name": "쌀밥&후리가케",
+          "isMain": false,
+          "calorie": 209,
+          "carbohydrate": 48,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 4
+        },
+        {
+          "name": "크림스프",
+          "isMain": false,
+          "calorie": 51,
+          "carbohydrate": 7,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 2.3,
+          "protein": 1
+        },
+        {
+          "name": "푸실리샐러드",
+          "isMain": false,
+          "calorie": 124,
+          "carbohydrate": 26,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 4
+        },
+        {
+          "name": "일식양배추샐러드",
+          "isMain": false,
+          "calorie": 11,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 40,
+          "carbohydrate": 3,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 0
+        },
+        {
+          "name": "스위트콘",
+          "isMain": false,
+          "calorie": 25,
+          "carbohydrate": 5,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "베이키드빈스",
+          "isMain": false,
+          "calorie": 44,
+          "carbohydrate": 8,
+          "sugar": 0,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "오이피클",
+          "isMain": false,
+          "calorie": 64,
+          "carbohydrate": 15,
+          "sugar": 16,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "블루베리맛홍초 ",
+          "isMain": false,
+          "calorie": 93,
+          "carbohydrate": 24,
+          "sugar": 13,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-05-03T21:31:09.330Z"
+}
