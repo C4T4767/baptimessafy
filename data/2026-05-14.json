@@ -1,0 +1,214 @@
+{
+  "date": "2026-05-14",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "왕새우튀김덮밥",
+      "courseName": "A:한식",
+      "setName": "왕새우튀김덮밥&땅콩깐풍기",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260514/s20260409152259.png",
+      "nutrition": [
+        {
+          "name": "왕새우튀김덮밥",
+          "isMain": true,
+          "calorie": 729,
+          "carbohydrate": 131,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 14,
+          "protein": 21
+        },
+        {
+          "name": "계란팟국",
+          "isMain": false,
+          "calorie": 45,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 4
+        },
+        {
+          "name": "땅콩깐풍기",
+          "isMain": false,
+          "calorie": 436,
+          "carbohydrate": 28,
+          "sugar": 11,
+          "fiber": 3,
+          "fat": 29,
+          "protein": 15
+        },
+        {
+          "name": "단호박샐러드",
+          "isMain": false,
+          "calorie": 142,
+          "carbohydrate": 19,
+          "sugar": 8,
+          "fiber": 0,
+          "fat": 7,
+          "protein": 1
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 12,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 46,
+          "carbohydrate": 4,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 0
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "오미자차",
+          "isMain": false,
+          "calorie": 17,
+          "carbohydrate": 4,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "차이나스파게티",
+      "courseName": "B:일품",
+      "setName": "차이나스파게티&클링클컷감자튀김",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260514/s20260123144910.png",
+      "nutrition": [
+        {
+          "name": "차이나스파게티",
+          "isMain": true,
+          "calorie": 468,
+          "carbohydrate": 90,
+          "sugar": 4,
+          "fiber": 4,
+          "fat": 3,
+          "protein": 25
+        },
+        {
+          "name": "모닝빵",
+          "isMain": false,
+          "calorie": 85,
+          "carbohydrate": 15,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 2,
+          "protein": 2
+        },
+        {
+          "name": "딸기잼",
+          "isMain": false,
+          "calorie": 44,
+          "carbohydrate": 11,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "버터",
+          "isMain": false,
+          "calorie": 75,
+          "carbohydrate": 0,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 8,
+          "protein": 0
+        },
+        {
+          "name": "제로탄산",
+          "isMain": false,
+          "calorie": 0,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "단호박샐러드",
+          "isMain": false,
+          "calorie": 142,
+          "carbohydrate": 19,
+          "sugar": 8,
+          "fiber": 0,
+          "fat": 7,
+          "protein": 1
+        },
+        {
+          "name": "클링클컷감자튀김",
+          "isMain": false,
+          "calorie": 141,
+          "carbohydrate": 17,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 7,
+          "protein": 2
+        },
+        {
+          "name": "오이피클",
+          "isMain": false,
+          "calorie": 64,
+          "carbohydrate": 15,
+          "sugar": 16,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 12,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱 ",
+          "isMain": false,
+          "calorie": 41,
+          "carbohydrate": 4,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 0
+        },
+        {
+          "name": "오미자차",
+          "isMain": false,
+          "calorie": 17,
+          "carbohydrate": 4,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-05-05T21:51:34.754Z"
+}
