@@ -1,0 +1,174 @@
+{
+  "date": "2026-05-15",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "돼지고기사태김치찜",
+      "courseName": "A:한식",
+      "setName": "돼지고기사태김치찜&계란말이",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260515/s20230601090648.png",
+      "nutrition": [
+        {
+          "name": "돼지고기사태김치찜",
+          "isMain": true,
+          "calorie": 205,
+          "carbohydrate": 9,
+          "sugar": 4,
+          "fiber": 1,
+          "fat": 10,
+          "protein": 19
+        },
+        {
+          "name": "수수밥",
+          "isMain": false,
+          "calorie": 382,
+          "carbohydrate": 87,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "다시마무챗국",
+          "isMain": false,
+          "calorie": 16,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "계란말이&케찹",
+          "isMain": false,
+          "calorie": 202,
+          "carbohydrate": 2,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 13,
+          "protein": 18
+        },
+        {
+          "name": "건파래볶음",
+          "isMain": false,
+          "calorie": 28,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 2
+        },
+        {
+          "name": "오이양파무침",
+          "isMain": false,
+          "calorie": 35,
+          "carbohydrate": 7,
+          "sugar": 4,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "아이스티(레몬)",
+          "isMain": false,
+          "calorie": 56,
+          "carbohydrate": 14,
+          "sugar": 14,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "가라아게카레라이스",
+      "courseName": "B:일품",
+      "setName": "가라아게카레라이스&아게다시도우후",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/main/100034/1356.png",
+      "nutrition": [
+        {
+          "name": "가라아게카레라이스",
+          "isMain": true,
+          "calorie": 806,
+          "carbohydrate": 132,
+          "sugar": 5,
+          "fiber": 3,
+          "fat": 23,
+          "protein": 25
+        },
+        {
+          "name": "다시마무챗국",
+          "isMain": false,
+          "calorie": 16,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "아게다시도우후",
+          "isMain": false,
+          "calorie": 172,
+          "carbohydrate": 14,
+          "sugar": 2,
+          "fiber": 5,
+          "fat": 9,
+          "protein": 9
+        },
+        {
+          "name": "일식양배추샐러드",
+          "isMain": false,
+          "calorie": 11,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "오복지무침",
+          "isMain": false,
+          "calorie": 5,
+          "carbohydrate": 1,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "아이스티(레몬)",
+          "isMain": false,
+          "calorie": 56,
+          "carbohydrate": 14,
+          "sugar": 14,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-05-07T21:44:21.112Z"
+}
