@@ -1,0 +1,194 @@
+{
+  "date": "2026-05-18",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "닭곰탕",
+      "courseName": "A:한식",
+      "setName": "닭곰탕&김치전",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260518/s20191210105427.png",
+      "nutrition": [
+        {
+          "name": "닭곰탕",
+          "isMain": true,
+          "calorie": 248,
+          "carbohydrate": 24,
+          "sugar": 4,
+          "fiber": 2,
+          "fat": 9,
+          "protein": 19
+        },
+        {
+          "name": "차조밥",
+          "isMain": false,
+          "calorie": 381,
+          "carbohydrate": 87,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "김치전",
+          "isMain": false,
+          "calorie": 236,
+          "carbohydrate": 48,
+          "sugar": 1,
+          "fiber": 3,
+          "fat": 2,
+          "protein": 7
+        },
+        {
+          "name": "느타리미역줄기볶음",
+          "isMain": false,
+          "calorie": 50,
+          "carbohydrate": 4,
+          "sugar": 0,
+          "fiber": 4,
+          "fat": 4,
+          "protein": 1
+        },
+        {
+          "name": "도토리묵무침",
+          "isMain": false,
+          "calorie": 68,
+          "carbohydrate": 13,
+          "sugar": 3,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "복분자차",
+          "isMain": false,
+          "calorie": 150,
+          "carbohydrate": 38,
+          "sugar": 26,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "크림짬뽕",
+      "courseName": "B:일품",
+      "setName": "크림짬뽕&시나몬토스트",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260518/s20250227161109.png",
+      "nutrition": [
+        {
+          "name": "크림짬뽕",
+          "isMain": true,
+          "calorie": 1055,
+          "carbohydrate": 120,
+          "sugar": 28,
+          "fiber": 5,
+          "fat": 43,
+          "protein": 42
+        },
+        {
+          "name": "시나몬토스트",
+          "isMain": false,
+          "calorie": 148,
+          "carbohydrate": 25,
+          "sugar": 4,
+          "fiber": 1,
+          "fat": 4,
+          "protein": 4
+        },
+        {
+          "name": "미니음료",
+          "isMain": false,
+          "calorie": 65,
+          "carbohydrate": 16,
+          "sugar": 15,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "반달감자튀김",
+          "isMain": false,
+          "calorie": 168,
+          "carbohydrate": 22,
+          "sugar": 0,
+          "fiber": 2,
+          "fat": 8,
+          "protein": 2
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 12,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "&드레싱",
+          "isMain": false,
+          "calorie": 29,
+          "carbohydrate": 3,
+          "sugar": 3,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 2
+        },
+        {
+          "name": "코올슬로",
+          "isMain": false,
+          "calorie": 153,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 1,
+          "fat": 14,
+          "protein": 1
+        },
+        {
+          "name": "피클",
+          "isMain": false,
+          "calorie": 94,
+          "carbohydrate": 23,
+          "sugar": 21,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "할라피뇨",
+          "isMain": false,
+          "calorie": 4,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "복분자차",
+          "isMain": false,
+          "calorie": 150,
+          "carbohydrate": 38,
+          "sugar": 26,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-05-09T21:32:37.606Z"
+}
