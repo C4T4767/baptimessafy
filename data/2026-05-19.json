@@ -1,0 +1,194 @@
+{
+  "date": "2026-05-19",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "김치날치알밥",
+      "courseName": "A:한식",
+      "setName": "김치날치알밥&돼지고기김말이강정",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260519/s20250313105219.jpg",
+      "nutrition": [
+        {
+          "name": "김치날치알밥",
+          "isMain": true,
+          "calorie": 509,
+          "carbohydrate": 88,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 13,
+          "protein": 10
+        },
+        {
+          "name": "쇠고기뭇국",
+          "isMain": false,
+          "calorie": 56,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 2,
+          "protein": 5
+        },
+        {
+          "name": "돼지고기김말이강정",
+          "isMain": false,
+          "calorie": 214,
+          "carbohydrate": 31,
+          "sugar": 10,
+          "fiber": 0,
+          "fat": 7,
+          "protein": 7
+        },
+        {
+          "name": "명란계란찜",
+          "isMain": false,
+          "calorie": 120,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 7,
+          "protein": 12
+        },
+        {
+          "name": "우엉채게맛살조림",
+          "isMain": false,
+          "calorie": 78,
+          "carbohydrate": 15,
+          "sugar": 7,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 3
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 12,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 80,
+          "carbohydrate": 2,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 8,
+          "protein": 1
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "유자차",
+          "isMain": false,
+          "calorie": 50,
+          "carbohydrate": 13,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "냉메밀국수",
+      "courseName": "B:일품",
+      "setName": "냉메밀국수&돼지고기김말이강정",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260519/s20250410083359.png",
+      "nutrition": [
+        {
+          "name": "냉메밀국수",
+          "isMain": true,
+          "calorie": 702,
+          "carbohydrate": 108,
+          "sugar": 36,
+          "fiber": 11,
+          "fat": 22,
+          "protein": 18
+        },
+        {
+          "name": "유부양념밥",
+          "isMain": false,
+          "calorie": 277,
+          "carbohydrate": 55,
+          "sugar": 6,
+          "fiber": 0,
+          "fat": 4,
+          "protein": 6
+        },
+        {
+          "name": "돼지고기김말이강정",
+          "isMain": false,
+          "calorie": 214,
+          "carbohydrate": 31,
+          "sugar": 10,
+          "fiber": 0,
+          "fat": 7,
+          "protein": 7
+        },
+        {
+          "name": "감자크로켓",
+          "isMain": false,
+          "calorie": 186,
+          "carbohydrate": 27,
+          "sugar": 7,
+          "fiber": 1,
+          "fat": 7,
+          "protein": 4
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 12,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 80,
+          "carbohydrate": 2,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 8,
+          "protein": 1
+        },
+        {
+          "name": "오복지무침",
+          "isMain": false,
+          "calorie": 5,
+          "carbohydrate": 1,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "유자차",
+          "isMain": false,
+          "calorie": 50,
+          "carbohydrate": 13,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-05-10T21:36:57.963Z"
+}
