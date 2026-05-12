@@ -1,0 +1,184 @@
+{
+  "date": "2026-05-20",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "비지찌개",
+      "courseName": "A:한식",
+      "setName": "비지찌개&숯불바베큐바&잡채",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260520/s20240426084400.png",
+      "nutrition": [
+        {
+          "name": "비지찌개",
+          "isMain": true,
+          "calorie": 121,
+          "carbohydrate": 10,
+          "sugar": 4,
+          "fiber": 9,
+          "fat": 6,
+          "protein": 7
+        },
+        {
+          "name": "보리밥",
+          "isMain": false,
+          "calorie": 397,
+          "carbohydrate": 91,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 8
+        },
+        {
+          "name": "숯불바베큐바",
+          "isMain": false,
+          "calorie": 116,
+          "carbohydrate": 1,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 8,
+          "protein": 9
+        },
+        {
+          "name": "잡채",
+          "isMain": false,
+          "calorie": 212,
+          "carbohydrate": 38,
+          "sugar": 5,
+          "fiber": 0,
+          "fat": 6,
+          "protein": 1
+        },
+        {
+          "name": "매운감자조림",
+          "isMain": false,
+          "calorie": 96,
+          "carbohydrate": 19,
+          "sugar": 3,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 3
+        },
+        {
+          "name": "김구이",
+          "isMain": false,
+          "calorie": 8,
+          "carbohydrate": 3,
+          "sugar": 0,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 20,
+          "carbohydrate": 5,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "두끼떡볶이",
+      "courseName": "B:일품",
+      "setName": "두끼떡볶이&채소튀김",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260520/s20250507143430.png",
+      "nutrition": [
+        {
+          "name": "두끼떡볶이",
+          "isMain": true,
+          "calorie": 677,
+          "carbohydrate": 141,
+          "sugar": 37,
+          "fiber": 0,
+          "fat": 5,
+          "protein": 17
+        },
+        {
+          "name": "사각어묵국",
+          "isMain": false,
+          "calorie": 71,
+          "carbohydrate": 10,
+          "sugar": 3,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 5
+        },
+        {
+          "name": "채소양념밥",
+          "isMain": false,
+          "calorie": 425,
+          "carbohydrate": 86,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 6,
+          "protein": 8
+        },
+        {
+          "name": "채소튀김",
+          "isMain": false,
+          "calorie": 220,
+          "carbohydrate": 43,
+          "sugar": 3,
+          "fiber": 2,
+          "fat": 4,
+          "protein": 4
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 12,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 29,
+          "carbohydrate": 3,
+          "sugar": 3,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 2
+        },
+        {
+          "name": "사각단무지",
+          "isMain": false,
+          "calorie": 5,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 20,
+          "carbohydrate": 5,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-05-12T22:00:48.049Z"
+}
