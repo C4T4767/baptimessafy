@@ -1,0 +1,194 @@
+{
+  "date": "2026-05-22",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "닭갈비",
+      "courseName": "A:한식",
+      "setName": "닭갈비&알찬소시지전",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260522/s20190321122825.png",
+      "nutrition": [
+        {
+          "name": "닭갈비",
+          "isMain": true,
+          "calorie": 493,
+          "carbohydrate": 49,
+          "sugar": 15,
+          "fiber": 4,
+          "fat": 20,
+          "protein": 29
+        },
+        {
+          "name": "혼합잡곡밥",
+          "isMain": false,
+          "calorie": 355,
+          "carbohydrate": 80,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "아욱된장국",
+          "isMain": false,
+          "calorie": 41,
+          "carbohydrate": 4,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 4
+        },
+        {
+          "name": "알찬소시지전&케찹",
+          "isMain": false,
+          "calorie": 325,
+          "carbohydrate": 29,
+          "sugar": 8,
+          "fiber": 1,
+          "fat": 20,
+          "protein": 8
+        },
+        {
+          "name": "매운미역초무침",
+          "isMain": false,
+          "calorie": 34,
+          "carbohydrate": 8,
+          "sugar": 4,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "일식양배추샐러드",
+          "isMain": false,
+          "calorie": 11,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 60,
+          "carbohydrate": 5,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 4,
+          "protein": 1
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "석류차",
+          "isMain": false,
+          "calorie": 150,
+          "carbohydrate": 37,
+          "sugar": 35,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "키친보스봉골레파스타",
+      "courseName": "B:일품",
+      "setName": "키친보스봉골레파스타&으깬고구마샐러드",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260522/s20260402151909.jpg",
+      "nutrition": [
+        {
+          "name": "키친보스봉골레파스타",
+          "isMain": true,
+          "calorie": 701,
+          "carbohydrate": 97,
+          "sugar": 6,
+          "fiber": 1,
+          "fat": 25,
+          "protein": 21
+        },
+        {
+          "name": "제로탄산",
+          "isMain": false,
+          "calorie": 0,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "마늘바게트",
+          "isMain": false,
+          "calorie": 104,
+          "carbohydrate": 15,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 2
+        },
+        {
+          "name": "으깬고구마샐러드",
+          "isMain": false,
+          "calorie": 277,
+          "carbohydrate": 39,
+          "sugar": 13,
+          "fiber": 3,
+          "fat": 12,
+          "protein": 4
+        },
+        {
+          "name": "일식양배추샐러드",
+          "isMain": false,
+          "calorie": 11,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 46,
+          "carbohydrate": 4,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 0
+        },
+        {
+          "name": "수제피클",
+          "isMain": false,
+          "calorie": 94,
+          "carbohydrate": 23,
+          "sugar": 21,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "석류차",
+          "isMain": false,
+          "calorie": 150,
+          "carbohydrate": 37,
+          "sugar": 35,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-05-13T22:03:32.790Z"
+}
