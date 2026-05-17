@@ -1,0 +1,174 @@
+{
+  "date": "2026-05-26",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "돼지고기김치볶음",
+      "courseName": "A:한식",
+      "setName": "돼지고기김치볶음&두부찜",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260526/s20260410093413.png",
+      "nutrition": [
+        {
+          "name": "돼지고기김치볶음",
+          "isMain": true,
+          "calorie": 284,
+          "carbohydrate": 15,
+          "sugar": 10,
+          "fiber": 1,
+          "fat": 13,
+          "protein": 24
+        },
+        {
+          "name": "차조밥",
+          "isMain": false,
+          "calorie": 381,
+          "carbohydrate": 87,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "미역국",
+          "isMain": false,
+          "calorie": 23,
+          "carbohydrate": 2,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 2,
+          "protein": 1
+        },
+        {
+          "name": "두부찜&양념장",
+          "isMain": false,
+          "calorie": 150,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 7,
+          "fat": 10,
+          "protein": 12
+        },
+        {
+          "name": "매운어묵채볶음",
+          "isMain": false,
+          "calorie": 178,
+          "carbohydrate": 21,
+          "sugar": 7,
+          "fiber": 0,
+          "fat": 6,
+          "protein": 9
+        },
+        {
+          "name": "콩나물무침",
+          "isMain": false,
+          "calorie": 35,
+          "carbohydrate": 3,
+          "sugar": 0,
+          "fiber": 2,
+          "fat": 2,
+          "protein": 4
+        },
+        {
+          "name": "상추겉절이",
+          "isMain": false,
+          "calorie": 25,
+          "carbohydrate": 5,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 20,
+          "carbohydrate": 5,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "굴소스해산물볶음밥",
+      "courseName": "B:일품",
+      "setName": "굴소스해산물볶음밥&깐풍기",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260526/s20260121121228.png",
+      "nutrition": [
+        {
+          "name": "굴소스해산물볶음밥",
+          "isMain": true,
+          "calorie": 655,
+          "carbohydrate": 122,
+          "sugar": 3,
+          "fiber": 1,
+          "fat": 8,
+          "protein": 23
+        },
+        {
+          "name": "미역국",
+          "isMain": false,
+          "calorie": 23,
+          "carbohydrate": 2,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 2,
+          "protein": 1
+        },
+        {
+          "name": "깐풍기",
+          "isMain": false,
+          "calorie": 349,
+          "carbohydrate": 28,
+          "sugar": 15,
+          "fiber": 2,
+          "fat": 21,
+          "protein": 12
+        },
+        {
+          "name": "매운어묵채볶음",
+          "isMain": false,
+          "calorie": 178,
+          "carbohydrate": 21,
+          "sugar": 7,
+          "fiber": 0,
+          "fat": 6,
+          "protein": 9
+        },
+        {
+          "name": "콩나물무침",
+          "isMain": false,
+          "calorie": 35,
+          "carbohydrate": 3,
+          "sugar": 0,
+          "fiber": 2,
+          "fat": 2,
+          "protein": 4
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 20,
+          "carbohydrate": 5,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-05-17T21:42:56.984Z"
+}
