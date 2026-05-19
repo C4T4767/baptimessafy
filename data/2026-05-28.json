@@ -1,0 +1,204 @@
+{
+  "date": "2026-05-28",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "참치김치찌개",
+      "courseName": "A:한식",
+      "setName": "참치김치찌개&계란말이",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260528/s20240930113824.png",
+      "nutrition": [
+        {
+          "name": "참치김치찌개",
+          "isMain": true,
+          "calorie": 198,
+          "carbohydrate": 11,
+          "sugar": 5,
+          "fiber": 3,
+          "fat": 11,
+          "protein": 13
+        },
+        {
+          "name": "혼합잡곡밥",
+          "isMain": false,
+          "calorie": 355,
+          "carbohydrate": 80,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "계란말이&케찹",
+          "isMain": false,
+          "calorie": 202,
+          "carbohydrate": 2,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 13,
+          "protein": 18
+        },
+        {
+          "name": "연근땅콩강정",
+          "isMain": false,
+          "calorie": 149,
+          "carbohydrate": 30,
+          "sugar": 11,
+          "fiber": 2,
+          "fat": 3,
+          "protein": 1
+        },
+        {
+          "name": "멕시칸샐러드",
+          "isMain": false,
+          "calorie": 192,
+          "carbohydrate": 14,
+          "sugar": 5,
+          "fiber": 1,
+          "fat": 12,
+          "protein": 6
+        },
+        {
+          "name": "토마토양상추샐러드",
+          "isMain": false,
+          "calorie": 139,
+          "carbohydrate": 10,
+          "sugar": 6,
+          "fiber": 1,
+          "fat": 11,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 67,
+          "carbohydrate": 4,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 6,
+          "protein": 0
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "아이스티(레몬)",
+          "isMain": false,
+          "calorie": 56,
+          "carbohydrate": 14,
+          "sugar": 14,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "쉬림프로제소스스파게티",
+      "courseName": "B:일품",
+      "setName": "쉬림프로제소스스파게티&클링클컷감자튀김",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/main/100026/1406.png",
+      "nutrition": [
+        {
+          "name": "쉬림프로제소스스파게티",
+          "isMain": true,
+          "calorie": 809,
+          "carbohydrate": 149,
+          "sugar": 7,
+          "fiber": 6,
+          "fat": 18,
+          "protein": 21
+        },
+        {
+          "name": "음료",
+          "isMain": false,
+          "calorie": 84,
+          "carbohydrate": 21,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "모닝빵",
+          "isMain": false,
+          "calorie": 208,
+          "carbohydrate": 18,
+          "sugar": 6,
+          "fiber": 0,
+          "fat": 14,
+          "protein": 2
+        },
+        {
+          "name": "딸기잼",
+          "isMain": false,
+          "calorie": 73,
+          "carbohydrate": 19,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "클링클컷감자튀김",
+          "isMain": false,
+          "calorie": 141,
+          "carbohydrate": 17,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 7,
+          "protein": 2
+        },
+        {
+          "name": "토마토양상추샐러드",
+          "isMain": false,
+          "calorie": 139,
+          "carbohydrate": 10,
+          "sugar": 6,
+          "fiber": 1,
+          "fat": 11,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 67,
+          "carbohydrate": 4,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 6,
+          "protein": 0
+        },
+        {
+          "name": "피클",
+          "isMain": false,
+          "calorie": 64,
+          "carbohydrate": 15,
+          "sugar": 16,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "아이스티(레몬)",
+          "isMain": false,
+          "calorie": 56,
+          "carbohydrate": 14,
+          "sugar": 14,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-05-19T22:04:02.059Z"
+}
