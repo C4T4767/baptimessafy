@@ -1,0 +1,164 @@
+{
+  "date": "2026-06-02",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "신창돼지국밥(새우젓&다데기)",
+      "courseName": "A:한식",
+      "setName": "신창돼지국밥&장떡",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260602/s20250408132916.png",
+      "nutrition": [
+        {
+          "name": "신창돼지국밥(새우젓&다데기)",
+          "isMain": true,
+          "calorie": 317,
+          "carbohydrate": 18,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 17,
+          "protein": 23
+        },
+        {
+          "name": "차조밥",
+          "isMain": false,
+          "calorie": 381,
+          "carbohydrate": 87,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "장떡",
+          "isMain": false,
+          "calorie": 123,
+          "carbohydrate": 27,
+          "sugar": 4,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 4
+        },
+        {
+          "name": "오이생채",
+          "isMain": false,
+          "calorie": 36,
+          "carbohydrate": 7,
+          "sugar": 4,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "양파초간장절임",
+          "isMain": false,
+          "calorie": 35,
+          "carbohydrate": 8,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 20,
+          "carbohydrate": 5,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "간자장면",
+      "courseName": "B:일품",
+      "setName": "간자장면&군만두",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260602/s20230424102924.png",
+      "nutrition": [
+        {
+          "name": "간자장면",
+          "isMain": true,
+          "calorie": 621,
+          "carbohydrate": 98,
+          "sugar": 17,
+          "fiber": 5,
+          "fat": 15,
+          "protein": 22
+        },
+        {
+          "name": "쌀밥",
+          "isMain": false,
+          "calorie": 104,
+          "carbohydrate": 24,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "부추계란국",
+          "isMain": false,
+          "calorie": 59,
+          "carbohydrate": 2,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 5
+        },
+        {
+          "name": "야끼만두",
+          "isMain": false,
+          "calorie": 223,
+          "carbohydrate": 32,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 7,
+          "protein": 8
+        },
+        {
+          "name": "짜사이채무침",
+          "isMain": false,
+          "calorie": 22,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 20,
+          "carbohydrate": 5,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-05-24T21:43:31.262Z"
+}
