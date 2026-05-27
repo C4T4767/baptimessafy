@@ -1,0 +1,96 @@
+{
+  "date": "2026-06-05",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "양지쌀국수",
+      "courseName": "A:한식",
+      "setName": "양지쌀국수&mini파인애플볶음밥",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260605/s20240823123810.png",
+      "nutrition": [
+        {
+          "name": "양지쌀국수",
+          "isMain": true,
+          "calorie": 474,
+          "carbohydrate": 84,
+          "sugar": 4,
+          "fiber": 4,
+          "fat": 5,
+          "protein": 16
+        },
+        {
+          "name": "mini파인애플볶음밥",
+          "isMain": false,
+          "calorie": 459,
+          "carbohydrate": 87,
+          "sugar": 3,
+          "fiber": 2,
+          "fat": 9,
+          "protein": 8
+        },
+        {
+          "name": "알새추칩",
+          "isMain": false,
+          "calorie": 78,
+          "carbohydrate": 10,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 4,
+          "protein": 0
+        },
+        {
+          "name": "달콤팥춘권",
+          "isMain": false,
+          "calorie": 142,
+          "carbohydrate": 27,
+          "sugar": 10,
+          "fiber": 0,
+          "fat": 2,
+          "protein": 3
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 12,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 35,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 0
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "복분자홍차 ",
+          "isMain": false,
+          "calorie": 107,
+          "carbohydrate": 27,
+          "sugar": 16,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 1
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-05-27T22:24:00.010Z"
+}
