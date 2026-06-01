@@ -2,6 +2,85 @@
   "date": "2026-06-08",
   "restaurant": "멀티캠퍼스",
   "mealTime": "점심",
-  "meals": [],
-  "updatedAt": "2026-05-31T21:45:50.824Z"
+  "meals": [
+    {
+      "name": "이차돌된장찌개",
+      "courseName": "A:한식",
+      "setName": "이차돌된장찌개&계란말이",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260608/s20260519130335.png",
+      "nutrition": [
+        {
+          "name": "이차돌된장찌개",
+          "isMain": true,
+          "calorie": 114,
+          "carbohydrate": 10,
+          "sugar": 1,
+          "fiber": 3,
+          "fat": 5,
+          "protein": 8
+        },
+        {
+          "name": "흑미밥",
+          "isMain": false,
+          "calorie": 354,
+          "carbohydrate": 81,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 7
+        },
+        {
+          "name": "계란말이",
+          "isMain": false,
+          "calorie": 202,
+          "carbohydrate": 2,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 13,
+          "protein": 18
+        },
+        {
+          "name": "콩나물당면볶음",
+          "isMain": false,
+          "calorie": 162,
+          "carbohydrate": 21,
+          "sugar": 3,
+          "fiber": 2,
+          "fat": 8,
+          "protein": 5
+        },
+        {
+          "name": "우엉채게맛살조림",
+          "isMain": false,
+          "calorie": 78,
+          "carbohydrate": 15,
+          "sugar": 7,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 3
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "석류차",
+          "isMain": false,
+          "calorie": 150,
+          "carbohydrate": 37,
+          "sugar": 35,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-06-01T22:54:08.862Z"
 }

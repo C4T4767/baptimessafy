@@ -2,6 +2,95 @@
   "date": "2026-06-09",
   "restaurant": "멀티캠퍼스",
   "mealTime": "점심",
-  "meals": [],
-  "updatedAt": "2026-05-31T21:45:51.029Z"
+  "meals": [
+    {
+      "name": "냉김치말이국수",
+      "courseName": "A:한식",
+      "setName": "冷김치말이국수&녹두전",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260609/s20250429111109.png",
+      "nutrition": [
+        {
+          "name": "냉김치말이국수",
+          "isMain": true,
+          "calorie": 521,
+          "carbohydrate": 102,
+          "sugar": 25,
+          "fiber": 2,
+          "fat": 4,
+          "protein": 18
+        },
+        {
+          "name": "보리밥*참기름&비빔고추장",
+          "isMain": false,
+          "calorie": 238,
+          "carbohydrate": 55,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 5
+        },
+        {
+          "name": "열무김치",
+          "isMain": false,
+          "calorie": 34,
+          "carbohydrate": 5,
+          "sugar": 1,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "녹두전",
+          "isMain": false,
+          "calorie": 80,
+          "carbohydrate": 13,
+          "sugar": 0,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 4
+        },
+        {
+          "name": "멕시칸샐러드",
+          "isMain": false,
+          "calorie": 192,
+          "carbohydrate": 14,
+          "sugar": 5,
+          "fiber": 1,
+          "fat": 12,
+          "protein": 6
+        },
+        {
+          "name": "단무지",
+          "isMain": false,
+          "calorie": 5,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "찐옥수수",
+          "isMain": false,
+          "calorie": 268,
+          "carbohydrate": 58,
+          "sugar": 5,
+          "fiber": 6,
+          "fat": 1,
+          "protein": 9
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 20,
+          "carbohydrate": 5,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-06-01T22:54:09.694Z"
 }
