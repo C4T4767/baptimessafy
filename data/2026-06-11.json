@@ -1,0 +1,106 @@
+{
+  "date": "2026-06-11",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "수제오므라이스",
+      "courseName": "A:한식",
+      "setName": "수제오므라이스&카레크로켓",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/main/100026/1376.png",
+      "nutrition": [
+        {
+          "name": "수제오므라이스",
+          "isMain": true,
+          "calorie": 281,
+          "carbohydrate": 26,
+          "sugar": 8,
+          "fiber": 2,
+          "fat": 11,
+          "protein": 17
+        },
+        {
+          "name": "세블락소시지구이",
+          "isMain": false,
+          "calorie": 254,
+          "carbohydrate": 10,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 17,
+          "protein": 15
+        },
+        {
+          "name": "가다랭이국",
+          "isMain": false,
+          "calorie": 9,
+          "carbohydrate": 2,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "카레크로켓",
+          "isMain": false,
+          "calorie": 185,
+          "carbohydrate": 20,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 11,
+          "protein": 2
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 13,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 20,
+          "carbohydrate": 3,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "무말랭이고춧잎무침",
+          "isMain": false,
+          "calorie": 33,
+          "carbohydrate": 7,
+          "sugar": 1,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "아이스티(레몬)",
+          "isMain": false,
+          "calorie": 56,
+          "carbohydrate": 14,
+          "sugar": 14,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-06-02T22:53:50.806Z"
+}
