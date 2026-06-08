@@ -2,6 +2,85 @@
   "date": "2026-06-16",
   "restaurant": "멀티캠퍼스",
   "mealTime": "점심",
-  "meals": [],
-  "updatedAt": "2026-06-07T21:56:28.222Z"
+  "meals": [
+    {
+      "name": "(뚝)순두부찌개",
+      "courseName": "A:한식",
+      "setName": "(뚝)순두부찌개&숯불바베큐바조림",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260616/s20250327064225.png",
+      "nutrition": [
+        {
+          "name": "(뚝)순두부찌개",
+          "isMain": true,
+          "calorie": 252,
+          "carbohydrate": 13,
+          "sugar": 6,
+          "fiber": 3,
+          "fat": 16,
+          "protein": 16
+        },
+        {
+          "name": "혼합잡곡밥",
+          "isMain": false,
+          "calorie": 355,
+          "carbohydrate": 80,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "숯불바베큐바조림",
+          "isMain": false,
+          "calorie": 116,
+          "carbohydrate": 1,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 8,
+          "protein": 9
+        },
+        {
+          "name": "버섯굴소스볶음",
+          "isMain": false,
+          "calorie": 82,
+          "carbohydrate": 10,
+          "sugar": 4,
+          "fiber": 3,
+          "fat": 4,
+          "protein": 3
+        },
+        {
+          "name": "치커리들깨소스무침",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "수정과",
+          "isMain": false,
+          "calorie": 80,
+          "carbohydrate": 20,
+          "sugar": 19,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-06-08T22:17:54.983Z"
 }
