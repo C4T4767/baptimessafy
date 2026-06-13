@@ -1,0 +1,174 @@
+{
+  "date": "2026-06-22",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "이화수전통육개장",
+      "courseName": "A:한식",
+      "setName": "이화수전통육개장&버섯탕수",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260622/s20251003110617.png",
+      "nutrition": [
+        {
+          "name": "이화수전통육개장",
+          "isMain": true,
+          "calorie": 252,
+          "carbohydrate": 13,
+          "sugar": 3,
+          "fiber": 2,
+          "fat": 13,
+          "protein": 19
+        },
+        {
+          "name": "흑미밥",
+          "isMain": false,
+          "calorie": 346,
+          "carbohydrate": 79,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 6
+        },
+        {
+          "name": "버섯탕수",
+          "isMain": false,
+          "calorie": 306,
+          "carbohydrate": 68,
+          "sugar": 22,
+          "fiber": 1,
+          "fat": 4,
+          "protein": 5
+        },
+        {
+          "name": "두부고추장조림",
+          "isMain": false,
+          "calorie": 294,
+          "carbohydrate": 11,
+          "sugar": 6,
+          "fiber": 6,
+          "fat": 23,
+          "protein": 10
+        },
+        {
+          "name": "오이양파무침",
+          "isMain": false,
+          "calorie": 35,
+          "carbohydrate": 7,
+          "sugar": 4,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "석류차",
+          "isMain": false,
+          "calorie": 150,
+          "carbohydrate": 37,
+          "sugar": 35,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "해물볶음우동",
+      "courseName": "B:일품",
+      "setName": "해물볶음우동&옥수수빠스",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260622/s20260108092305.png",
+      "nutrition": [
+        {
+          "name": "해물볶음우동",
+          "isMain": true,
+          "calorie": 604,
+          "carbohydrate": 95,
+          "sugar": 15,
+          "fiber": 6,
+          "fat": 12,
+          "protein": 23
+        },
+        {
+          "name": "쌀밥&후리가케",
+          "isMain": false,
+          "calorie": 209,
+          "carbohydrate": 48,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 4
+        },
+        {
+          "name": "가다랭이국",
+          "isMain": false,
+          "calorie": 9,
+          "carbohydrate": 2,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "옥수수빠스",
+          "isMain": false,
+          "calorie": 245,
+          "carbohydrate": 50,
+          "sugar": 17,
+          "fiber": 3,
+          "fat": 5,
+          "protein": 4
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 13,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 15,
+          "carbohydrate": 1,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "단무지",
+          "isMain": false,
+          "calorie": 5,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "석류차",
+          "isMain": false,
+          "calorie": 150,
+          "carbohydrate": 37,
+          "sugar": 35,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-06-13T21:55:24.373Z"
+}
