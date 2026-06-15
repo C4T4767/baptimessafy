@@ -1,0 +1,174 @@
+{
+  "date": "2026-06-24",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "황생가사골떡만둣국",
+      "courseName": "A:한식",
+      "setName": "황생가사골떡만둣국&분홍소시지전",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260624/s20251015203345.png",
+      "nutrition": [
+        {
+          "name": "황생가사골떡만둣국",
+          "isMain": true,
+          "calorie": 434,
+          "carbohydrate": 57,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 14,
+          "protein": 19
+        },
+        {
+          "name": "현미밥",
+          "isMain": false,
+          "calorie": 208,
+          "carbohydrate": 47,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 4
+        },
+        {
+          "name": "분홍소시지전&케찹",
+          "isMain": false,
+          "calorie": 325,
+          "carbohydrate": 29,
+          "sugar": 8,
+          "fiber": 1,
+          "fat": 20,
+          "protein": 8
+        },
+        {
+          "name": "쫄면채소무침",
+          "isMain": false,
+          "calorie": 265,
+          "carbohydrate": 54,
+          "sugar": 14,
+          "fiber": 2,
+          "fat": 3,
+          "protein": 8
+        },
+        {
+          "name": "느타리게맛살볶음",
+          "isMain": false,
+          "calorie": 68,
+          "carbohydrate": 6,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 4,
+          "protein": 2
+        },
+        {
+          "name": "배추겉절이",
+          "isMain": false,
+          "calorie": 34,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 4,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "복분자차 ",
+          "isMain": false,
+          "calorie": 150,
+          "carbohydrate": 38,
+          "sugar": 26,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "왕새우튀김덮밥",
+      "courseName": "B:일품",
+      "setName": "왕새우튀김덮밥&땅콩깐풍기",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260624/s20260409152259.png",
+      "nutrition": [
+        {
+          "name": "왕새우튀김덮밥",
+          "isMain": true,
+          "calorie": 730,
+          "carbohydrate": 131,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 14,
+          "protein": 21
+        },
+        {
+          "name": "계란팟국",
+          "isMain": false,
+          "calorie": 45,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 4
+        },
+        {
+          "name": "땅콩깐풍기",
+          "isMain": false,
+          "calorie": 436,
+          "carbohydrate": 28,
+          "sugar": 11,
+          "fiber": 3,
+          "fat": 29,
+          "protein": 15
+        },
+        {
+          "name": "쫄면채소무침",
+          "isMain": false,
+          "calorie": 265,
+          "carbohydrate": 54,
+          "sugar": 14,
+          "fiber": 2,
+          "fat": 3,
+          "protein": 8
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 13,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 55,
+          "carbohydrate": 5,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 4,
+          "protein": 0
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "복분자차 ",
+          "isMain": false,
+          "calorie": 150,
+          "carbohydrate": 38,
+          "sugar": 26,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-06-15T22:53:09.026Z"
+}
