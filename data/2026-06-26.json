@@ -1,0 +1,174 @@
+{
+  "date": "2026-06-26",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "새우볶음밥",
+      "courseName": "A:한식",
+      "setName": "새우볶음밥&떡볶이",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/main/100026/1019.png",
+      "nutrition": [
+        {
+          "name": "새우볶음밥",
+          "isMain": true,
+          "calorie": 470,
+          "carbohydrate": 86,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 7,
+          "protein": 16
+        },
+        {
+          "name": "미역국",
+          "isMain": false,
+          "calorie": 23,
+          "carbohydrate": 2,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 2,
+          "protein": 1
+        },
+        {
+          "name": "떡볶이",
+          "isMain": false,
+          "calorie": 353,
+          "carbohydrate": 74,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 3,
+          "protein": 7
+        },
+        {
+          "name": "비빔채소만두",
+          "isMain": false,
+          "calorie": 340,
+          "carbohydrate": 46,
+          "sugar": 12,
+          "fiber": 2,
+          "fat": 12,
+          "protein": 9
+        },
+        {
+          "name": "푸실리샐러드",
+          "isMain": false,
+          "calorie": 124,
+          "carbohydrate": 26,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 4
+        },
+        {
+          "name": "깍둑단무지",
+          "isMain": false,
+          "calorie": 5,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "아이스티(레몬)",
+          "isMain": false,
+          "calorie": 56,
+          "carbohydrate": 14,
+          "sugar": 14,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "잔치국수",
+      "courseName": "B:일품",
+      "setName": "잔치국수&비빔채소만두",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260626/s20240628063903.png",
+      "nutrition": [
+        {
+          "name": "잔치국수",
+          "isMain": true,
+          "calorie": 671,
+          "carbohydrate": 142,
+          "sugar": 10,
+          "fiber": 1,
+          "fat": 3,
+          "protein": 19
+        },
+        {
+          "name": "우엉양념밥",
+          "isMain": false,
+          "calorie": 383,
+          "carbohydrate": 88,
+          "sugar": 4,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 7
+        },
+        {
+          "name": "떡볶이",
+          "isMain": false,
+          "calorie": 353,
+          "carbohydrate": 74,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 3,
+          "protein": 7
+        },
+        {
+          "name": "비빔채소만두",
+          "isMain": false,
+          "calorie": 340,
+          "carbohydrate": 46,
+          "sugar": 12,
+          "fiber": 2,
+          "fat": 12,
+          "protein": 9
+        },
+        {
+          "name": "푸실리샐러드",
+          "isMain": false,
+          "calorie": 124,
+          "carbohydrate": 26,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 4
+        },
+        {
+          "name": "배추겉절이",
+          "isMain": false,
+          "calorie": 34,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 4,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "아이스티(레몬)",
+          "isMain": false,
+          "calorie": 56,
+          "carbohydrate": 14,
+          "sugar": 14,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-06-17T22:28:03.530Z"
+}
