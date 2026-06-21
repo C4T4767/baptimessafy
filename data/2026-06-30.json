@@ -1,0 +1,86 @@
+{
+  "date": "2026-06-30",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "동태매운탕(뚝)",
+      "courseName": "A:한식",
+      "setName": "동태매운탕(뚝)&부추전",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/main/100026/1108.png",
+      "nutrition": [
+        {
+          "name": "동태매운탕(뚝)",
+          "isMain": true,
+          "calorie": 217,
+          "carbohydrate": 15,
+          "sugar": 5,
+          "fiber": 5,
+          "fat": 4,
+          "protein": 31
+        },
+        {
+          "name": "흑미밥 ",
+          "isMain": false,
+          "calorie": 346,
+          "carbohydrate": 79,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 6
+        },
+        {
+          "name": "계란찜",
+          "isMain": false,
+          "calorie": 128,
+          "carbohydrate": 2,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 8,
+          "protein": 12
+        },
+        {
+          "name": "부추전",
+          "isMain": false,
+          "calorie": 157,
+          "carbohydrate": 32,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 2,
+          "protein": 5
+        },
+        {
+          "name": "김구이",
+          "isMain": false,
+          "calorie": 8,
+          "carbohydrate": 3,
+          "sugar": 0,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "모과차",
+          "isMain": false,
+          "calorie": 33,
+          "carbohydrate": 8,
+          "sugar": 7,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-06-21T22:06:46.113Z"
+}
