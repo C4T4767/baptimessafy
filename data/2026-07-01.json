@@ -1,0 +1,106 @@
+{
+  "date": "2026-07-01",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "숯불닭갈비",
+      "courseName": "A:한식",
+      "setName": "숯불닭갈비&단호박전",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260701/s20190321122825.png",
+      "nutrition": [
+        {
+          "name": "숯불닭갈비",
+          "isMain": true,
+          "calorie": 493,
+          "carbohydrate": 49,
+          "sugar": 15,
+          "fiber": 4,
+          "fat": 20,
+          "protein": 29
+        },
+        {
+          "name": "수수밥",
+          "isMain": false,
+          "calorie": 382,
+          "carbohydrate": 87,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "동치미",
+          "isMain": false,
+          "calorie": 10,
+          "carbohydrate": 2,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "단호박전",
+          "isMain": false,
+          "calorie": 173,
+          "carbohydrate": 37,
+          "sugar": 6,
+          "fiber": 6,
+          "fat": 3,
+          "protein": 4
+        },
+        {
+          "name": "양배추샐러드",
+          "isMain": false,
+          "calorie": 17,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 22,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "상추겉절이",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "복분자홍초 ",
+          "isMain": false,
+          "calorie": 107,
+          "carbohydrate": 27,
+          "sugar": 16,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 1
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-06-22T22:29:29.506Z"
+}
