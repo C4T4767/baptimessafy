@@ -1,0 +1,96 @@
+{
+  "date": "2026-07-02",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "버섯콩나물밥",
+      "courseName": "A:한식",
+      "setName": "버섯콩나물밥&깻잎고기전",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/main/100034/1013.png",
+      "nutrition": [
+        {
+          "name": "버섯콩나물밥",
+          "isMain": true,
+          "calorie": 399,
+          "carbohydrate": 87,
+          "sugar": 1,
+          "fiber": 3,
+          "fat": 2,
+          "protein": 12
+        },
+        {
+          "name": "쇠고기뭇국",
+          "isMain": false,
+          "calorie": 56,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 2,
+          "protein": 5
+        },
+        {
+          "name": "깻잎고기전",
+          "isMain": false,
+          "calorie": 125,
+          "carbohydrate": 5,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 9,
+          "protein": 6
+        },
+        {
+          "name": "애호박전",
+          "isMain": false,
+          "calorie": 75,
+          "carbohydrate": 10,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 2,
+          "protein": 4
+        },
+        {
+          "name": "매운감자조림",
+          "isMain": false,
+          "calorie": 96,
+          "carbohydrate": 19,
+          "sugar": 3,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 3
+        },
+        {
+          "name": "두부찜",
+          "isMain": false,
+          "calorie": 150,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 7,
+          "fat": 10,
+          "protein": 12
+        },
+        {
+          "name": "김치볶음",
+          "isMain": false,
+          "calorie": 111,
+          "carbohydrate": 13,
+          "sugar": 8,
+          "fiber": 1,
+          "fat": 5,
+          "protein": 3
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 90,
+          "carbohydrate": 23,
+          "sugar": 20,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-06-23T22:06:55.170Z"
+}
