@@ -1,0 +1,96 @@
+{
+  "date": "2026-07-03",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "마파두부덮밥",
+      "courseName": "A:한식",
+      "setName": "마파두부덮밥&수제깐풍기",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260703/s20241014100316.png",
+      "nutrition": [
+        {
+          "name": "마파두부덮밥",
+          "isMain": true,
+          "calorie": 953,
+          "carbohydrate": 101,
+          "sugar": 5,
+          "fiber": 9,
+          "fat": 45,
+          "protein": 34
+        },
+        {
+          "name": "부추계란국",
+          "isMain": false,
+          "calorie": 59,
+          "carbohydrate": 2,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 5
+        },
+        {
+          "name": "수제깐풍기",
+          "isMain": false,
+          "calorie": 508,
+          "carbohydrate": 58,
+          "sugar": 11,
+          "fiber": 1,
+          "fat": 20,
+          "protein": 22
+        },
+        {
+          "name": "삼색겨자냉채",
+          "isMain": false,
+          "calorie": 56,
+          "carbohydrate": 10,
+          "sugar": 6,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 3
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 13,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 18,
+          "carbohydrate": 3,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "아이스티(복숭아)",
+          "isMain": false,
+          "calorie": 49,
+          "carbohydrate": 8,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 1
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-06-24T22:05:44.985Z"
+}
