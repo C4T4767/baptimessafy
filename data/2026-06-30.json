@@ -4,77 +4,87 @@
   "mealTime": "점심",
   "meals": [
     {
-      "name": "동태매운탕(뚝)",
+      "name": "마파두부덮밥",
       "courseName": "A:한식",
-      "setName": "동태매운탕(뚝)&부추전",
-      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/main/100026/1108.png",
+      "setName": "마파두부덮밥&직접만든땅콩깐풍기",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260630/s20250102110811.png",
       "nutrition": [
         {
-          "name": "동태매운탕(뚝)",
+          "name": "마파두부덮밥",
           "isMain": true,
-          "calorie": 217,
-          "carbohydrate": 15,
+          "calorie": 936,
+          "carbohydrate": 101,
           "sugar": 5,
-          "fiber": 5,
-          "fat": 4,
-          "protein": 31
+          "fiber": 9,
+          "fat": 44.3,
+          "protein": 33
         },
         {
-          "name": "흑미밥 ",
+          "name": "부추계란국",
           "isMain": false,
-          "calorie": 346,
-          "carbohydrate": 79,
-          "sugar": 0,
-          "fiber": 0,
-          "fat": 0,
-          "protein": 6
-        },
-        {
-          "name": "계란찜",
-          "isMain": false,
-          "calorie": 128,
-          "carbohydrate": 2,
-          "sugar": 0,
-          "fiber": 0,
-          "fat": 8,
-          "protein": 12
-        },
-        {
-          "name": "부추전",
-          "isMain": false,
-          "calorie": 157,
-          "carbohydrate": 32,
+          "calorie": 40,
+          "carbohydrate": 1,
           "sugar": 0,
           "fiber": 1,
-          "fat": 2,
-          "protein": 5
+          "fat": 2.3,
+          "protein": 3
         },
         {
-          "name": "김구이",
+          "name": "직접만든땅콩깐풍기",
           "isMain": false,
-          "calorie": 8,
+          "calorie": 448,
+          "carbohydrate": 58,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 16.8,
+          "protein": 15
+        },
+        {
+          "name": "삼색겨자냉채",
+          "isMain": false,
+          "calorie": 38,
+          "carbohydrate": 7,
+          "sugar": 3,
+          "fiber": 1,
+          "fat": 0.4,
+          "protein": 1
+        },
+        {
+          "name": "그린샐러드",
+          "isMain": false,
+          "calorie": 11,
+          "carbohydrate": 2,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0.2,
+          "protein": 1
+        },
+        {
+          "name": "오리엔탈드레싱",
+          "isMain": false,
+          "calorie": 19,
           "carbohydrate": 3,
           "sugar": 0,
-          "fiber": 2,
-          "fat": 0,
-          "protein": 2
+          "fiber": 0,
+          "fat": 0.7,
+          "protein": 0
         },
         {
           "name": "깍두기",
           "isMain": false,
-          "calorie": 31,
-          "carbohydrate": 6,
-          "sugar": 3,
-          "fiber": 3,
-          "fat": 0,
+          "calorie": 15,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 2,
+          "fat": 0.1,
           "protein": 1
         },
         {
-          "name": "모과차",
+          "name": "아이스티(복숭아)",
           "isMain": false,
-          "calorie": 33,
-          "carbohydrate": 8,
-          "sugar": 7,
+          "calorie": 56,
+          "carbohydrate": 14,
+          "sugar": 14,
           "fiber": 0,
           "fat": 0,
           "protein": 0
@@ -82,5 +92,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-24T22:05:43.183Z"
+  "updatedAt": "2026-06-25T22:14:24.430Z"
 }
