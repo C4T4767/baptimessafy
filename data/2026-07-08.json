@@ -2,6 +2,163 @@
   "date": "2026-07-08",
   "restaurant": "멀티캠퍼스",
   "mealTime": "점심",
-  "meals": [],
-  "updatedAt": "2026-07-01T22:11:10.289Z"
+  "meals": [
+    {
+      "name": "황생가사골떡만둣국",
+      "courseName": "A:한식",
+      "setName": "황생가사골떡만둣국&오징어김치전",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260708/s20251015203345.png",
+      "nutrition": [
+        {
+          "name": "황생가사골떡만둣국",
+          "isMain": true,
+          "calorie": 434,
+          "carbohydrate": 57,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 14,
+          "protein": 19
+        },
+        {
+          "name": "보리밥",
+          "isMain": false,
+          "calorie": 238,
+          "carbohydrate": 55,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 5
+        },
+        {
+          "name": "오징어김치전",
+          "isMain": false,
+          "calorie": 188,
+          "carbohydrate": 30,
+          "sugar": 1,
+          "fiber": 2,
+          "fat": 2,
+          "protein": 11
+        },
+        {
+          "name": "죽봉어묵볶음",
+          "isMain": false,
+          "calorie": 170,
+          "carbohydrate": 16,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 6,
+          "protein": 11
+        },
+        {
+          "name": "상추겉절이",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 69,
+          "carbohydrate": 17,
+          "sugar": 15,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "돼지고기카레라이스",
+      "courseName": "B:일품",
+      "setName": "돼지고기카레라이스&쫄면채소무침",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260708/s20241108084530.png",
+      "nutrition": [
+        {
+          "name": "돼지고기카레라이스",
+          "isMain": true,
+          "calorie": 592,
+          "carbohydrate": 112,
+          "sugar": 9,
+          "fiber": 1,
+          "fat": 10,
+          "protein": 15
+        },
+        {
+          "name": "미소장국",
+          "isMain": false,
+          "calorie": 36,
+          "carbohydrate": 2,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 2,
+          "protein": 3
+        },
+        {
+          "name": "쫄면채소무침",
+          "isMain": false,
+          "calorie": 265,
+          "carbohydrate": 54,
+          "sugar": 14,
+          "fiber": 2,
+          "fat": 3,
+          "protein": 8
+        },
+        {
+          "name": "죽봉어묵볶음",
+          "isMain": false,
+          "calorie": 170,
+          "carbohydrate": 16,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 6,
+          "protein": 11
+        },
+        {
+          "name": "상추겉절이",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "단무지",
+          "isMain": false,
+          "calorie": 5,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 69,
+          "carbohydrate": 17,
+          "sugar": 15,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-02T21:56:41.535Z"
 }

@@ -2,6 +2,173 @@
   "date": "2026-07-06",
   "restaurant": "멀티캠퍼스",
   "mealTime": "점심",
-  "meals": [],
-  "updatedAt": "2026-07-01T22:11:09.858Z"
+  "meals": [
+    {
+      "name": "사골우거지탕",
+      "courseName": "A:한식",
+      "setName": "사골우거지탕&돼지고기땅콩강정",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260706/s20220307164334.png",
+      "nutrition": [
+        {
+          "name": "사골우거지탕",
+          "isMain": true,
+          "calorie": 66,
+          "carbohydrate": 6,
+          "sugar": 2,
+          "fiber": 3,
+          "fat": 2,
+          "protein": 8
+        },
+        {
+          "name": "흑미밥",
+          "isMain": false,
+          "calorie": 354,
+          "carbohydrate": 81,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 7
+        },
+        {
+          "name": "돼지고기땅콩강정",
+          "isMain": false,
+          "calorie": 272,
+          "carbohydrate": 33,
+          "sugar": 8,
+          "fiber": 0,
+          "fat": 11,
+          "protein": 9
+        },
+        {
+          "name": "꽈리고추멸치볶음",
+          "isMain": false,
+          "calorie": 73,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 4,
+          "protein": 5
+        },
+        {
+          "name": "열무생채",
+          "isMain": false,
+          "calorie": 18,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "건파래볶음",
+          "isMain": false,
+          "calorie": 28,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 2
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "유자차",
+          "isMain": false,
+          "calorie": 50,
+          "carbohydrate": 13,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "왕새우튀김우동",
+      "courseName": "B:일품",
+      "setName": "왕새우튀김우동&돼지고기땅콩강정",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260706/s20260310135447.png",
+      "nutrition": [
+        {
+          "name": "왕새우튀김우동",
+          "isMain": true,
+          "calorie": 528,
+          "carbohydrate": 87,
+          "sugar": 4,
+          "fiber": 6,
+          "fat": 11,
+          "protein": 16
+        },
+        {
+          "name": "오복지볶음밥",
+          "isMain": false,
+          "calorie": 294,
+          "carbohydrate": 59,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 4,
+          "protein": 5
+        },
+        {
+          "name": "돼지고기땅콩강정",
+          "isMain": false,
+          "calorie": 272,
+          "carbohydrate": 33,
+          "sugar": 8,
+          "fiber": 0,
+          "fat": 11,
+          "protein": 9
+        },
+        {
+          "name": "코올슬로",
+          "isMain": false,
+          "calorie": 153,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 1,
+          "fat": 14,
+          "protein": 1
+        },
+        {
+          "name": "무말랭이고춧잎무침",
+          "isMain": false,
+          "calorie": 24,
+          "carbohydrate": 5,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "유자차",
+          "isMain": false,
+          "calorie": 50,
+          "carbohydrate": 13,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-02T21:56:39.843Z"
 }
