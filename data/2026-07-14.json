@@ -1,0 +1,174 @@
+{
+  "date": "2026-07-14",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "이차돌된장찌개",
+      "courseName": "A:한식",
+      "setName": "이차돌된장찌개&바싹불고기",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260714/s20260519130335.png",
+      "nutrition": [
+        {
+          "name": "이차돌된장찌개",
+          "isMain": true,
+          "calorie": 114,
+          "carbohydrate": 10,
+          "sugar": 1,
+          "fiber": 3,
+          "fat": 5,
+          "protein": 8
+        },
+        {
+          "name": "보리밥",
+          "isMain": false,
+          "calorie": 397,
+          "carbohydrate": 91,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 8
+        },
+        {
+          "name": "언양식바싹불고기",
+          "isMain": false,
+          "calorie": 192,
+          "carbohydrate": 12,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 8,
+          "protein": 18
+        },
+        {
+          "name": "느타리버섯볶음",
+          "isMain": false,
+          "calorie": 57,
+          "carbohydrate": 5,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 4,
+          "protein": 2
+        },
+        {
+          "name": "부추적채겉절이",
+          "isMain": false,
+          "calorie": 25,
+          "carbohydrate": 5,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "김구이",
+          "isMain": false,
+          "calorie": 8,
+          "carbohydrate": 3,
+          "sugar": 0,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 69,
+          "carbohydrate": 17,
+          "sugar": 15,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "케찹오므라이스",
+      "courseName": "B:일품",
+      "setName": "케찹오므라이스&미니떡볶이",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/main/100026/1376.png",
+      "nutrition": [
+        {
+          "name": "케찹오므라이스",
+          "isMain": true,
+          "calorie": 508,
+          "carbohydrate": 100,
+          "sugar": 6,
+          "fiber": 1,
+          "fat": 6,
+          "protein": 14
+        },
+        {
+          "name": "일식장국",
+          "isMain": false,
+          "calorie": 18,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 2
+        },
+        {
+          "name": "미니떡볶이",
+          "isMain": false,
+          "calorie": 353,
+          "carbohydrate": 74,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 2,
+          "protein": 7
+        },
+        {
+          "name": "단호박샐러드",
+          "isMain": false,
+          "calorie": 142,
+          "carbohydrate": 19,
+          "sugar": 8,
+          "fiber": 0,
+          "fat": 7,
+          "protein": 1
+        },
+        {
+          "name": "부추적채겉절이",
+          "isMain": false,
+          "calorie": 25,
+          "carbohydrate": 5,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "오이피클",
+          "isMain": false,
+          "calorie": 64,
+          "carbohydrate": 15,
+          "sugar": 16,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 69,
+          "carbohydrate": 17,
+          "sugar": 15,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-05T21:48:25.990Z"
+}
