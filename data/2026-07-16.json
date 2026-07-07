@@ -1,0 +1,184 @@
+{
+  "date": "2026-07-16",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "김치날치알밥",
+      "courseName": "A:한식",
+      "setName": "김치날치알밥&생선커틀릿",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260716/s20250313105219.jpg",
+      "nutrition": [
+        {
+          "name": "김치날치알밥",
+          "isMain": true,
+          "calorie": 508,
+          "carbohydrate": 88,
+          "sugar": 3,
+          "fiber": 2,
+          "fat": 13,
+          "protein": 10
+        },
+        {
+          "name": "가다랭이국",
+          "isMain": false,
+          "calorie": 4,
+          "carbohydrate": 0,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "생선커틀릿&타르타르",
+          "isMain": false,
+          "calorie": 244,
+          "carbohydrate": 25,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 8,
+          "protein": 16
+        },
+        {
+          "name": "통감자버터구이",
+          "isMain": false,
+          "calorie": 94,
+          "carbohydrate": 16,
+          "sugar": 0,
+          "fiber": 2,
+          "fat": 3,
+          "protein": 2
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 13,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 20,
+          "carbohydrate": 3,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "단무지무침",
+          "isMain": false,
+          "calorie": 26,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "아이스티(레몬)",
+          "isMain": false,
+          "calorie": 56,
+          "carbohydrate": 14,
+          "sugar": 14,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "가락국수",
+      "courseName": "B:일품",
+      "setName": "가락국수&순대볶음",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260716/s20260310082743.jpg",
+      "nutrition": [
+        {
+          "name": "가락국수",
+          "isMain": true,
+          "calorie": 487,
+          "carbohydrate": 81,
+          "sugar": 1,
+          "fiber": 11,
+          "fat": 8,
+          "protein": 19
+        },
+        {
+          "name": "후리가케양념밥",
+          "isMain": false,
+          "calorie": 209,
+          "carbohydrate": 48,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 4
+        },
+        {
+          "name": "순대볶음",
+          "isMain": false,
+          "calorie": 292,
+          "carbohydrate": 49,
+          "sugar": 6,
+          "fiber": 2,
+          "fat": 8,
+          "protein": 7
+        },
+        {
+          "name": "통감자버터구이",
+          "isMain": false,
+          "calorie": 94,
+          "carbohydrate": 16,
+          "sugar": 0,
+          "fiber": 2,
+          "fat": 3,
+          "protein": 2
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 13,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 23,
+          "carbohydrate": 4,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "단무지무침",
+          "isMain": false,
+          "calorie": 26,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "아이스티(레몬)",
+          "isMain": false,
+          "calorie": 56,
+          "carbohydrate": 14,
+          "sugar": 14,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-07T22:03:00.153Z"
+}
