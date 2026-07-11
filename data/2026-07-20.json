@@ -1,0 +1,184 @@
+{
+  "date": "2026-07-20",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "설렁탕",
+      "courseName": "A:한식",
+      "setName": "설렁탕&두부고추장조림",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/main/100026/1124.png",
+      "nutrition": [
+        {
+          "name": "설렁탕",
+          "isMain": true,
+          "calorie": 172,
+          "carbohydrate": 17,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 6,
+          "protein": 11
+        },
+        {
+          "name": "수수밥",
+          "isMain": false,
+          "calorie": 382,
+          "carbohydrate": 87,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "두부고추장조림",
+          "isMain": false,
+          "calorie": 294,
+          "carbohydrate": 11,
+          "sugar": 6,
+          "fiber": 6,
+          "fat": 23,
+          "protein": 10
+        },
+        {
+          "name": "새우젓계란찜",
+          "isMain": false,
+          "calorie": 117,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 7,
+          "protein": 11
+        },
+        {
+          "name": "마카로니콘샐러드",
+          "isMain": false,
+          "calorie": 194,
+          "carbohydrate": 14,
+          "sugar": 4,
+          "fiber": 2,
+          "fat": 15,
+          "protein": 3
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "유자차",
+          "isMain": false,
+          "calorie": 50,
+          "carbohydrate": 13,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "햄김치볶음밥",
+      "courseName": "B:일품",
+      "setName": "햄김치볶음밥&청파래오징어가스",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260720/s20250707173819.jpg",
+      "nutrition": [
+        {
+          "name": "햄김치볶음밥",
+          "isMain": true,
+          "calorie": 535,
+          "carbohydrate": 96,
+          "sugar": 5,
+          "fiber": 3,
+          "fat": 11,
+          "protein": 12
+        },
+        {
+          "name": "계란후라이",
+          "isMain": false,
+          "calorie": 115,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 7,
+          "protein": 10
+        },
+        {
+          "name": "미니우동",
+          "isMain": false,
+          "calorie": 180,
+          "carbohydrate": 35,
+          "sugar": 1,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 6
+        },
+        {
+          "name": "청파래오징어가스",
+          "isMain": false,
+          "calorie": 180,
+          "carbohydrate": 10,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 10,
+          "protein": 12
+        },
+        {
+          "name": "마카로니콘샐러드",
+          "isMain": false,
+          "calorie": 194,
+          "carbohydrate": 14,
+          "sugar": 4,
+          "fiber": 2,
+          "fat": 15,
+          "protein": 3
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 13,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 20,
+          "carbohydrate": 3,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "단무지",
+          "isMain": false,
+          "calorie": 5,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "유자차",
+          "isMain": false,
+          "calorie": 50,
+          "carbohydrate": 13,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-11T21:37:48.225Z"
+}
