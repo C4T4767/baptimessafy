@@ -1,0 +1,116 @@
+{
+  "date": "2026-07-22",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "햄버그스테이크",
+      "courseName": "A:한식",
+      "setName": "햄버그스테이크&미트소스스파게티",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260722/s20260618154601.png",
+      "nutrition": [
+        {
+          "name": "햄버그스테이크",
+          "isMain": true,
+          "calorie": 431,
+          "carbohydrate": 82,
+          "sugar": 3,
+          "fiber": 1,
+          "fat": 4,
+          "protein": 17
+        },
+        {
+          "name": "미트소스스파게티",
+          "isMain": false,
+          "calorie": 506,
+          "carbohydrate": 100,
+          "sugar": 15,
+          "fiber": 2,
+          "fat": 7,
+          "protein": 16
+        },
+        {
+          "name": "양송이스프",
+          "isMain": false,
+          "calorie": 80,
+          "carbohydrate": 13,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 2,
+          "protein": 2
+        },
+        {
+          "name": "쌀밥&후리가케",
+          "isMain": false,
+          "calorie": 126,
+          "carbohydrate": 29,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "반달감자튀김&케찹",
+          "isMain": false,
+          "calorie": 167,
+          "carbohydrate": 22,
+          "sugar": 0,
+          "fiber": 2,
+          "fat": 8,
+          "protein": 2
+        },
+        {
+          "name": "일식양배추샐러드",
+          "isMain": false,
+          "calorie": 11,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 67,
+          "carbohydrate": 4,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 6,
+          "protein": 0
+        },
+        {
+          "name": "양배추피클",
+          "isMain": false,
+          "calorie": 19,
+          "carbohydrate": 5,
+          "sugar": 3,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 19,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 69,
+          "carbohydrate": 17,
+          "sugar": 15,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-13T21:42:15.494Z"
+}
