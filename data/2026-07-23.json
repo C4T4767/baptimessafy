@@ -1,0 +1,184 @@
+{
+  "date": "2026-07-23",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "짬뽕순두부찌개",
+      "courseName": "A:한식",
+      "setName": "짬뽕순두부찌개&너비아니엿장조림",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260723/s20250804053933.png",
+      "nutrition": [
+        {
+          "name": "짬뽕순두부찌개",
+          "isMain": true,
+          "calorie": 216,
+          "carbohydrate": 12,
+          "sugar": 4,
+          "fiber": 3,
+          "fat": 13,
+          "protein": 16
+        },
+        {
+          "name": "보리밥",
+          "isMain": false,
+          "calorie": 397,
+          "carbohydrate": 91,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 8
+        },
+        {
+          "name": "너비아니엿장조림",
+          "isMain": false,
+          "calorie": 302,
+          "carbohydrate": 19,
+          "sugar": 7,
+          "fiber": 1,
+          "fat": 18,
+          "protein": 16
+        },
+        {
+          "name": "잡채",
+          "isMain": false,
+          "calorie": 212,
+          "carbohydrate": 38,
+          "sugar": 5,
+          "fiber": 0,
+          "fat": 6,
+          "protein": 1
+        },
+        {
+          "name": "배추된장나물",
+          "isMain": false,
+          "calorie": 29,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 2
+        },
+        {
+          "name": "목이버섯냉채",
+          "isMain": false,
+          "calorie": 64,
+          "carbohydrate": 9,
+          "sugar": 3,
+          "fiber": 1,
+          "fat": 3,
+          "protein": 1
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "복분자홍초 ",
+          "isMain": false,
+          "calorie": 107,
+          "carbohydrate": 27,
+          "sugar": 16,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 1
+        }
+      ]
+    },
+    {
+      "name": "로제떡볶이",
+      "courseName": "B:일품",
+      "setName": "로제떡볶이&모둠채소튀김",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260723/s20250314151632.png",
+      "nutrition": [
+        {
+          "name": "로제떡볶이",
+          "isMain": true,
+          "calorie": 1191,
+          "carbohydrate": 156,
+          "sugar": 24,
+          "fiber": 3,
+          "fat": 55,
+          "protein": 18
+        },
+        {
+          "name": "계란팟국",
+          "isMain": false,
+          "calorie": 45,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 4
+        },
+        {
+          "name": "김가루양념밥",
+          "isMain": false,
+          "calorie": 226,
+          "carbohydrate": 49,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 2,
+          "protein": 4
+        },
+        {
+          "name": "수제채소튀김",
+          "isMain": false,
+          "calorie": 219,
+          "carbohydrate": 43,
+          "sugar": 3,
+          "fiber": 2,
+          "fat": 4,
+          "protein": 4
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 13,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 41,
+          "carbohydrate": 4,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 0
+        },
+        {
+          "name": "사각단무지",
+          "isMain": false,
+          "calorie": 5,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "복분자홍초 ",
+          "isMain": false,
+          "calorie": 107,
+          "carbohydrate": 27,
+          "sugar": 16,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 1
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-14T21:44:31.151Z"
+}
