@@ -1,0 +1,174 @@
+{
+  "date": "2026-07-28",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "장터국밥",
+      "courseName": "A:한식",
+      "setName": "장터국밥&버섯탕수",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260728/s20251107142252.png",
+      "nutrition": [
+        {
+          "name": "장터국밥",
+          "isMain": true,
+          "calorie": 338,
+          "carbohydrate": 64,
+          "sugar": 3,
+          "fiber": 1,
+          "fat": 4,
+          "protein": 12
+        },
+        {
+          "name": "혼합잡곡밥",
+          "isMain": false,
+          "calorie": 355,
+          "carbohydrate": 80,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "버섯탕수",
+          "isMain": false,
+          "calorie": 306,
+          "carbohydrate": 68,
+          "sugar": 22,
+          "fiber": 1,
+          "fat": 4,
+          "protein": 5
+        },
+        {
+          "name": "멕시칸샐러드",
+          "isMain": false,
+          "calorie": 192,
+          "carbohydrate": 14,
+          "sugar": 5,
+          "fiber": 1,
+          "fat": 12,
+          "protein": 6
+        },
+        {
+          "name": "매운어묵볶음",
+          "isMain": false,
+          "calorie": 178,
+          "carbohydrate": 21,
+          "sugar": 7,
+          "fiber": 0,
+          "fat": 6,
+          "protein": 9
+        },
+        {
+          "name": "콩자반",
+          "isMain": false,
+          "calorie": 59,
+          "carbohydrate": 7,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 2,
+          "protein": 4
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 69,
+          "carbohydrate": 17,
+          "sugar": 15,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "잔치국수",
+      "courseName": "B:일품",
+      "setName": "잔치국수&해물파전",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260728/s20251112103723.png",
+      "nutrition": [
+        {
+          "name": "잔치국수",
+          "isMain": true,
+          "calorie": 459,
+          "carbohydrate": 93,
+          "sugar": 9,
+          "fiber": 3,
+          "fat": 4,
+          "protein": 14
+        },
+        {
+          "name": "멸치볶음밥",
+          "isMain": false,
+          "calorie": 503,
+          "carbohydrate": 101,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 6,
+          "protein": 13
+        },
+        {
+          "name": "해물파전&전간장",
+          "isMain": false,
+          "calorie": 206,
+          "carbohydrate": 28,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 3,
+          "protein": 16
+        },
+        {
+          "name": "버섯탕수",
+          "isMain": false,
+          "calorie": 306,
+          "carbohydrate": 68,
+          "sugar": 22,
+          "fiber": 1,
+          "fat": 4,
+          "protein": 5
+        },
+        {
+          "name": "멕시칸샐러드",
+          "isMain": false,
+          "calorie": 192,
+          "carbohydrate": 14,
+          "sugar": 5,
+          "fiber": 1,
+          "fat": 12,
+          "protein": 6
+        },
+        {
+          "name": "단무지무침",
+          "isMain": false,
+          "calorie": 26,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 69,
+          "carbohydrate": 17,
+          "sugar": 15,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-19T21:39:31.938Z"
+}
