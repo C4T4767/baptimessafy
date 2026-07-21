@@ -1,0 +1,174 @@
+{
+  "date": "2026-07-30",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "햄구이(스팸)",
+      "courseName": "A:한식",
+      "setName": "햄구이(스팸)&볶음김치&미니된장찌개",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260730/s20230309170615.png",
+      "nutrition": [
+        {
+          "name": "햄구이(스팸)",
+          "isMain": true,
+          "calorie": 223,
+          "carbohydrate": 1,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 20,
+          "protein": 10
+        },
+        {
+          "name": "볶음김치",
+          "isMain": false,
+          "calorie": 88,
+          "carbohydrate": 4,
+          "sugar": 3,
+          "fiber": 2,
+          "fat": 7,
+          "protein": 2
+        },
+        {
+          "name": "수수밥",
+          "isMain": false,
+          "calorie": 382,
+          "carbohydrate": 87,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "미니된장찌개",
+          "isMain": false,
+          "calorie": 103,
+          "carbohydrate": 12,
+          "sugar": 2,
+          "fiber": 3,
+          "fat": 4,
+          "protein": 7
+        },
+        {
+          "name": "오징어완자전",
+          "isMain": false,
+          "calorie": 159,
+          "carbohydrate": 13,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 7,
+          "protein": 13
+        },
+        {
+          "name": "마늘종건새우볶음",
+          "isMain": false,
+          "calorie": 86,
+          "carbohydrate": 10,
+          "sugar": 5,
+          "fiber": 2,
+          "fat": 4,
+          "protein": 4
+        },
+        {
+          "name": "우엉땅콩조림",
+          "isMain": false,
+          "calorie": 119,
+          "carbohydrate": 19,
+          "sugar": 8,
+          "fiber": 1,
+          "fat": 4,
+          "protein": 4
+        },
+        {
+          "name": "아이스티(레몬)",
+          "isMain": false,
+          "calorie": 56,
+          "carbohydrate": 14,
+          "sugar": 14,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "잡채덮밥&자장소스",
+      "courseName": "B:일품",
+      "setName": "잡채덮밥&자장소스&짬뽕국",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260730/s20260708090145.jpg",
+      "nutrition": [
+        {
+          "name": "잡채덮밥&자장소스",
+          "isMain": true,
+          "calorie": 664,
+          "carbohydrate": 131,
+          "sugar": 9,
+          "fiber": 2,
+          "fat": 10,
+          "protein": 14
+        },
+        {
+          "name": "짬뽕국",
+          "isMain": false,
+          "calorie": 107,
+          "carbohydrate": 9,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 3,
+          "protein": 10
+        },
+        {
+          "name": "고구마아몬드맛탕",
+          "isMain": false,
+          "calorie": 260,
+          "carbohydrate": 57,
+          "sugar": 24,
+          "fiber": 2,
+          "fat": 3,
+          "protein": 2
+        },
+        {
+          "name": "우엉땅콩조림",
+          "isMain": false,
+          "calorie": 118,
+          "carbohydrate": 19,
+          "sugar": 8,
+          "fiber": 1,
+          "fat": 4,
+          "protein": 4
+        },
+        {
+          "name": "짜사이채무침",
+          "isMain": false,
+          "calorie": 22,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "아이스티(레몬)",
+          "isMain": false,
+          "calorie": 56,
+          "carbohydrate": 14,
+          "sugar": 14,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-21T21:52:14.139Z"
+}
