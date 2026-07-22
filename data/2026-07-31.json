@@ -1,0 +1,174 @@
+{
+  "date": "2026-07-31",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "사골떡만둣국",
+      "courseName": "A:한식",
+      "setName": "사골떡만둣국&오징어김치전",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260731/s20251015203345.png",
+      "nutrition": [
+        {
+          "name": "사골떡만둣국",
+          "isMain": true,
+          "calorie": 602,
+          "carbohydrate": 94,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 14,
+          "protein": 22
+        },
+        {
+          "name": "미니흑미밥",
+          "isMain": false,
+          "calorie": 212,
+          "carbohydrate": 49,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 4
+        },
+        {
+          "name": "오징어김치전",
+          "isMain": false,
+          "calorie": 188,
+          "carbohydrate": 30,
+          "sugar": 1,
+          "fiber": 2,
+          "fat": 2,
+          "protein": 11
+        },
+        {
+          "name": "미트볼조림",
+          "isMain": false,
+          "calorie": 249,
+          "carbohydrate": 14,
+          "sugar": 6,
+          "fiber": 0,
+          "fat": 15,
+          "protein": 15
+        },
+        {
+          "name": "감자채게맛살볶음",
+          "isMain": false,
+          "calorie": 89,
+          "carbohydrate": 12,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 3
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "모과차",
+          "isMain": false,
+          "calorie": 33,
+          "carbohydrate": 8,
+          "sugar": 7,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "바베큐폭찹",
+      "courseName": "B:일품",
+      "setName": "바베큐폭찹&생선커틀릿",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260731/s20260605104635.png",
+      "nutrition": [
+        {
+          "name": "바베큐폭찹",
+          "isMain": true,
+          "calorie": 357,
+          "carbohydrate": 23,
+          "sugar": 7,
+          "fiber": 1,
+          "fat": 20,
+          "protein": 22
+        },
+        {
+          "name": "흑미밥&후리가케",
+          "isMain": false,
+          "calorie": 209,
+          "carbohydrate": 48,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 4
+        },
+        {
+          "name": "유부장국",
+          "isMain": false,
+          "calorie": 45,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 2,
+          "protein": 3
+        },
+        {
+          "name": "생선커틀릿&타르타르S",
+          "isMain": false,
+          "calorie": 244,
+          "carbohydrate": 25,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 8,
+          "protein": 16
+        },
+        {
+          "name": "토마토양상추샐러드",
+          "isMain": false,
+          "calorie": 139,
+          "carbohydrate": 10,
+          "sugar": 6,
+          "fiber": 1,
+          "fat": 11,
+          "protein": 1
+        },
+        {
+          "name": "양배추피클",
+          "isMain": false,
+          "calorie": 32,
+          "carbohydrate": 8,
+          "sugar": 5,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "모과차",
+          "isMain": false,
+          "calorie": 33,
+          "carbohydrate": 8,
+          "sugar": 7,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-22T21:54:16.557Z"
+}
