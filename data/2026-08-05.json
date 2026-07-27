@@ -1,0 +1,106 @@
+{
+  "date": "2026-08-05",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "놀부부대찌개",
+      "courseName": "A:한식",
+      "setName": "놀부부대찌개&돼지고기김말이강정",
+      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260805/s20210903114858.png",
+      "nutrition": [
+        {
+          "name": "놀부부대찌개",
+          "isMain": true,
+          "calorie": 783,
+          "carbohydrate": 54,
+          "sugar": 4,
+          "fiber": 1,
+          "fat": 46,
+          "protein": 40
+        },
+        {
+          "name": "혼합잡곡밥",
+          "isMain": false,
+          "calorie": 355,
+          "carbohydrate": 80,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "돼지고기김말이강정",
+          "isMain": false,
+          "calorie": 267,
+          "carbohydrate": 38,
+          "sugar": 13,
+          "fiber": 0,
+          "fat": 8,
+          "protein": 8
+        },
+        {
+          "name": "미역줄기게맛살볶음",
+          "isMain": false,
+          "calorie": 56,
+          "carbohydrate": 6,
+          "sugar": 0,
+          "fiber": 4,
+          "fat": 4,
+          "protein": 2
+        },
+        {
+          "name": "숙주미나리나물",
+          "isMain": false,
+          "calorie": 26,
+          "carbohydrate": 3,
+          "sugar": 0,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 2
+        },
+        {
+          "name": "콘샐러드",
+          "isMain": false,
+          "calorie": 85,
+          "carbohydrate": 6,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 7,
+          "protein": 1
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "츄러스",
+          "isMain": false,
+          "calorie": 199,
+          "carbohydrate": 16,
+          "sugar": 6,
+          "fiber": 0,
+          "fat": 15,
+          "protein": 1
+        },
+        {
+          "name": "아이스초코",
+          "isMain": false,
+          "calorie": 25,
+          "carbohydrate": 4,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 1
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-27T21:54:58.124Z"
+}
