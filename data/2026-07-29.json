@@ -7,7 +7,7 @@
       "name": "눈꽃치즈제육덮밥",
       "courseName": "A:한식",
       "setName": "눈꽃치즈제육덮밥&호박채치자전",
-      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260729/s20221223162636.jpg",
+      "photoUrl": "https://samsungwelstory.com/data/manager/recipe/E110/20260729/s20221223162636.jpg",
       "nutrition": [
         {
           "name": "눈꽃치즈제육덮밥",
@@ -85,7 +85,7 @@
       "name": "해물볶음우동",
       "courseName": "B:일품",
       "setName": "해물볶음우동&순대튀김강정",
-      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260729/s20260108092305.png",
+      "photoUrl": "https://samsungwelstory.com/data/manager/recipe/E110/20260729/s20260108092305.png",
       "nutrition": [
         {
           "name": "해물볶음우동",
@@ -180,5 +180,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-27T21:54:54.846Z"
+  "updatedAt": "2026-07-28T21:53:45.692Z"
 }

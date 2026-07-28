@@ -7,7 +7,7 @@
       "name": "장터국밥",
       "courseName": "A:한식",
       "setName": "장터국밥&버섯탕수",
-      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260728/s20251107142252.png",
+      "photoUrl": "https://samsungwelstory.com/data/manager/recipe/E110/20260728/s20251107142252.png",
       "nutrition": [
         {
           "name": "장터국밥",
@@ -95,7 +95,7 @@
       "name": "잔치국수",
       "courseName": "B:일품",
       "setName": "잔치국수&해물파전",
-      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260728/s20251112103723.png",
+      "photoUrl": "https://samsungwelstory.com/data/manager/recipe/E110/20260728/s20251112103723.png",
       "nutrition": [
         {
           "name": "잔치국수",
@@ -170,5 +170,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-27T21:54:54.051Z"
+  "updatedAt": "2026-07-28T21:53:45.233Z"
 }

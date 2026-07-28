@@ -7,7 +7,7 @@
       "name": "돼지고기김치볶음",
       "courseName": "A:한식",
       "setName": "돼지고기김치볶음&볼가츠",
-      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260803/s20260410093413.png",
+      "photoUrl": "https://samsungwelstory.com/data/manager/recipe/E110/20260803/s20260410093413.png",
       "nutrition": [
         {
           "name": "돼지고기김치볶음",
@@ -105,7 +105,7 @@
       "name": "장조림버터밥",
       "courseName": "B:일품",
       "setName": "장조림버터밥&쫄면채소무침",
-      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260803/s20241003141339.png",
+      "photoUrl": "https://samsungwelstory.com/data/manager/recipe/E110/20260803/s20241003141339.png",
       "nutrition": [
         {
           "name": "장조림버터밥",
@@ -190,5 +190,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-27T21:54:57.132Z"
+  "updatedAt": "2026-07-28T21:53:47.846Z"
 }

@@ -7,7 +7,7 @@
       "name": "햄구이(스팸)",
       "courseName": "A:한식",
       "setName": "햄구이(스팸)&볶음김치&미니된장찌개",
-      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260730/s20230309170615.png",
+      "photoUrl": "https://samsungwelstory.com/data/manager/recipe/E110/20260730/s20230309170615.png",
       "nutrition": [
         {
           "name": "햄구이(스팸)",
@@ -95,7 +95,7 @@
       "name": "잡채덮밥&자장소스",
       "courseName": "B:일품",
       "setName": "잡채덮밥&자장소스&짬뽕국",
-      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260730/s20260708090145.jpg",
+      "photoUrl": "https://samsungwelstory.com/data/manager/recipe/E110/20260730/s20260708090145.jpg",
       "nutrition": [
         {
           "name": "잡채덮밥&자장소스",
@@ -170,5 +170,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-27T21:54:55.549Z"
+  "updatedAt": "2026-07-28T21:53:46.482Z"
 }

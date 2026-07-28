@@ -7,7 +7,7 @@
       "name": "사골떡만둣국",
       "courseName": "A:한식",
       "setName": "사골떡만둣국&오징어김치전",
-      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260731/s20251015203345.png",
+      "photoUrl": "https://samsungwelstory.com/data/manager/recipe/E110/20260731/s20251015203345.png",
       "nutrition": [
         {
           "name": "사골떡만둣국",
@@ -85,7 +85,7 @@
       "name": "바베큐폭찹",
       "courseName": "B:일품",
       "setName": "바베큐폭찹&생선커틀릿",
-      "photoUrl": "http://samsungwelstory.com/data/manager/recipe/E110/20260731/s20260605104635.png",
+      "photoUrl": "https://samsungwelstory.com/data/manager/recipe/E110/20260731/s20260605104635.png",
       "nutrition": [
         {
           "name": "바베큐폭찹",
@@ -170,5 +170,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-27T21:54:56.070Z"
+  "updatedAt": "2026-07-28T21:53:46.946Z"
 }
