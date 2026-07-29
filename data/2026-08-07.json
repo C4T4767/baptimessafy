@@ -1,0 +1,164 @@
+{
+  "date": "2026-08-07",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "사골떡국",
+      "courseName": "A:한식",
+      "setName": "사골떡국&고기산적조림",
+      "photoUrl": "https://samsungwelstory.com/data/manager/recipe/E110/20260807/s20210416153356.png",
+      "nutrition": [
+        {
+          "name": "사골떡국",
+          "isMain": true,
+          "calorie": 440,
+          "carbohydrate": 74,
+          "sugar": 0,
+          "fiber": 2,
+          "fat": 8,
+          "protein": 13
+        },
+        {
+          "name": "미니수수밥",
+          "isMain": false,
+          "calorie": 229,
+          "carbohydrate": 52,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 4
+        },
+        {
+          "name": "고기산적조림",
+          "isMain": false,
+          "calorie": 278,
+          "carbohydrate": 17,
+          "sugar": 7,
+          "fiber": 2,
+          "fat": 14,
+          "protein": 22
+        },
+        {
+          "name": "잡채",
+          "isMain": false,
+          "calorie": 212,
+          "carbohydrate": 38,
+          "sugar": 5,
+          "fiber": 0,
+          "fat": 6,
+          "protein": 1
+        },
+        {
+          "name": "깻잎순겉절이",
+          "isMain": false,
+          "calorie": 28,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "배추겉절이",
+          "isMain": false,
+          "calorie": 34,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 4,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "아이스티(복숭아맛)",
+          "isMain": false,
+          "calorie": 49,
+          "carbohydrate": 8,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 1
+        }
+      ]
+    },
+    {
+      "name": "명태회냉면",
+      "courseName": "B:일품",
+      "setName": "명태회냉면&교자만두찜",
+      "photoUrl": "https://samsungwelstory.com/data/manager/recipe/E110/20260807/s20260604101105.png",
+      "nutrition": [
+        {
+          "name": "명태회냉면",
+          "isMain": true,
+          "calorie": 945,
+          "carbohydrate": 178,
+          "sugar": 27,
+          "fiber": 11,
+          "fat": 13,
+          "protein": 32
+        },
+        {
+          "name": "육수",
+          "isMain": false,
+          "calorie": 11,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "김가루양념밥",
+          "isMain": false,
+          "calorie": 225,
+          "carbohydrate": 49,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 2,
+          "protein": 4
+        },
+        {
+          "name": "교자만두찜&초간장",
+          "isMain": false,
+          "calorie": 200,
+          "carbohydrate": 26,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 7,
+          "protein": 6
+        },
+        {
+          "name": "마카로니콘샐러드",
+          "isMain": false,
+          "calorie": 194,
+          "carbohydrate": 14,
+          "sugar": 4,
+          "fiber": 2,
+          "fat": 15,
+          "protein": 3
+        },
+        {
+          "name": "냉면김치",
+          "isMain": false,
+          "calorie": 30,
+          "carbohydrate": 7,
+          "sugar": 6,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "아이스티(복숭아맛)",
+          "isMain": false,
+          "calorie": 49,
+          "carbohydrate": 8,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 1
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-29T21:44:34.419Z"
+}
