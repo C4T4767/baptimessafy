@@ -7,7 +7,7 @@
       "name": "사골떡국",
       "courseName": "A:한식",
       "setName": "사골떡국&고기산적조림",
-      "photoUrl": "https://samsungwelstory.com/data/manager/recipe/E110/20260807/s20210416153356.png",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260807/s20210416153356.png",
       "nutrition": [
         {
           "name": "사골떡국",
@@ -85,7 +85,7 @@
       "name": "명태회냉면",
       "courseName": "B:일품",
       "setName": "명태회냉면&교자만두찜",
-      "photoUrl": "https://samsungwelstory.com/data/manager/recipe/E110/20260807/s20260604101105.png",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260807/s20260604101105.png",
       "nutrition": [
         {
           "name": "명태회냉면",
@@ -160,5 +160,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-29T21:44:34.419Z"
+  "updatedAt": "2026-07-30T21:56:53.744Z"
 }

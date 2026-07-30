@@ -7,7 +7,7 @@
       "name": "수제 오므라이스",
       "courseName": "A:한식",
       "setName": "수제 오므라이스&비엔나소시지케첩볶음",
-      "photoUrl": "https://samsungwelstory.com/data/manager/recipe/main/100026/1376.png",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/main/100026/1376.png",
       "nutrition": [
         {
           "name": "수제 오므라이스",
@@ -95,7 +95,7 @@
       "name": "도산분식국물떡볶이",
       "courseName": "B:일품",
       "setName": "도산분식국물떡볶이&수제채소튀김",
-      "photoUrl": "https://samsungwelstory.com/data/manager/recipe/E110/20260806/s20260706150556.png",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260806/s20260706150556.png",
       "nutrition": [
         {
           "name": "도산분식국물떡볶이",
@@ -180,5 +180,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-29T21:44:34.055Z"
+  "updatedAt": "2026-07-30T21:56:53.241Z"
 }
