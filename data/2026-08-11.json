@@ -1,0 +1,174 @@
+{
+  "date": "2026-08-11",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "돼지고기고추장볶음",
+      "courseName": "A:한식",
+      "setName": "돼지고기고추장볶음&옥수수전",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260811/s20250429172406.png",
+      "nutrition": [
+        {
+          "name": "돼지고기고추장볶음",
+          "isMain": true,
+          "calorie": 329,
+          "carbohydrate": 28,
+          "sugar": 13,
+          "fiber": 3,
+          "fat": 17,
+          "protein": 28
+        },
+        {
+          "name": "혼합잡곡밥",
+          "isMain": false,
+          "calorie": 355,
+          "carbohydrate": 80,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "감자수제비국",
+          "isMain": false,
+          "calorie": 149,
+          "carbohydrate": 27,
+          "sugar": 1,
+          "fiber": 2,
+          "fat": 2,
+          "protein": 6
+        },
+        {
+          "name": "옥수수전",
+          "isMain": false,
+          "calorie": 231,
+          "carbohydrate": 49,
+          "sugar": 5,
+          "fiber": 3,
+          "fat": 2,
+          "protein": 6
+        },
+        {
+          "name": "양배추쌈",
+          "isMain": false,
+          "calorie": 12,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 5,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "쌈장",
+          "isMain": false,
+          "calorie": 20,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "석류차",
+          "isMain": false,
+          "calorie": 150,
+          "carbohydrate": 37,
+          "sugar": 35,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "간자장면",
+      "courseName": "B:일품",
+      "setName": "간자장면&꽃빵튀김",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260811/s20230424102924.png",
+      "nutrition": [
+        {
+          "name": "간자장면",
+          "isMain": true,
+          "calorie": 620,
+          "carbohydrate": 98,
+          "sugar": 17,
+          "fiber": 5,
+          "fat": 15,
+          "protein": 22
+        },
+        {
+          "name": "계란팟국",
+          "isMain": false,
+          "calorie": 45,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 4
+        },
+        {
+          "name": "꽃빵튀김&연유",
+          "isMain": false,
+          "calorie": 341,
+          "carbohydrate": 61,
+          "sugar": 19,
+          "fiber": 0,
+          "fat": 7,
+          "protein": 8
+        },
+        {
+          "name": "땅콩튀김",
+          "isMain": false,
+          "calorie": 227,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 3,
+          "fat": 21,
+          "protein": 8
+        },
+        {
+          "name": "짜사이채무침",
+          "isMain": false,
+          "calorie": 22,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "석류차",
+          "isMain": false,
+          "calorie": 150,
+          "carbohydrate": 37,
+          "sugar": 35,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-08-02T21:42:14.197Z"
+}
