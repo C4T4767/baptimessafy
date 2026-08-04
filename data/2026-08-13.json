@@ -1,0 +1,194 @@
+{
+  "date": "2026-08-13",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "순두부찌개",
+      "courseName": "A:한식",
+      "setName": "순두부찌개&후랑크소시지채소볶음",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260813/s20250327064225.png",
+      "nutrition": [
+        {
+          "name": "순두부찌개",
+          "isMain": true,
+          "calorie": 230,
+          "carbohydrate": 10,
+          "sugar": 4,
+          "fiber": 6,
+          "fat": 16,
+          "protein": 17
+        },
+        {
+          "name": "보리밥",
+          "isMain": false,
+          "calorie": 397,
+          "carbohydrate": 91,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 8
+        },
+        {
+          "name": "생선가스",
+          "isMain": false,
+          "calorie": 257,
+          "carbohydrate": 27,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 7,
+          "protein": 20
+        },
+        {
+          "name": "후랑크소시지채소볶음",
+          "isMain": false,
+          "calorie": 285,
+          "carbohydrate": 10,
+          "sugar": 4,
+          "fiber": 1,
+          "fat": 21,
+          "protein": 13
+        },
+        {
+          "name": "시래기된장조림",
+          "isMain": false,
+          "calorie": 70,
+          "carbohydrate": 8,
+          "sugar": 1,
+          "fiber": 8,
+          "fat": 4,
+          "protein": 3
+        },
+        {
+          "name": "일식양배추샐러드",
+          "isMain": false,
+          "calorie": 11,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 46,
+          "carbohydrate": 4,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 0
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "수정과",
+          "isMain": false,
+          "calorie": 80,
+          "carbohydrate": 20,
+          "sugar": 19,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "베이컨쇼유라멘",
+      "courseName": "B:일품",
+      "setName": "베이컨쇼유라멘&생선가스",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260813/s20260415105401.jpg",
+      "nutrition": [
+        {
+          "name": "베이컨쇼유라멘",
+          "isMain": true,
+          "calorie": 524,
+          "carbohydrate": 91,
+          "sugar": 7,
+          "fiber": 3,
+          "fat": 5,
+          "protein": 29
+        },
+        {
+          "name": "유부양념밥",
+          "isMain": false,
+          "calorie": 277,
+          "carbohydrate": 55,
+          "sugar": 6,
+          "fiber": 0,
+          "fat": 4,
+          "protein": 6
+        },
+        {
+          "name": "생선가스",
+          "isMain": false,
+          "calorie": 257,
+          "carbohydrate": 27,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 7,
+          "protein": 20
+        },
+        {
+          "name": "일식양배추샐러드",
+          "isMain": false,
+          "calorie": 11,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 51,
+          "carbohydrate": 4,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 4,
+          "protein": 0
+        },
+        {
+          "name": "단무지",
+          "isMain": false,
+          "calorie": 5,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "수정과",
+          "isMain": false,
+          "calorie": 80,
+          "carbohydrate": 20,
+          "sugar": 19,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-08-04T22:02:48.923Z"
+}
