@@ -1,0 +1,96 @@
+{
+  "date": "2026-08-14",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "한방닭다리백숙",
+      "courseName": "A:한식",
+      "setName": "한방닭다리백숙&김치전&궁중떡볶이",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260814/s20260715152301.jpg",
+      "nutrition": [
+        {
+          "name": "한방닭다리백숙",
+          "isMain": true,
+          "calorie": 746,
+          "carbohydrate": 26,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 37,
+          "protein": 70
+        },
+        {
+          "name": "흑미찹쌀밥",
+          "isMain": false,
+          "calorie": 354,
+          "carbohydrate": 81,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 7
+        },
+        {
+          "name": "김치전",
+          "isMain": false,
+          "calorie": 236,
+          "carbohydrate": 48,
+          "sugar": 1,
+          "fiber": 3,
+          "fat": 2,
+          "protein": 7
+        },
+        {
+          "name": "궁중떡볶이",
+          "isMain": false,
+          "calorie": 437,
+          "carbohydrate": 84,
+          "sugar": 6,
+          "fiber": 3,
+          "fat": 7,
+          "protein": 9
+        },
+        {
+          "name": "도토리묵무침",
+          "isMain": false,
+          "calorie": 68,
+          "carbohydrate": 13,
+          "sugar": 3,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "수박",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 8,
+          "sugar": 5,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "블루베리맛홍초",
+          "isMain": false,
+          "calorie": 93,
+          "carbohydrate": 24,
+          "sugar": 13,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-08-05T22:03:45.714Z"
+}
