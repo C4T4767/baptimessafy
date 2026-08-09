@@ -1,0 +1,164 @@
+{
+  "date": "2026-08-18",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "빅후랑크하이라이스",
+      "courseName": "A:한식",
+      "setName": "빅후랑크하이라이스&과일탕수육",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260818/s20260529145600.png",
+      "nutrition": [
+        {
+          "name": "빅후랑크하이라이스",
+          "isMain": true,
+          "calorie": 630,
+          "carbohydrate": 118,
+          "sugar": 14,
+          "fiber": 1,
+          "fat": 12,
+          "protein": 16
+        },
+        {
+          "name": "가다랭이국",
+          "isMain": false,
+          "calorie": 9,
+          "carbohydrate": 2,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "과일탕수육",
+          "isMain": false,
+          "calorie": 266,
+          "carbohydrate": 37,
+          "sugar": 4,
+          "fiber": 1,
+          "fat": 9,
+          "protein": 9
+        },
+        {
+          "name": "볼가츠",
+          "isMain": false,
+          "calorie": 178,
+          "carbohydrate": 13,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 11,
+          "protein": 8
+        },
+        {
+          "name": "콘샐러드",
+          "isMain": false,
+          "calorie": 141,
+          "carbohydrate": 10,
+          "sugar": 4,
+          "fiber": 2,
+          "fat": 11,
+          "protein": 2
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "유자차",
+          "isMain": false,
+          "calorie": 50,
+          "carbohydrate": 13,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "冷김치말이국수",
+      "courseName": "B:일품",
+      "setName": "冷김치말이국수&찐만두(갈비만두)",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260818/s20250429111109.png",
+      "nutrition": [
+        {
+          "name": "冷김치말이국수",
+          "isMain": true,
+          "calorie": 514,
+          "carbohydrate": 100,
+          "sugar": 24,
+          "fiber": 4,
+          "fat": 5,
+          "protein": 18
+        },
+        {
+          "name": "김가루양념밥",
+          "isMain": false,
+          "calorie": 226,
+          "carbohydrate": 49,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 2,
+          "protein": 4
+        },
+        {
+          "name": "찐만두(갈비만두)",
+          "isMain": false,
+          "calorie": 196,
+          "carbohydrate": 20,
+          "sugar": 8,
+          "fiber": 0,
+          "fat": 9,
+          "protein": 8
+        },
+        {
+          "name": "치킨가스",
+          "isMain": false,
+          "calorie": 831,
+          "carbohydrate": 119,
+          "sugar": 11,
+          "fiber": 2,
+          "fat": 20,
+          "protein": 48
+        },
+        {
+          "name": "콘샐러드",
+          "isMain": false,
+          "calorie": 141,
+          "carbohydrate": 10,
+          "sugar": 4,
+          "fiber": 2,
+          "fat": 11,
+          "protein": 2
+        },
+        {
+          "name": "열무김치",
+          "isMain": false,
+          "calorie": 34,
+          "carbohydrate": 5,
+          "sugar": 1,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "유자차",
+          "isMain": false,
+          "calorie": 50,
+          "carbohydrate": 13,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-08-09T21:19:35.062Z"
+}
