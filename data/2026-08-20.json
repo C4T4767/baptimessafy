@@ -1,0 +1,174 @@
+{
+  "date": "2026-08-20",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "돼지고기김치찌개",
+      "courseName": "A:한식",
+      "setName": "돼지고기김치찌개&햄계란말이&케찹",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260820/s20220325094317.jpg",
+      "nutrition": [
+        {
+          "name": "돼지고기김치찌개",
+          "isMain": true,
+          "calorie": 155,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 4,
+          "fat": 10,
+          "protein": 10
+        },
+        {
+          "name": "흑미밥",
+          "isMain": false,
+          "calorie": 354,
+          "carbohydrate": 81,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 7
+        },
+        {
+          "name": "햄계란말이&케찹",
+          "isMain": false,
+          "calorie": 174,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 11,
+          "protein": 15
+        },
+        {
+          "name": "잡채",
+          "isMain": false,
+          "calorie": 212,
+          "carbohydrate": 38,
+          "sugar": 5,
+          "fiber": 0,
+          "fat": 6,
+          "protein": 1
+        },
+        {
+          "name": "김구이",
+          "isMain": false,
+          "calorie": 8,
+          "carbohydrate": 3,
+          "sugar": 0,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "숙주미나리나물",
+          "isMain": false,
+          "calorie": 26,
+          "carbohydrate": 3,
+          "sugar": 0,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 2
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "복분자홍초",
+          "isMain": false,
+          "calorie": 107,
+          "carbohydrate": 27,
+          "sugar": 16,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 1
+        }
+      ]
+    },
+    {
+      "name": "왕새우튀김우동",
+      "courseName": "B:일품",
+      "setName": "왕새우튀김우동&매콤깐풍기",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260820/s20260310135447.png",
+      "nutrition": [
+        {
+          "name": "왕새우튀김우동",
+          "isMain": true,
+          "calorie": 528,
+          "carbohydrate": 87,
+          "sugar": 4,
+          "fiber": 6,
+          "fat": 11,
+          "protein": 16
+        },
+        {
+          "name": "오복지양념밥",
+          "isMain": false,
+          "calorie": 294,
+          "carbohydrate": 59,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 4,
+          "protein": 5
+        },
+        {
+          "name": "매콤깐풍기",
+          "isMain": false,
+          "calorie": 436,
+          "carbohydrate": 28,
+          "sugar": 12,
+          "fiber": 3,
+          "fat": 29,
+          "protein": 15
+        },
+        {
+          "name": "코올슬로",
+          "isMain": false,
+          "calorie": 153,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 1,
+          "fat": 14,
+          "protein": 1
+        },
+        {
+          "name": "무말랭이고춧잎무침",
+          "isMain": false,
+          "calorie": 24,
+          "carbohydrate": 5,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "복분자홍초",
+          "isMain": false,
+          "calorie": 107,
+          "carbohydrate": 27,
+          "sugar": 16,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 1
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-08-11T21:32:58.964Z"
+}
