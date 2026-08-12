@@ -6,7 +6,7 @@
     {
       "name": "돼지고기김치찌개",
       "courseName": "A:한식",
-      "setName": "돼지고기김치찌개&햄계란말이&케찹",
+      "setName": "돼지고기김치찌개&계란말이&케찹",
       "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260820/s20220325094317.jpg",
       "nutrition": [
         {
@@ -30,7 +30,7 @@
           "protein": 7
         },
         {
-          "name": "햄계란말이&케찹",
+          "name": "계란말이&케찹",
           "isMain": false,
           "calorie": 174,
           "carbohydrate": 3,
@@ -170,5 +170,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-11T21:32:58.964Z"
+  "updatedAt": "2026-08-12T21:32:37.870Z"
 }

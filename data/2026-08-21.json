@@ -1,0 +1,194 @@
+{
+  "date": "2026-08-21",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "영양닭죽",
+      "courseName": "A:한식",
+      "setName": "영양닭죽&너비아니엿장조림",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260821/s20241227122336.png",
+      "nutrition": [
+        {
+          "name": "영양닭죽",
+          "isMain": true,
+          "calorie": 320,
+          "carbohydrate": 47,
+          "sugar": 3,
+          "fiber": 1,
+          "fat": 8,
+          "protein": 17
+        },
+        {
+          "name": "미니차조밥",
+          "isMain": false,
+          "calorie": 381,
+          "carbohydrate": 87,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "나박물김치",
+          "isMain": false,
+          "calorie": 8,
+          "carbohydrate": 2,
+          "sugar": 0,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "너비아니엿장조림",
+          "isMain": false,
+          "calorie": 220,
+          "carbohydrate": 15,
+          "sugar": 7,
+          "fiber": 0,
+          "fat": 13,
+          "protein": 10
+        },
+        {
+          "name": "우엉땅콩조림",
+          "isMain": false,
+          "calorie": 118,
+          "carbohydrate": 19,
+          "sugar": 8,
+          "fiber": 1,
+          "fat": 4,
+          "protein": 4
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 13,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 25,
+          "carbohydrate": 4,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "게맛살냉채",
+          "isMain": false,
+          "calorie": 100,
+          "carbohydrate": 20,
+          "sugar": 13,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 4
+        },
+        {
+          "name": "아이스티(복숭아)",
+          "isMain": false,
+          "calorie": 49,
+          "carbohydrate": 8,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 1
+        }
+      ]
+    },
+    {
+      "name": "미미옥양지쌀국수",
+      "courseName": "B:일품",
+      "setName": "미미옥양지쌀국수&미니파인애플볶음밥",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260821/s20260702102147.jpg",
+      "nutrition": [
+        {
+          "name": "미미옥양지쌀국수",
+          "isMain": true,
+          "calorie": 911,
+          "carbohydrate": 123,
+          "sugar": 17,
+          "fiber": 0,
+          "fat": 36,
+          "protein": 24
+        },
+        {
+          "name": "미니파인애플볶음밥",
+          "isMain": false,
+          "calorie": 458,
+          "carbohydrate": 87,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 9,
+          "protein": 8
+        },
+        {
+          "name": "달콤팥춘권",
+          "isMain": false,
+          "calorie": 141,
+          "carbohydrate": 27,
+          "sugar": 10,
+          "fiber": 0,
+          "fat": 2,
+          "protein": 3
+        },
+        {
+          "name": "링스새우칩",
+          "isMain": false,
+          "calorie": 52,
+          "carbohydrate": 7,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 0
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 13,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 23,
+          "carbohydrate": 4,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "단무지",
+          "isMain": false,
+          "calorie": 5,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "아이스티(복숭아)",
+          "isMain": false,
+          "calorie": 49,
+          "carbohydrate": 8,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 1
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-08-12T21:32:38.455Z"
+}
