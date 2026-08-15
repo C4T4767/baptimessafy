@@ -1,0 +1,174 @@
+{
+  "date": "2026-08-24",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "돼지고기사태김치찜",
+      "courseName": "A:한식",
+      "setName": "돼지고기사태김치찜&두부구이",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/main/100026/1282.png",
+      "nutrition": [
+        {
+          "name": "돼지고기사태김치찜",
+          "isMain": true,
+          "calorie": 197,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 11,
+          "protein": 19
+        },
+        {
+          "name": "흑미밥",
+          "isMain": false,
+          "calorie": 354,
+          "carbohydrate": 81,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 7
+        },
+        {
+          "name": "콩나물국",
+          "isMain": false,
+          "calorie": 16,
+          "carbohydrate": 2,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 2
+        },
+        {
+          "name": "두부구이",
+          "isMain": false,
+          "calorie": 62,
+          "carbohydrate": 5,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 4
+        },
+        {
+          "name": "부추양념장",
+          "isMain": false,
+          "calorie": 22,
+          "carbohydrate": 2,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "감자채카레볶음",
+          "isMain": false,
+          "calorie": 83,
+          "carbohydrate": 12,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 2
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "오미자차",
+          "isMain": false,
+          "calorie": 17,
+          "carbohydrate": 4,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "옛날짬뽕",
+      "courseName": "B:일품",
+      "setName": "옛날짬뽕&찹쌀탕수육",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260824/s20260417084131.jpg",
+      "nutrition": [
+        {
+          "name": "옛날짬뽕",
+          "isMain": true,
+          "calorie": 512,
+          "carbohydrate": 85,
+          "sugar": 4,
+          "fiber": 7,
+          "fat": 8,
+          "protein": 22
+        },
+        {
+          "name": "미니쌀밥",
+          "isMain": false,
+          "calorie": 62,
+          "carbohydrate": 14,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "인절미찹쌀탕수육(꿔바로우)",
+          "isMain": false,
+          "calorie": 490,
+          "carbohydrate": 67,
+          "sugar": 23,
+          "fiber": 1,
+          "fat": 15,
+          "protein": 20
+        },
+        {
+          "name": "고구마맛탕",
+          "isMain": false,
+          "calorie": 261,
+          "carbohydrate": 57,
+          "sugar": 24,
+          "fiber": 2,
+          "fat": 4,
+          "protein": 2
+        },
+        {
+          "name": "짜사이채무침",
+          "isMain": false,
+          "calorie": 22,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "단무지",
+          "isMain": false,
+          "calorie": 5,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "오미자차",
+          "isMain": false,
+          "calorie": 17,
+          "carbohydrate": 4,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-08-15T21:10:00.036Z"
+}
