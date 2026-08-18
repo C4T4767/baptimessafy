@@ -1,0 +1,164 @@
+{
+  "date": "2026-08-27",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "나주곰탕",
+      "courseName": "A:한식",
+      "setName": "나주곰탕&오징어김치전",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260827/s20240801132357.png",
+      "nutrition": [
+        {
+          "name": "나주곰탕",
+          "isMain": true,
+          "calorie": 219,
+          "carbohydrate": 20,
+          "sugar": 4,
+          "fiber": 2,
+          "fat": 9,
+          "protein": 13
+        },
+        {
+          "name": "차조밥",
+          "isMain": false,
+          "calorie": 381,
+          "carbohydrate": 87,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "오징어김치전",
+          "isMain": false,
+          "calorie": 188,
+          "carbohydrate": 30,
+          "sugar": 1,
+          "fiber": 2,
+          "fat": 2,
+          "protein": 11
+        },
+        {
+          "name": "도토리묵무침",
+          "isMain": false,
+          "calorie": 68,
+          "carbohydrate": 13,
+          "sugar": 3,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "마늘종햄볶음",
+          "isMain": false,
+          "calorie": 125,
+          "carbohydrate": 13,
+          "sugar": 5,
+          "fiber": 2,
+          "fat": 7,
+          "protein": 4
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "식혜",
+          "isMain": false,
+          "calorie": 55,
+          "carbohydrate": 14,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "잔치국수",
+      "courseName": "B:일품",
+      "setName": "잔치국수&감자크로켓",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260827/s20240628063903.png",
+      "nutrition": [
+        {
+          "name": "잔치국수",
+          "isMain": true,
+          "calorie": 671,
+          "carbohydrate": 142,
+          "sugar": 10,
+          "fiber": 1,
+          "fat": 3,
+          "protein": 19
+        },
+        {
+          "name": "쌀밥&후리가케",
+          "isMain": false,
+          "calorie": 125,
+          "carbohydrate": 29,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "감자크로켓&케찹",
+          "isMain": false,
+          "calorie": 191,
+          "carbohydrate": 34,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 4,
+          "protein": 4
+        },
+        {
+          "name": "도토리묵무침",
+          "isMain": false,
+          "calorie": 68,
+          "carbohydrate": 13,
+          "sugar": 3,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "마늘종햄볶음",
+          "isMain": false,
+          "calorie": 125,
+          "carbohydrate": 13,
+          "sugar": 5,
+          "fiber": 2,
+          "fat": 7,
+          "protein": 4
+        },
+        {
+          "name": "배추겉절이",
+          "isMain": false,
+          "calorie": 34,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 4,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "식혜",
+          "isMain": false,
+          "calorie": 55,
+          "carbohydrate": 14,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-08-18T21:11:59.252Z"
+}
