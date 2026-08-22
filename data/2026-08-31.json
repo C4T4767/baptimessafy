@@ -1,0 +1,204 @@
+{
+  "date": "2026-08-31",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "카레라이스",
+      "courseName": "A:한식",
+      "setName": "카레라이스&치킨가라아게",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260831/s20241108084530.png",
+      "nutrition": [
+        {
+          "name": "카레라이스",
+          "isMain": true,
+          "calorie": 591,
+          "carbohydrate": 112,
+          "sugar": 9,
+          "fiber": 1,
+          "fat": 10,
+          "protein": 15
+        },
+        {
+          "name": "가다랭이국",
+          "isMain": false,
+          "calorie": 9,
+          "carbohydrate": 2,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "치킨가라아게*머스타드",
+          "isMain": false,
+          "calorie": 247,
+          "carbohydrate": 24,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 11,
+          "protein": 18
+        },
+        {
+          "name": "푸실리샐러드",
+          "isMain": false,
+          "calorie": 124,
+          "carbohydrate": 26,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 4
+        },
+        {
+          "name": "오이생채",
+          "isMain": false,
+          "calorie": 36,
+          "carbohydrate": 7,
+          "sugar": 4,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "일식양배추샐러드",
+          "isMain": false,
+          "calorie": 11,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 25,
+          "carbohydrate": 4,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "유자차",
+          "isMain": false,
+          "calorie": 52,
+          "carbohydrate": 13,
+          "sugar": 12,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "해물볶음우동",
+      "courseName": "B:일품",
+      "setName": "해물볶음우동&비빔채소만두",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260831/s20260108092305.png",
+      "nutrition": [
+        {
+          "name": "해물볶음우동",
+          "isMain": true,
+          "calorie": 604,
+          "carbohydrate": 95,
+          "sugar": 15,
+          "fiber": 6,
+          "fat": 12,
+          "protein": 23
+        },
+        {
+          "name": "가다랭이국",
+          "isMain": false,
+          "calorie": 9,
+          "carbohydrate": 2,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "김가루양념밥",
+          "isMain": false,
+          "calorie": 375,
+          "carbohydrate": 81,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 3,
+          "protein": 7
+        },
+        {
+          "name": "팝만두튀김&채소무침",
+          "isMain": false,
+          "calorie": 339,
+          "carbohydrate": 46,
+          "sugar": 12,
+          "fiber": 2,
+          "fat": 12,
+          "protein": 9
+        },
+        {
+          "name": "푸실리샐러드",
+          "isMain": false,
+          "calorie": 124,
+          "carbohydrate": 26,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 4
+        },
+        {
+          "name": "일식양배추샐러드",
+          "isMain": false,
+          "calorie": 11,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 23,
+          "carbohydrate": 4,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "단무지무침",
+          "isMain": false,
+          "calorie": 26,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "유자차",
+          "isMain": false,
+          "calorie": 52,
+          "carbohydrate": 13,
+          "sugar": 12,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-08-22T21:10:17.948Z"
+}
