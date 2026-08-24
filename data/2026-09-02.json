@@ -1,0 +1,194 @@
+{
+  "date": "2026-09-02",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "비빔밥",
+      "courseName": "A:한식",
+      "setName": "비빔밥&궁중떡볶이",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260902/s20240229110458.png",
+      "nutrition": [
+        {
+          "name": "비빔밥",
+          "isMain": true,
+          "calorie": 626,
+          "carbohydrate": 114,
+          "sugar": 16,
+          "fiber": 4,
+          "fat": 10,
+          "protein": 23
+        },
+        {
+          "name": "멸치육수",
+          "isMain": false,
+          "calorie": 4,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "궁중떡볶이",
+          "isMain": false,
+          "calorie": 438,
+          "carbohydrate": 84,
+          "sugar": 6,
+          "fiber": 3,
+          "fat": 7,
+          "protein": 9
+        },
+        {
+          "name": "고구마샐러드",
+          "isMain": false,
+          "calorie": 152,
+          "carbohydrate": 23,
+          "sugar": 12,
+          "fiber": 0,
+          "fat": 6,
+          "protein": 1
+        },
+        {
+          "name": "천사채샐러드",
+          "isMain": false,
+          "calorie": 142,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 14,
+          "protein": 1
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 69,
+          "carbohydrate": 17,
+          "sugar": 15,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "치킨토마토파스타",
+      "courseName": "B:일품",
+      "setName": "치킨토마토파스타&반달감자(웨지)튀김",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260902/s20211022160843.jpg",
+      "nutrition": [
+        {
+          "name": "치킨토마토파스타",
+          "isMain": true,
+          "calorie": 657,
+          "carbohydrate": 117,
+          "sugar": 27,
+          "fiber": 7,
+          "fat": 6,
+          "protein": 40
+        },
+        {
+          "name": "모닝빵",
+          "isMain": false,
+          "calorie": 85,
+          "carbohydrate": 15,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 2,
+          "protein": 2
+        },
+        {
+          "name": "일회용버터",
+          "isMain": false,
+          "calorie": 75,
+          "carbohydrate": 0,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 8,
+          "protein": 0
+        },
+        {
+          "name": "딸기잼",
+          "isMain": false,
+          "calorie": 22,
+          "carbohydrate": 6,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "양송이스프",
+          "isMain": false,
+          "calorie": 80,
+          "carbohydrate": 13,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 2,
+          "protein": 2
+        },
+        {
+          "name": "반달감자(웨지)튀김",
+          "isMain": false,
+          "calorie": 167,
+          "carbohydrate": 22,
+          "sugar": 0,
+          "fiber": 2,
+          "fat": 8,
+          "protein": 2
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 13,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 45,
+          "carbohydrate": 11,
+          "sugar": 9,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "양배추피클",
+          "isMain": false,
+          "calorie": 32,
+          "carbohydrate": 8,
+          "sugar": 5,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 69,
+          "carbohydrate": 17,
+          "sugar": 15,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-08-24T21:17:21.550Z"
+}
