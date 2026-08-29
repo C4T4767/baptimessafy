@@ -1,0 +1,174 @@
+{
+  "date": "2026-09-07",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "김치날치알밥",
+      "courseName": "A:한식",
+      "setName": "김치날치알밥&피자맛치즈볼카츠",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260907/s20250313105219.jpg",
+      "nutrition": [
+        {
+          "name": "김치날치알밥",
+          "isMain": true,
+          "calorie": 504,
+          "carbohydrate": 87,
+          "sugar": 2,
+          "fiber": 3,
+          "fat": 13,
+          "protein": 10
+        },
+        {
+          "name": "쇠고기뭇국",
+          "isMain": false,
+          "calorie": 56,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 2,
+          "protein": 5
+        },
+        {
+          "name": "피자맛치즈볼카츠",
+          "isMain": false,
+          "calorie": 178,
+          "carbohydrate": 13,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 11,
+          "protein": 8
+        },
+        {
+          "name": "매운감자조림",
+          "isMain": false,
+          "calorie": 96,
+          "carbohydrate": 19,
+          "sugar": 3,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 3
+        },
+        {
+          "name": "멕시칸샐러드",
+          "isMain": false,
+          "calorie": 192,
+          "carbohydrate": 14,
+          "sugar": 5,
+          "fiber": 1,
+          "fat": 12,
+          "protein": 6
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "유자차",
+          "isMain": false,
+          "calorie": 52,
+          "carbohydrate": 13,
+          "sugar": 12,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "冷메밀국수",
+      "courseName": "B:일품",
+      "setName": "冷메밀국수&피자맛치즈볼카츠",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260907/s20260710100327.png",
+      "nutrition": [
+        {
+          "name": "冷메밀국수",
+          "isMain": true,
+          "calorie": 702,
+          "carbohydrate": 108,
+          "sugar": 36,
+          "fiber": 11,
+          "fat": 22,
+          "protein": 18
+        },
+        {
+          "name": "유부양념밥",
+          "isMain": false,
+          "calorie": 279,
+          "carbohydrate": 55,
+          "sugar": 6,
+          "fiber": 0,
+          "fat": 4,
+          "protein": 6
+        },
+        {
+          "name": "피자맛치즈볼카츠",
+          "isMain": false,
+          "calorie": 178,
+          "carbohydrate": 13,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 11,
+          "protein": 8
+        },
+        {
+          "name": "멕시칸샐러드",
+          "isMain": false,
+          "calorie": 192,
+          "carbohydrate": 14,
+          "sugar": 5,
+          "fiber": 1,
+          "fat": 12,
+          "protein": 6
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 13,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 41,
+          "carbohydrate": 10,
+          "sugar": 9,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "유자차",
+          "isMain": false,
+          "calorie": 52,
+          "carbohydrate": 13,
+          "sugar": 12,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-08-29T02:55:50.028Z"
+}
