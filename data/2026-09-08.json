@@ -1,0 +1,164 @@
+{
+  "date": "2026-09-08",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "숯불닭갈비덮밥",
+      "courseName": "A:한식",
+      "setName": "숯불닭갈비덮밥&비엔나소시지케첩볶음",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/main/100026/1008.png",
+      "nutrition": [
+        {
+          "name": "숯불닭갈비덮밥",
+          "isMain": true,
+          "calorie": 651,
+          "carbohydrate": 103,
+          "sugar": 12,
+          "fiber": 2,
+          "fat": 12,
+          "protein": 34
+        },
+        {
+          "name": "시래기된장국",
+          "isMain": false,
+          "calorie": 53,
+          "carbohydrate": 8,
+          "sugar": 1,
+          "fiber": 7,
+          "fat": 2,
+          "protein": 4
+        },
+        {
+          "name": "비엔나소시지케첩볶음",
+          "isMain": false,
+          "calorie": 383,
+          "carbohydrate": 21,
+          "sugar": 10,
+          "fiber": 2,
+          "fat": 27,
+          "protein": 15
+        },
+        {
+          "name": "연근땅콩강정",
+          "isMain": false,
+          "calorie": 148,
+          "carbohydrate": 30,
+          "sugar": 11,
+          "fiber": 2,
+          "fat": 3,
+          "protein": 1
+        },
+        {
+          "name": "숙주미나리나물",
+          "isMain": false,
+          "calorie": 26,
+          "carbohydrate": 3,
+          "sugar": 0,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 2
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "수정과",
+          "isMain": false,
+          "calorie": 80,
+          "carbohydrate": 20,
+          "sugar": 19,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "간자장면",
+      "courseName": "B:일품",
+      "setName": "간자장면&군만두(야끼)",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260908/s20230424102924.png",
+      "nutrition": [
+        {
+          "name": "간자장면",
+          "isMain": true,
+          "calorie": 620,
+          "carbohydrate": 98,
+          "sugar": 17,
+          "fiber": 5,
+          "fat": 15,
+          "protein": 22
+        },
+        {
+          "name": "미니차조밥",
+          "isMain": false,
+          "calorie": 229,
+          "carbohydrate": 52,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 4
+        },
+        {
+          "name": "짬뽕국",
+          "isMain": false,
+          "calorie": 111,
+          "carbohydrate": 8,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 4,
+          "protein": 12
+        },
+        {
+          "name": "군만두(야끼)",
+          "isMain": false,
+          "calorie": 223,
+          "carbohydrate": 32,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 7,
+          "protein": 8
+        },
+        {
+          "name": "게맛살냉채",
+          "isMain": false,
+          "calorie": 100,
+          "carbohydrate": 20,
+          "sugar": 13,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 4
+        },
+        {
+          "name": "짜사이채무침",
+          "isMain": false,
+          "calorie": 22,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "수정과",
+          "isMain": false,
+          "calorie": 80,
+          "carbohydrate": 20,
+          "sugar": 19,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-08-30T22:58:23.382Z"
+}
