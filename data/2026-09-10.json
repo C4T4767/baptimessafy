@@ -1,0 +1,204 @@
+{
+  "date": "2026-09-10",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "수제오므라이스",
+      "courseName": "A:한식",
+      "setName": "수제오므라이스&빅후랑크소시지구이",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260910/s20260804160843.png",
+      "nutrition": [
+        {
+          "name": "수제오므라이스",
+          "isMain": true,
+          "calorie": 476,
+          "carbohydrate": 76,
+          "sugar": 7,
+          "fiber": 3,
+          "fat": 10,
+          "protein": 19
+        },
+        {
+          "name": "빅후랑크소시지구이",
+          "isMain": false,
+          "calorie": 254,
+          "carbohydrate": 10,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 17,
+          "protein": 15
+        },
+        {
+          "name": "배추된장국",
+          "isMain": false,
+          "calorie": 40,
+          "carbohydrate": 5,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 3
+        },
+        {
+          "name": "치즈감자크로켓",
+          "isMain": false,
+          "calorie": 191,
+          "carbohydrate": 34,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 4,
+          "protein": 4
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 13,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 40,
+          "carbohydrate": 3,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 0
+        },
+        {
+          "name": "단무지무침",
+          "isMain": false,
+          "calorie": 26,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "설탕꽈배기",
+          "isMain": false,
+          "calorie": 156,
+          "carbohydrate": 24,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 5,
+          "protein": 4
+        }
+      ]
+    },
+    {
+      "name": "로제떡볶이",
+      "courseName": "B:일품",
+      "setName": "로제떡볶이&김말이튀김",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260910/s20250314151632.png",
+      "nutrition": [
+        {
+          "name": "로제떡볶이",
+          "isMain": true,
+          "calorie": 1191,
+          "carbohydrate": 156,
+          "sugar": 24,
+          "fiber": 3,
+          "fat": 55,
+          "protein": 18
+        },
+        {
+          "name": "미니음료",
+          "isMain": false,
+          "calorie": 90,
+          "carbohydrate": 21,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "잔멸치양념밥",
+          "isMain": false,
+          "calorie": 503,
+          "carbohydrate": 101,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 6,
+          "protein": 13
+        },
+        {
+          "name": "김말이튀김",
+          "isMain": false,
+          "calorie": 198,
+          "carbohydrate": 16,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 11,
+          "protein": 8
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 13,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 49,
+          "carbohydrate": 4,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 4,
+          "protein": 0
+        },
+        {
+          "name": "단무지무침",
+          "isMain": false,
+          "calorie": 26,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "설탕꽈배기",
+          "isMain": false,
+          "calorie": 156,
+          "carbohydrate": 24,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 5,
+          "protein": 4
+        },
+        {
+          "name": "복분자홍초",
+          "isMain": false,
+          "calorie": 107,
+          "carbohydrate": 27,
+          "sugar": 16,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 1
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-09-01T00:09:46.372Z"
+}
