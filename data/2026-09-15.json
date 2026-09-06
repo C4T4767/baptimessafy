@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-15",
   "restaurant": "멀티캠퍼스",
   "mealTime": "점심",
   "meals": [
     {
-      "name": "밀양돼지국밥",
+      "name": "사골우거지탕",
       "courseName": "A:한식",
-      "setName": "밀양돼지국밥&호박채소전",
-      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260909/s20250408132916.png",
+      "setName": "사골우거지탕&오징어김치전",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260915/s20250812102216.png",
       "nutrition": [
         {
-          "name": "밀양돼지국밥",
+          "name": "사골우거지탕",
           "isMain": true,
-          "calorie": 466,
-          "carbohydrate": 73,
-          "sugar": 3,
-          "fiber": 4,
-          "fat": 11,
-          "protein": 24
+          "calorie": 66,
+          "carbohydrate": 6,
+          "sugar": 2,
+          "fiber": 3,
+          "fat": 2,
+          "protein": 8
         },
         {
           "name": "보리밥",
@@ -30,44 +30,44 @@
           "protein": 8
         },
         {
-          "name": "호박채소전",
+          "name": "오징어김치전",
           "isMain": false,
-          "calorie": 177,
-          "carbohydrate": 35,
-          "sugar": 0,
+          "calorie": 188,
+          "carbohydrate": 30,
+          "sugar": 1,
           "fiber": 2,
-          "fat": 3,
-          "protein": 5
+          "fat": 2,
+          "protein": 11
         },
         {
-          "name": "잡채",
+          "name": "미트볼케첩조림",
           "isMain": false,
-          "calorie": 212,
-          "carbohydrate": 38,
-          "sugar": 5,
+          "calorie": 369,
+          "carbohydrate": 29,
+          "sugar": 15,
+          "fiber": 2,
+          "fat": 20,
+          "protein": 18
+        },
+        {
+          "name": "조랭이떡메추리알장조림",
+          "isMain": false,
+          "calorie": 143,
+          "carbohydrate": 9,
+          "sugar": 6,
           "fiber": 0,
-          "fat": 6,
-          "protein": 1
+          "fat": 8,
+          "protein": 8
         },
         {
-          "name": "마늘종고추장무침",
+          "name": "깍두기",
           "isMain": false,
-          "calorie": 54,
-          "carbohydrate": 11,
-          "sugar": 5,
-          "fiber": 3,
-          "fat": 1,
-          "protein": 1
-        },
-        {
-          "name": "석박지",
-          "isMain": false,
-          "calorie": 36,
-          "carbohydrate": 8,
+          "calorie": 31,
+          "carbohydrate": 6,
           "sugar": 3,
-          "fiber": 2,
+          "fiber": 3,
           "fat": 0,
-          "protein": 2
+          "protein": 1
         },
         {
           "name": "매실차",
@@ -82,59 +82,59 @@
       ]
     },
     {
-      "name": "고구마돈가스",
+      "name": "차이나스파게티",
       "courseName": "B:일품",
-      "setName": "고구마돈가스&클링클컷(감자튀김)",
-      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260909/s20260619164455.png",
+      "setName": "차이나스파게티&단호박샐러드",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260915/s20260123144910.png",
       "nutrition": [
         {
-          "name": "고구마돈가스",
+          "name": "차이나스파게티",
           "isMain": true,
-          "calorie": 258,
-          "carbohydrate": 32,
-          "sugar": 0,
-          "fiber": 0,
-          "fat": 8,
-          "protein": 14
-        },
-        {
-          "name": "크림스프",
-          "isMain": false,
-          "calorie": 89,
-          "carbohydrate": 14,
-          "sugar": 5,
-          "fiber": 0,
+          "calorie": 469,
+          "carbohydrate": 91,
+          "sugar": 6,
+          "fiber": 4,
           "fat": 3,
-          "protein": 1
+          "protein": 24
         },
         {
-          "name": "쌀밥&후리가케",
+          "name": "마늘빵",
           "isMain": false,
-          "calorie": 209,
-          "carbohydrate": 48,
+          "calorie": 208,
+          "carbohydrate": 18,
+          "sugar": 6,
+          "fiber": 0,
+          "fat": 14,
+          "protein": 2
+        },
+        {
+          "name": "제로탄산",
+          "isMain": false,
+          "calorie": 84,
+          "carbohydrate": 21,
           "sugar": 0,
           "fiber": 0,
           "fat": 0,
-          "protein": 4
+          "protein": 0
         },
         {
-          "name": "클링클컷(감자튀김)",
+          "name": "단호박샐러드",
+          "isMain": false,
+          "calorie": 142,
+          "carbohydrate": 19,
+          "sugar": 8,
+          "fiber": 0,
+          "fat": 7,
+          "protein": 1
+        },
+        {
+          "name": "클링클컷(감자튀김)&케찹",
           "isMain": false,
           "calorie": 235,
           "carbohydrate": 32,
           "sugar": 0,
           "fiber": 3,
           "fat": 10,
-          "protein": 3
-        },
-        {
-          "name": "마카로니콘샐러드",
-          "isMain": false,
-          "calorie": 194,
-          "carbohydrate": 14,
-          "sugar": 4,
-          "fiber": 2,
-          "fat": 15,
           "protein": 3
         },
         {
@@ -150,11 +150,11 @@
         {
           "name": "드레싱",
           "isMain": false,
-          "calorie": 67,
+          "calorie": 51,
           "carbohydrate": 4,
           "sugar": 3,
           "fiber": 0,
-          "fat": 6,
+          "fat": 4,
           "protein": 0
         },
         {
@@ -180,5 +180,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-06T22:30:40.476Z"
+  "updatedAt": "2026-09-06T22:30:42.733Z"
 }
