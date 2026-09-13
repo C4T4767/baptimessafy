@@ -1,0 +1,174 @@
+{
+  "date": "2026-09-22",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "돼지고기고추장볶음",
+      "courseName": "A:한식",
+      "setName": "돼지고기고추장볶음&분홍소시지전",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260922/s20250429172406.png",
+      "nutrition": [
+        {
+          "name": "돼지고기고추장볶음",
+          "isMain": true,
+          "calorie": 329,
+          "carbohydrate": 28,
+          "sugar": 13,
+          "fiber": 3,
+          "fat": 17,
+          "protein": 28
+        },
+        {
+          "name": "차조밥",
+          "isMain": false,
+          "calorie": 381,
+          "carbohydrate": 87,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "아욱된장국",
+          "isMain": false,
+          "calorie": 41,
+          "carbohydrate": 4,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 4
+        },
+        {
+          "name": "분홍소시지전",
+          "isMain": false,
+          "calorie": 325,
+          "carbohydrate": 29,
+          "sugar": 8,
+          "fiber": 1,
+          "fat": 20,
+          "protein": 8
+        },
+        {
+          "name": "콩나물무침",
+          "isMain": false,
+          "calorie": 35,
+          "carbohydrate": 3,
+          "sugar": 0,
+          "fiber": 2,
+          "fat": 2,
+          "protein": 4
+        },
+        {
+          "name": "오이양파무침",
+          "isMain": false,
+          "calorie": 35,
+          "carbohydrate": 7,
+          "sugar": 4,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "아이스티(레몬)",
+          "isMain": false,
+          "calorie": 56,
+          "carbohydrate": 14,
+          "sugar": 14,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "쇠고기깍두기볶음밥",
+      "courseName": "B:일품",
+      "setName": "쇠고기깍두기볶음밥&찹쌀탕수육",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260922/s20260713162944.png",
+      "nutrition": [
+        {
+          "name": "쇠고기깍두기볶음밥",
+          "isMain": true,
+          "calorie": 655,
+          "carbohydrate": 83,
+          "sugar": 8,
+          "fiber": 6,
+          "fat": 24,
+          "protein": 26
+        },
+        {
+          "name": "아욱된장국",
+          "isMain": false,
+          "calorie": 41,
+          "carbohydrate": 4,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 4
+        },
+        {
+          "name": "찹쌀탕수육",
+          "isMain": false,
+          "calorie": 397,
+          "carbohydrate": 47,
+          "sugar": 20,
+          "fiber": 0,
+          "fat": 20,
+          "protein": 7
+        },
+        {
+          "name": "콩나물무침",
+          "isMain": false,
+          "calorie": 35,
+          "carbohydrate": 3,
+          "sugar": 0,
+          "fiber": 2,
+          "fat": 2,
+          "protein": 4
+        },
+        {
+          "name": "우엉땅콩조림",
+          "isMain": false,
+          "calorie": 119,
+          "carbohydrate": 19,
+          "sugar": 8,
+          "fiber": 1,
+          "fat": 4,
+          "protein": 4
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "아이스티(레몬)",
+          "isMain": false,
+          "calorie": 56,
+          "carbohydrate": 14,
+          "sugar": 14,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-09-13T22:42:05.856Z"
+}
