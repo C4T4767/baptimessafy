@@ -1,0 +1,174 @@
+{
+  "date": "2026-09-29",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "눈꽃치즈제육덮밥",
+      "courseName": "A:한식",
+      "setName": "눈꽃치즈제육덮밥&호박채치자전",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260929/s20260821101022.jpg",
+      "nutrition": [
+        {
+          "name": "눈꽃치즈제육덮밥",
+          "isMain": true,
+          "calorie": 694,
+          "carbohydrate": 119,
+          "sugar": 11,
+          "fiber": 2,
+          "fat": 15,
+          "protein": 23
+        },
+        {
+          "name": "가다랭이국",
+          "isMain": false,
+          "calorie": 9,
+          "carbohydrate": 2,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "호박채치자전",
+          "isMain": false,
+          "calorie": 219,
+          "carbohydrate": 44,
+          "sugar": 0,
+          "fiber": 3,
+          "fat": 3,
+          "protein": 6
+        },
+        {
+          "name": "푸실리샐러드",
+          "isMain": false,
+          "calorie": 124,
+          "carbohydrate": 26,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 4
+        },
+        {
+          "name": "오이지무침",
+          "isMain": false,
+          "calorie": 18,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "석류차",
+          "isMain": false,
+          "calorie": 150,
+          "carbohydrate": 37,
+          "sugar": 35,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "모둠가스(돈가스+새우가스)",
+      "courseName": "B:일품",
+      "setName": "모둠가스(돈가스+새우가스)&콘버터구이",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20260929/s20260910191513.png",
+      "nutrition": [
+        {
+          "name": "모둠가스(돈가스+새우가스)",
+          "isMain": true,
+          "calorie": 572,
+          "carbohydrate": 71,
+          "sugar": 10,
+          "fiber": 0,
+          "fat": 21,
+          "protein": 23
+        },
+        {
+          "name": "가다랭이국",
+          "isMain": false,
+          "calorie": 9,
+          "carbohydrate": 2,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "쌀밥&후리가케",
+          "isMain": false,
+          "calorie": 209,
+          "carbohydrate": 48,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 4
+        },
+        {
+          "name": "콘버터구이",
+          "isMain": false,
+          "calorie": 122,
+          "carbohydrate": 20,
+          "sugar": 8,
+          "fiber": 3,
+          "fat": 4,
+          "protein": 3
+        },
+        {
+          "name": "푸실리샐러드",
+          "isMain": false,
+          "calorie": 124,
+          "carbohydrate": 26,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 4
+        },
+        {
+          "name": "양식단무지",
+          "isMain": false,
+          "calorie": 64,
+          "carbohydrate": 15,
+          "sugar": 16,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "석류차",
+          "isMain": false,
+          "calorie": 150,
+          "carbohydrate": 37,
+          "sugar": 35,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-09-20T22:46:14.717Z"
+}
