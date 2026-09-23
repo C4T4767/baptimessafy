@@ -1,0 +1,184 @@
+{
+  "date": "2026-10-01",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "비빔밥",
+      "courseName": "A:한식",
+      "setName": "비빔밥&찐만두(갈비만두)",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261001/s20240229110458.png",
+      "nutrition": [
+        {
+          "name": "비빔밥",
+          "isMain": true,
+          "calorie": 626,
+          "carbohydrate": 114,
+          "sugar": 16,
+          "fiber": 4,
+          "fat": 10,
+          "protein": 23
+        },
+        {
+          "name": "근대된장국",
+          "isMain": false,
+          "calorie": 38,
+          "carbohydrate": 4,
+          "sugar": 1,
+          "fiber": 2,
+          "fat": 2,
+          "protein": 3
+        },
+        {
+          "name": "찐만두(갈비만두)",
+          "isMain": false,
+          "calorie": 196,
+          "carbohydrate": 20,
+          "sugar": 8,
+          "fiber": 0,
+          "fat": 9,
+          "protein": 8
+        },
+        {
+          "name": "감자조림",
+          "isMain": false,
+          "calorie": 105,
+          "carbohydrate": 18,
+          "sugar": 4,
+          "fiber": 1,
+          "fat": 3,
+          "protein": 3
+        },
+        {
+          "name": "오복지무침",
+          "isMain": false,
+          "calorie": 5,
+          "carbohydrate": 1,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "아이스티(복숭아맛)",
+          "isMain": false,
+          "calorie": 49,
+          "carbohydrate": 8,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 1
+        }
+      ]
+    },
+    {
+      "name": "양지쌀국수",
+      "courseName": "B:일품",
+      "setName": "양지쌀국수&미니나시고랭",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/main/100026/1318.png",
+      "nutrition": [
+        {
+          "name": "양지쌀국수",
+          "isMain": true,
+          "calorie": 522,
+          "carbohydrate": 87,
+          "sugar": 10,
+          "fiber": 4,
+          "fat": 6,
+          "protein": 24
+        },
+        {
+          "name": "미니나시고랭",
+          "isMain": false,
+          "calorie": 469,
+          "carbohydrate": 65,
+          "sugar": 4,
+          "fiber": 2,
+          "fat": 14,
+          "protein": 19
+        },
+        {
+          "name": "채소춘권",
+          "isMain": false,
+          "calorie": 96,
+          "carbohydrate": 16,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 2,
+          "protein": 2
+        },
+        {
+          "name": "알새우칩",
+          "isMain": false,
+          "calorie": 47,
+          "carbohydrate": 6,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 2,
+          "protein": 0
+        },
+        {
+          "name": "양파초절임",
+          "isMain": false,
+          "calorie": 38,
+          "carbohydrate": 9,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "일식양배추샐러드",
+          "isMain": false,
+          "calorie": 11,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱 ",
+          "isMain": false,
+          "calorie": 49,
+          "carbohydrate": 4,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 4,
+          "protein": 0
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "아이스티(복숭아맛)",
+          "isMain": false,
+          "calorie": 49,
+          "carbohydrate": 8,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 1
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-09-23T23:16:12.244Z"
+}
