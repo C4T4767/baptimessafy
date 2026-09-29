@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-07",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "나주곰탕",
+      "courseName": "A:한식",
+      "setName": "나주곰탕&오징어김치전",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261007/s20240801132357.png",
+      "nutrition": [
+        {
+          "name": "나주곰탕",
+          "isMain": true,
+          "calorie": 219,
+          "carbohydrate": 20,
+          "sugar": 4,
+          "fiber": 2,
+          "fat": 9,
+          "protein": 13
+        },
+        {
+          "name": "수수밥",
+          "isMain": false,
+          "calorie": 382,
+          "carbohydrate": 87,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "오징어김치전",
+          "isMain": false,
+          "calorie": 188,
+          "carbohydrate": 30,
+          "sugar": 1,
+          "fiber": 2,
+          "fat": 2,
+          "protein": 11
+        },
+        {
+          "name": "메추리알곤약조림",
+          "isMain": false,
+          "calorie": 74,
+          "carbohydrate": 2,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 5,
+          "protein": 5
+        },
+        {
+          "name": "깻잎지절임",
+          "isMain": false,
+          "calorie": 50,
+          "carbohydrate": 10,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "아이스티(레몬)",
+          "isMain": false,
+          "calorie": 56,
+          "carbohydrate": 14,
+          "sugar": 14,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "가지튀김마파두부덮밥",
+      "courseName": "B:일품",
+      "setName": "가지튀김마파두부덮밥&매실소스탕수육",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261007/s20241014100316.png",
+      "nutrition": [
+        {
+          "name": "가지튀김마파두부덮밥",
+          "isMain": true,
+          "calorie": 661,
+          "carbohydrate": 101,
+          "sugar": 6,
+          "fiber": 8,
+          "fat": 18,
+          "protein": 25
+        },
+        {
+          "name": "계란팟국",
+          "isMain": false,
+          "calorie": 45,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 4
+        },
+        {
+          "name": "매실소스탕수육",
+          "isMain": false,
+          "calorie": 279,
+          "carbohydrate": 42,
+          "sugar": 17,
+          "fiber": 0,
+          "fat": 9,
+          "protein": 8
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 13,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 46,
+          "carbohydrate": 4,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 0
+        },
+        {
+          "name": "짜사이채무침",
+          "isMain": false,
+          "calorie": 22,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "아이스티(레몬)",
+          "isMain": false,
+          "calorie": 56,
+          "carbohydrate": 14,
+          "sugar": 14,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-09-29T00:41:50.816Z"
+}
