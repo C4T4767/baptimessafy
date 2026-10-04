@@ -1,0 +1,184 @@
+{
+  "date": "2026-10-13",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "날치알밥",
+      "courseName": "A:한식",
+      "setName": "날치알밥&비엔나소시지피망볶음",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261013/s20250313105219.jpg",
+      "nutrition": [
+        {
+          "name": "날치알밥",
+          "isMain": true,
+          "calorie": 504,
+          "carbohydrate": 87,
+          "sugar": 2,
+          "fiber": 3,
+          "fat": 13,
+          "protein": 10
+        },
+        {
+          "name": "가다랭이국",
+          "isMain": false,
+          "calorie": 3,
+          "carbohydrate": 0,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "비엔나소시지피망볶음",
+          "isMain": false,
+          "calorie": 322,
+          "carbohydrate": 16,
+          "sugar": 8,
+          "fiber": 2,
+          "fat": 23,
+          "protein": 12
+        },
+        {
+          "name": "찐만두(갈비만두)",
+          "isMain": false,
+          "calorie": 196,
+          "carbohydrate": 20,
+          "sugar": 8,
+          "fiber": 0,
+          "fat": 9,
+          "protein": 8
+        },
+        {
+          "name": "매운감자조림",
+          "isMain": false,
+          "calorie": 96,
+          "carbohydrate": 19,
+          "sugar": 3,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 3
+        },
+        {
+          "name": "마카로니콘샐러드",
+          "isMain": false,
+          "calorie": 194,
+          "carbohydrate": 14,
+          "sugar": 4,
+          "fiber": 2,
+          "fat": 15,
+          "protein": 3
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "아이스티(복숭아맛)",
+          "isMain": false,
+          "calorie": 49,
+          "carbohydrate": 8,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 1
+        }
+      ]
+    },
+    {
+      "name": "해물볶음우동",
+      "courseName": "B:일품",
+      "setName": "해물볶음우동&채소튀김",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261013/s20260108092305.png",
+      "nutrition": [
+        {
+          "name": "해물볶음우동",
+          "isMain": true,
+          "calorie": 604,
+          "carbohydrate": 95,
+          "sugar": 15,
+          "fiber": 6,
+          "fat": 12,
+          "protein": 23
+        },
+        {
+          "name": "오복지볶음밥",
+          "isMain": false,
+          "calorie": 295,
+          "carbohydrate": 59,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 5,
+          "protein": 5
+        },
+        {
+          "name": "가다랭이국",
+          "isMain": false,
+          "calorie": 3,
+          "carbohydrate": 0,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "채소튀김",
+          "isMain": false,
+          "calorie": 219,
+          "carbohydrate": 43,
+          "sugar": 3,
+          "fiber": 2,
+          "fat": 4,
+          "protein": 4
+        },
+        {
+          "name": "찐만두(갈비만두)",
+          "isMain": false,
+          "calorie": 196,
+          "carbohydrate": 20,
+          "sugar": 8,
+          "fiber": 0,
+          "fat": 9,
+          "protein": 8
+        },
+        {
+          "name": "마카로니콘샐러드",
+          "isMain": false,
+          "calorie": 194,
+          "carbohydrate": 14,
+          "sugar": 4,
+          "fiber": 2,
+          "fat": 15,
+          "protein": 3
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "아이스티(복숭아맛)",
+          "isMain": false,
+          "calorie": 49,
+          "carbohydrate": 8,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 1
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-04T23:40:17.953Z"
+}
