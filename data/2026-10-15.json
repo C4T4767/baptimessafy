@@ -1,0 +1,214 @@
+{
+  "date": "2026-10-15",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "중국식계란볶음밥",
+      "courseName": "A:한식",
+      "setName": "중국식계란볶음밥&미니짬뽕",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/main/100026/1030.png",
+      "nutrition": [
+        {
+          "name": "중국식계란볶음밥",
+          "isMain": true,
+          "calorie": 555,
+          "carbohydrate": 99,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 11,
+          "protein": 15
+        },
+        {
+          "name": "자장소스",
+          "isMain": false,
+          "calorie": 307,
+          "carbohydrate": 28,
+          "sugar": 13,
+          "fiber": 1,
+          "fat": 21,
+          "protein": 4
+        },
+        {
+          "name": "미니짬뽕",
+          "isMain": false,
+          "calorie": 354,
+          "carbohydrate": 60,
+          "sugar": 2,
+          "fiber": 5,
+          "fat": 5,
+          "protein": 15
+        },
+        {
+          "name": "깐풍기",
+          "isMain": false,
+          "calorie": 349,
+          "carbohydrate": 28,
+          "sugar": 15,
+          "fiber": 2,
+          "fat": 21,
+          "protein": 12
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 13,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 41,
+          "carbohydrate": 10,
+          "sugar": 9,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "중국식땅콩튀김 ",
+          "isMain": false,
+          "calorie": 227,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 3,
+          "fat": 21,
+          "protein": 8
+        },
+        {
+          "name": "짜사이채무침",
+          "isMain": false,
+          "calorie": 22,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "단무지",
+          "isMain": false,
+          "calorie": 5,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "복분자차 ",
+          "isMain": false,
+          "calorie": 150,
+          "carbohydrate": 38,
+          "sugar": 26,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "등심돈가스&",
+      "courseName": "B:일품",
+      "setName": "등심돈가스&떡볶이",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261015/s20240912141830.png",
+      "nutrition": [
+        {
+          "name": "등심돈가스&",
+          "isMain": true,
+          "calorie": 512,
+          "carbohydrate": 48,
+          "sugar": 22,
+          "fiber": 0,
+          "fat": 27,
+          "protein": 19
+        },
+        {
+          "name": "떡볶이",
+          "isMain": false,
+          "calorie": 353,
+          "carbohydrate": 74,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 3,
+          "protein": 7
+        },
+        {
+          "name": "양송이버섯스프",
+          "isMain": false,
+          "calorie": 89,
+          "carbohydrate": 13,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 2
+        },
+        {
+          "name": "현미밥&후리가케",
+          "isMain": false,
+          "calorie": 209,
+          "carbohydrate": 48,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 4
+        },
+        {
+          "name": "알감자버터구이",
+          "isMain": false,
+          "calorie": 279,
+          "carbohydrate": 38,
+          "sugar": 5,
+          "fiber": 3,
+          "fat": 12,
+          "protein": 5
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 13,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 45,
+          "carbohydrate": 11,
+          "sugar": 9,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "단무지",
+          "isMain": false,
+          "calorie": 5,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "복분자차 ",
+          "isMain": false,
+          "calorie": 150,
+          "carbohydrate": 38,
+          "sugar": 26,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-06T01:39:47.466Z"
+}
