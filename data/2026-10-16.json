@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-16",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "돼지고기고추장볶음",
+      "courseName": "A:한식",
+      "setName": "돼지고기고추장볶음&계란찜",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261016/s20250429172406.png",
+      "nutrition": [
+        {
+          "name": "돼지고기고추장볶음",
+          "isMain": true,
+          "calorie": 329,
+          "carbohydrate": 28,
+          "sugar": 13,
+          "fiber": 3,
+          "fat": 17,
+          "protein": 28
+        },
+        {
+          "name": "보리밥",
+          "isMain": false,
+          "calorie": 397,
+          "carbohydrate": 91,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 8
+        },
+        {
+          "name": "시래기된장국",
+          "isMain": false,
+          "calorie": 53,
+          "carbohydrate": 8,
+          "sugar": 1,
+          "fiber": 7,
+          "fat": 2,
+          "protein": 4
+        },
+        {
+          "name": "계란찜",
+          "isMain": false,
+          "calorie": 128,
+          "carbohydrate": 2,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 8,
+          "protein": 12
+        },
+        {
+          "name": "멕시칸샐러드",
+          "isMain": false,
+          "calorie": 192,
+          "carbohydrate": 14,
+          "sugar": 5,
+          "fiber": 1,
+          "fat": 12,
+          "protein": 6
+        },
+        {
+          "name": "미역초무침",
+          "isMain": false,
+          "calorie": 84,
+          "carbohydrate": 19,
+          "sugar": 12,
+          "fiber": 2,
+          "fat": 2,
+          "protein": 2
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "유자차",
+          "isMain": false,
+          "calorie": 52,
+          "carbohydrate": 13,
+          "sugar": 12,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "비빔밥",
+      "courseName": "B:일품",
+      "setName": "비빔밥&고구마크로켓",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261016/s20240229110458.png",
+      "nutrition": [
+        {
+          "name": "비빔밥",
+          "isMain": true,
+          "calorie": 626,
+          "carbohydrate": 114,
+          "sugar": 16,
+          "fiber": 4,
+          "fat": 10,
+          "protein": 23
+        },
+        {
+          "name": "시래기된장국",
+          "isMain": false,
+          "calorie": 53,
+          "carbohydrate": 8,
+          "sugar": 1,
+          "fiber": 7,
+          "fat": 2,
+          "protein": 4
+        },
+        {
+          "name": "고구마크로켓",
+          "isMain": false,
+          "calorie": 291,
+          "carbohydrate": 37,
+          "sugar": 10,
+          "fiber": 1,
+          "fat": 15,
+          "protein": 3
+        },
+        {
+          "name": "멕시칸샐러드",
+          "isMain": false,
+          "calorie": 192,
+          "carbohydrate": 14,
+          "sugar": 5,
+          "fiber": 1,
+          "fat": 12,
+          "protein": 6
+        },
+        {
+          "name": "미역초무침",
+          "isMain": false,
+          "calorie": 84,
+          "carbohydrate": 19,
+          "sugar": 12,
+          "fiber": 2,
+          "fat": 2,
+          "protein": 2
+        },
+        {
+          "name": "유자차",
+          "isMain": false,
+          "calorie": 52,
+          "carbohydrate": 13,
+          "sugar": 12,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "열무김치",
+          "isMain": false,
+          "calorie": 34,
+          "carbohydrate": 5,
+          "sugar": 1,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 2
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-07T00:12:41.045Z"
+}
