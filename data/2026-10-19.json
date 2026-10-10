@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-19",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "부대찌개",
+      "courseName": "A:한식",
+      "setName": "부대찌개&연근땅콩강정",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261019/s20210903114858.png",
+      "nutrition": [
+        {
+          "name": "부대찌개",
+          "isMain": true,
+          "calorie": 598,
+          "carbohydrate": 60,
+          "sugar": 9,
+          "fiber": 6,
+          "fat": 27,
+          "protein": 28
+        },
+        {
+          "name": "흑미밥",
+          "isMain": false,
+          "calorie": 354,
+          "carbohydrate": 81,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 7
+        },
+        {
+          "name": "연근땅콩강정",
+          "isMain": false,
+          "calorie": 148,
+          "carbohydrate": 30,
+          "sugar": 11,
+          "fiber": 2,
+          "fat": 3,
+          "protein": 1
+        },
+        {
+          "name": "감자채볶음",
+          "isMain": false,
+          "calorie": 83,
+          "carbohydrate": 12,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 2
+        },
+        {
+          "name": "사각어묵매운볶음",
+          "isMain": false,
+          "calorie": 137,
+          "carbohydrate": 16,
+          "sugar": 5,
+          "fiber": 0,
+          "fat": 4,
+          "protein": 8
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "오미자차",
+          "isMain": false,
+          "calorie": 17,
+          "carbohydrate": 4,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "새우볶음밥",
+      "courseName": "B:일품",
+      "setName": "새우볶음밥&찹쌀탕수육",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261019/s20260421113201.png",
+      "nutrition": [
+        {
+          "name": "새우볶음밥",
+          "isMain": true,
+          "calorie": 470,
+          "carbohydrate": 86,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 7,
+          "protein": 16
+        },
+        {
+          "name": "아욱된장국",
+          "isMain": false,
+          "calorie": 41,
+          "carbohydrate": 4,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 4
+        },
+        {
+          "name": "찹쌀탕수육",
+          "isMain": false,
+          "calorie": 490,
+          "carbohydrate": 67,
+          "sugar": 23,
+          "fiber": 1,
+          "fat": 15,
+          "protein": 20
+        },
+        {
+          "name": "사각어묵매운볶음",
+          "isMain": false,
+          "calorie": 137,
+          "carbohydrate": 16,
+          "sugar": 5,
+          "fiber": 0,
+          "fat": 5,
+          "protein": 8
+        },
+        {
+          "name": "양배추샐러드",
+          "isMain": false,
+          "calorie": 17,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 25,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "오미자차",
+          "isMain": false,
+          "calorie": 17,
+          "carbohydrate": 4,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-10T00:22:10.441Z"
+}
