@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-22",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "사골떡만둣국",
+      "courseName": "A:한식",
+      "setName": "사골떡만둣국&오징어완자전",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261022/s20251015203345.png",
+      "nutrition": [
+        {
+          "name": "사골떡만둣국",
+          "isMain": true,
+          "calorie": 602,
+          "carbohydrate": 94,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 14,
+          "protein": 22
+        },
+        {
+          "name": "미니현미밥",
+          "isMain": false,
+          "calorie": 208,
+          "carbohydrate": 47,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 4
+        },
+        {
+          "name": "오징어완자전",
+          "isMain": false,
+          "calorie": 159,
+          "carbohydrate": 13,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 7,
+          "protein": 13
+        },
+        {
+          "name": "두부고추장조림",
+          "isMain": false,
+          "calorie": 294,
+          "carbohydrate": 11,
+          "sugar": 6,
+          "fiber": 6,
+          "fat": 23,
+          "protein": 10
+        },
+        {
+          "name": "청포묵무침",
+          "isMain": false,
+          "calorie": 45,
+          "carbohydrate": 8,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 13,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 44,
+          "carbohydrate": 4,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 0
+        },
+        {
+          "name": "배추겉절이",
+          "isMain": false,
+          "calorie": 34,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 4,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "복분자홍초 ",
+          "isMain": false,
+          "calorie": 107,
+          "carbohydrate": 27,
+          "sugar": 16,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 1
+        }
+      ]
+    },
+    {
+      "name": "[윤서울]양파버터카레덮밥",
+      "courseName": "B:일품",
+      "setName": "[윤서울]양파버터카레덮밥&볼가츠",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261022/s20260520105617.png",
+      "nutrition": [
+        {
+          "name": "[윤서울]양파버터카레덮밥",
+          "isMain": true,
+          "calorie": 572,
+          "carbohydrate": 82,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 21,
+          "protein": 15
+        },
+        {
+          "name": "일식장국",
+          "isMain": false,
+          "calorie": 18,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 2
+        },
+        {
+          "name": "볼가츠&타르타르",
+          "isMain": false,
+          "calorie": 178,
+          "carbohydrate": 13,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 11,
+          "protein": 8
+        },
+        {
+          "name": "코올슬로",
+          "isMain": false,
+          "calorie": 153,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 1,
+          "fat": 14,
+          "protein": 1
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 13,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 49,
+          "carbohydrate": 4,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 4,
+          "protein": 0
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "복분자홍초 ",
+          "isMain": false,
+          "calorie": 107,
+          "carbohydrate": 27,
+          "sugar": 16,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 1
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-13T02:17:51.351Z"
+}
