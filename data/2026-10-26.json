@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-26",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "돼지고기김치찌개",
+      "courseName": "A:한식",
+      "setName": "돼지고기김치찌개&깻잎고기전",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/main/100026/1184.png",
+      "nutrition": [
+        {
+          "name": "돼지고기김치찌개",
+          "isMain": true,
+          "calorie": 195,
+          "carbohydrate": 7,
+          "sugar": 3,
+          "fiber": 5,
+          "fat": 13,
+          "protein": 16
+        },
+        {
+          "name": "차조밥",
+          "isMain": false,
+          "calorie": 381,
+          "carbohydrate": 87,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "깻잎고기전",
+          "isMain": false,
+          "calorie": 125,
+          "carbohydrate": 5,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 9,
+          "protein": 6
+        },
+        {
+          "name": "콩나물당면볶음",
+          "isMain": false,
+          "calorie": 161,
+          "carbohydrate": 21,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 8,
+          "protein": 5
+        },
+        {
+          "name": "잔멸치볶음",
+          "isMain": false,
+          "calorie": 38,
+          "carbohydrate": 2,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 4
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 13,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 11,
+          "carbohydrate": 0,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "오미자차",
+          "isMain": false,
+          "calorie": 17,
+          "carbohydrate": 4,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "쇠고기마늘종파스타",
+      "courseName": "B:일품",
+      "setName": "쇠고기마늘종파스타&미트소스감자튀김",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261026/s20260715104011.png",
+      "nutrition": [
+        {
+          "name": "쇠고기마늘종파스타",
+          "isMain": true,
+          "calorie": 642,
+          "carbohydrate": 94,
+          "sugar": 6,
+          "fiber": 6,
+          "fat": 20,
+          "protein": 27
+        },
+        {
+          "name": "미니찐빵",
+          "isMain": false,
+          "calorie": 73,
+          "carbohydrate": 13,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 2,
+          "protein": 2
+        },
+        {
+          "name": "미니음료",
+          "isMain": false,
+          "calorie": 50,
+          "carbohydrate": 12,
+          "sugar": 10,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "미트소스감자튀김",
+          "isMain": false,
+          "calorie": 327,
+          "carbohydrate": 29,
+          "sugar": 6,
+          "fiber": 2,
+          "fat": 20,
+          "protein": 7
+        },
+        {
+          "name": "수제피클",
+          "isMain": false,
+          "calorie": 95,
+          "carbohydrate": 23,
+          "sugar": 21,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 13,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 11,
+          "carbohydrate": 0,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "오미자차",
+          "isMain": false,
+          "calorie": 17,
+          "carbohydrate": 4,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-17T22:44:30.976Z"
+}
