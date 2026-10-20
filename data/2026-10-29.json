@@ -1,0 +1,204 @@
+{
+  "date": "2026-10-29",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "영양닭죽",
+      "courseName": "A:한식",
+      "setName": "영양닭죽&언양식바싹불고기",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261029/s20260707124051.png",
+      "nutrition": [
+        {
+          "name": "영양닭죽",
+          "isMain": true,
+          "calorie": 320,
+          "carbohydrate": 47,
+          "sugar": 3,
+          "fiber": 1,
+          "fat": 8,
+          "protein": 17
+        },
+        {
+          "name": "나박물김치",
+          "isMain": false,
+          "calorie": 8,
+          "carbohydrate": 2,
+          "sugar": 0,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "언양식바싹불고기",
+          "isMain": false,
+          "calorie": 248,
+          "carbohydrate": 16,
+          "sugar": 8,
+          "fiber": 0,
+          "fat": 14,
+          "protein": 14
+        },
+        {
+          "name": "우엉땅콩조림",
+          "isMain": false,
+          "calorie": 119,
+          "carbohydrate": 19,
+          "sugar": 8,
+          "fiber": 1,
+          "fat": 4,
+          "protein": 4
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 13,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 46,
+          "carbohydrate": 4,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 0
+        },
+        {
+          "name": "무채오징어젓갈무침",
+          "isMain": false,
+          "calorie": 51,
+          "carbohydrate": 6,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 4
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "석류차",
+          "isMain": false,
+          "calorie": 150,
+          "carbohydrate": 37,
+          "sugar": 35,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "다리집떡볶이",
+      "courseName": "B:일품",
+      "setName": "다리집떡볶이&순대튀김",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261029/s20260630111723.jpg",
+      "nutrition": [
+        {
+          "name": "다리집떡볶이",
+          "isMain": true,
+          "calorie": 601,
+          "carbohydrate": 133,
+          "sugar": 22,
+          "fiber": 1,
+          "fat": 4,
+          "protein": 11
+        },
+        {
+          "name": "김가루양념밥",
+          "isMain": false,
+          "calorie": 376,
+          "carbohydrate": 81,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 3,
+          "protein": 7
+        },
+        {
+          "name": "가다랭이국",
+          "isMain": false,
+          "calorie": 9,
+          "carbohydrate": 2,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "순대튀김",
+          "isMain": false,
+          "calorie": 195,
+          "carbohydrate": 24,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 8,
+          "protein": 3
+        },
+        {
+          "name": "고구마맛탕",
+          "isMain": false,
+          "calorie": 261,
+          "carbohydrate": 57,
+          "sugar": 24,
+          "fiber": 2,
+          "fat": 4,
+          "protein": 2
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 13,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 41,
+          "carbohydrate": 4,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 0
+        },
+        {
+          "name": "단무지",
+          "isMain": false,
+          "calorie": 5,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "석류차",
+          "isMain": false,
+          "calorie": 150,
+          "carbohydrate": 37,
+          "sugar": 35,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-20T00:00:11.577Z"
+}
