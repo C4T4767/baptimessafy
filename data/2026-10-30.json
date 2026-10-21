@@ -1,0 +1,204 @@
+{
+  "date": "2026-10-30",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "돼지고기고추장볶음",
+      "courseName": "A:한식",
+      "setName": "돼지고기고추장볶음&두부양념구이",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261030/s20250429172406.png",
+      "nutrition": [
+        {
+          "name": "돼지고기고추장볶음",
+          "isMain": true,
+          "calorie": 329,
+          "carbohydrate": 28,
+          "sugar": 13,
+          "fiber": 3,
+          "fat": 17,
+          "protein": 28
+        },
+        {
+          "name": "수수밥",
+          "isMain": false,
+          "calorie": 382,
+          "carbohydrate": 87,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "근대된장국",
+          "isMain": false,
+          "calorie": 38,
+          "carbohydrate": 4,
+          "sugar": 1,
+          "fiber": 2,
+          "fat": 2,
+          "protein": 3
+        },
+        {
+          "name": "두부양념구이",
+          "isMain": false,
+          "calorie": 134,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 6,
+          "fat": 9,
+          "protein": 10
+        },
+        {
+          "name": "숙주미나리나물",
+          "isMain": false,
+          "calorie": 26,
+          "carbohydrate": 3,
+          "sugar": 0,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 2
+        },
+        {
+          "name": "열무된장나물",
+          "isMain": false,
+          "calorie": 29,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 3
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "식혜",
+          "isMain": false,
+          "calorie": 55,
+          "carbohydrate": 14,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "등심돈가스&",
+      "courseName": "B:일품",
+      "setName": "등심돈가스&새우커틀릿",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/main/100034/28325.png",
+      "nutrition": [
+        {
+          "name": "등심돈가스&",
+          "isMain": true,
+          "calorie": 398,
+          "carbohydrate": 35,
+          "sugar": 11,
+          "fiber": 0,
+          "fat": 22,
+          "protein": 15
+        },
+        {
+          "name": "새우커틀릿",
+          "isMain": false,
+          "calorie": 180,
+          "carbohydrate": 18,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 6,
+          "protein": 13
+        },
+        {
+          "name": "양송이버섯스프",
+          "isMain": false,
+          "calorie": 89,
+          "carbohydrate": 13,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 2
+        },
+        {
+          "name": "쌀밥&후리가케",
+          "isMain": false,
+          "calorie": 209,
+          "carbohydrate": 48,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 4
+        },
+        {
+          "name": "양배추샐러드&스위트콘",
+          "isMain": false,
+          "calorie": 14,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 4,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 25,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "푸실리샐러드",
+          "isMain": false,
+          "calorie": 118,
+          "carbohydrate": 24,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 4
+        },
+        {
+          "name": "풋고추&쌈장",
+          "isMain": false,
+          "calorie": 3,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "식혜",
+          "isMain": false,
+          "calorie": 55,
+          "carbohydrate": 14,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-21T23:46:10.556Z"
+}
