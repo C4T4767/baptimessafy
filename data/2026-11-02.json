@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-02",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "이차돌된장찌개",
+      "courseName": "A:한식",
+      "setName": "이차돌된장찌개&너비아니엿장조림",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261102/s20250327063858.png",
+      "nutrition": [
+        {
+          "name": "이차돌된장찌개",
+          "isMain": true,
+          "calorie": 114,
+          "carbohydrate": 10,
+          "sugar": 1,
+          "fiber": 3,
+          "fat": 5,
+          "protein": 8
+        },
+        {
+          "name": "흑미밥",
+          "isMain": false,
+          "calorie": 354,
+          "carbohydrate": 81,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 7
+        },
+        {
+          "name": "너비아니엿장조림",
+          "isMain": false,
+          "calorie": 302,
+          "carbohydrate": 19,
+          "sugar": 7,
+          "fiber": 1,
+          "fat": 18,
+          "protein": 16
+        },
+        {
+          "name": "잡채",
+          "isMain": false,
+          "calorie": 212,
+          "carbohydrate": 38,
+          "sugar": 5,
+          "fiber": 1,
+          "fat": 6,
+          "protein": 1
+        },
+        {
+          "name": "도라지오이생채",
+          "isMain": false,
+          "calorie": 47,
+          "carbohydrate": 9,
+          "sugar": 5,
+          "fiber": 3,
+          "fat": 1,
+          "protein": 3
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "꽈배기",
+          "isMain": false,
+          "calorie": 156,
+          "carbohydrate": 24,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 5,
+          "protein": 4
+        },
+        {
+          "name": "석류차",
+          "isMain": false,
+          "calorie": 150,
+          "carbohydrate": 37,
+          "sugar": 35,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "왕새우튀김카레라이스",
+      "courseName": "B:일품",
+      "setName": "왕새우튀김카레라이스&해쉬브라운",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261102/s20260430103948.png",
+      "nutrition": [
+        {
+          "name": "왕새우튀김카레라이스",
+          "isMain": true,
+          "calorie": 672,
+          "carbohydrate": 116,
+          "sugar": 9,
+          "fiber": 6,
+          "fat": 17,
+          "protein": 14
+        },
+        {
+          "name": "미소장국",
+          "isMain": false,
+          "calorie": 36,
+          "carbohydrate": 2,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 2,
+          "protein": 3
+        },
+        {
+          "name": "해쉬브라운&케찹",
+          "isMain": false,
+          "calorie": 194,
+          "carbohydrate": 20,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 9,
+          "protein": 8
+        },
+        {
+          "name": "도라지오이생채",
+          "isMain": false,
+          "calorie": 47,
+          "carbohydrate": 10,
+          "sugar": 6,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 10,
+          "carbohydrate": 2,
+          "sugar": 1,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 20,
+          "carbohydrate": 3,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "꽈배기",
+          "isMain": false,
+          "calorie": 156,
+          "carbohydrate": 24,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 5,
+          "protein": 4
+        },
+        {
+          "name": "석류차",
+          "isMain": false,
+          "calorie": 150,
+          "carbohydrate": 37,
+          "sugar": 35,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-24T22:45:57.284Z"
+}
