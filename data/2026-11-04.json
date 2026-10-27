@@ -1,0 +1,164 @@
+{
+  "date": "2026-11-04",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "버섯돼지불고기",
+      "courseName": "A:한식",
+      "setName": "버섯돼지불고기&크림소스떡볶이",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/main/100026/1262.png",
+      "nutrition": [
+        {
+          "name": "버섯돼지불고기",
+          "isMain": true,
+          "calorie": 236,
+          "carbohydrate": 13,
+          "sugar": 6,
+          "fiber": 4,
+          "fat": 15,
+          "protein": 21
+        },
+        {
+          "name": "차조밥",
+          "isMain": false,
+          "calorie": 381,
+          "carbohydrate": 87,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "들깨미역국",
+          "isMain": false,
+          "calorie": 48,
+          "carbohydrate": 4,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 3,
+          "protein": 2
+        },
+        {
+          "name": "크림소스떡볶이",
+          "isMain": false,
+          "calorie": 341,
+          "carbohydrate": 67,
+          "sugar": 5,
+          "fiber": 1,
+          "fat": 5,
+          "protein": 6
+        },
+        {
+          "name": "쫄면채소무침",
+          "isMain": false,
+          "calorie": 326,
+          "carbohydrate": 67,
+          "sugar": 13,
+          "fiber": 3,
+          "fat": 3,
+          "protein": 9
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 69,
+          "carbohydrate": 17,
+          "sugar": 15,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "쇠고기깍두기볶음밥",
+      "courseName": "B:일품",
+      "setName": "쇠고기깍두기볶음밥&크림소스떡볶이",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261104/s20260713162944.png",
+      "nutrition": [
+        {
+          "name": "쇠고기깍두기볶음밥",
+          "isMain": true,
+          "calorie": 649,
+          "carbohydrate": 84,
+          "sugar": 8,
+          "fiber": 7,
+          "fat": 24,
+          "protein": 25
+        },
+        {
+          "name": "들깨미역국",
+          "isMain": false,
+          "calorie": 48,
+          "carbohydrate": 4,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 3,
+          "protein": 2
+        },
+        {
+          "name": "크림소스떡볶이",
+          "isMain": false,
+          "calorie": 340,
+          "carbohydrate": 67,
+          "sugar": 5,
+          "fiber": 1,
+          "fat": 5,
+          "protein": 6
+        },
+        {
+          "name": "콩나물무침",
+          "isMain": false,
+          "calorie": 35,
+          "carbohydrate": 3,
+          "sugar": 0,
+          "fiber": 2,
+          "fat": 2,
+          "protein": 4
+        },
+        {
+          "name": "해초채소무침",
+          "isMain": false,
+          "calorie": 51,
+          "carbohydrate": 11,
+          "sugar": 4,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "단무지",
+          "isMain": false,
+          "calorie": 5,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 69,
+          "carbohydrate": 17,
+          "sugar": 15,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-27T00:07:01.745Z"
+}
