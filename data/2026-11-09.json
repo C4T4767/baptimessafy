@@ -1,0 +1,184 @@
+{
+  "date": "2026-11-09",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "[황생가]사골떡만둣국",
+      "courseName": "A:한식",
+      "setName": "[황생가]사골떡만둣국&미트볼케첩조림",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261109/s20251015203345.png",
+      "nutrition": [
+        {
+          "name": "[황생가]사골떡만둣국",
+          "isMain": true,
+          "calorie": 434,
+          "carbohydrate": 57,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 14,
+          "protein": 19
+        },
+        {
+          "name": "보리밥",
+          "isMain": false,
+          "calorie": 238,
+          "carbohydrate": 55,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 5
+        },
+        {
+          "name": "오징어완자전",
+          "isMain": false,
+          "calorie": 159,
+          "carbohydrate": 13,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 7,
+          "protein": 13
+        },
+        {
+          "name": "미트볼케첩조림",
+          "isMain": false,
+          "calorie": 364,
+          "carbohydrate": 28,
+          "sugar": 14,
+          "fiber": 3,
+          "fat": 20,
+          "protein": 17
+        },
+        {
+          "name": "브로콜리&다시마숙회",
+          "isMain": false,
+          "calorie": 83,
+          "carbohydrate": 19,
+          "sugar": 11,
+          "fiber": 4,
+          "fat": 1,
+          "protein": 2
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "아이스티(복숭아)",
+          "isMain": false,
+          "calorie": 49,
+          "carbohydrate": 8,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 1
+        }
+      ]
+    },
+    {
+      "name": "베이컨마늘볶음밥",
+      "courseName": "B:일품",
+      "setName": "베이컨마늘볶음밥&교자만두찜",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261109/s20220901101353.jpg",
+      "nutrition": [
+        {
+          "name": "베이컨마늘볶음밥",
+          "isMain": true,
+          "calorie": 775,
+          "carbohydrate": 90,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 33,
+          "protein": 28
+        },
+        {
+          "name": "가다랭이국",
+          "isMain": false,
+          "calorie": 9,
+          "carbohydrate": 2,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "교자만두찜",
+          "isMain": false,
+          "calorie": 200,
+          "carbohydrate": 26,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 7,
+          "protein": 6
+        },
+        {
+          "name": "잡채어묵볶음",
+          "isMain": false,
+          "calorie": 166,
+          "carbohydrate": 18,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 6,
+          "protein": 9
+        },
+        {
+          "name": "매운감자조림",
+          "isMain": false,
+          "calorie": 97,
+          "carbohydrate": 19,
+          "sugar": 3,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 3
+        },
+        {
+          "name": "일식양배추샐러드",
+          "isMain": false,
+          "calorie": 11,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 20,
+          "carbohydrate": 3,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "아이스티(복숭아)",
+          "isMain": false,
+          "calorie": 49,
+          "carbohydrate": 8,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 1
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-31T00:12:17.634Z"
+}
