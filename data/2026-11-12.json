@@ -1,0 +1,184 @@
+{
+  "date": "2026-11-12",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "매운돼지고기순대볶음",
+      "courseName": "A:한식",
+      "setName": "매운돼지고기순대볶음&계란말이",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261112/s20250429172406.png",
+      "nutrition": [
+        {
+          "name": "매운돼지고기순대볶음",
+          "isMain": true,
+          "calorie": 323,
+          "carbohydrate": 26,
+          "sugar": 12,
+          "fiber": 6,
+          "fat": 17,
+          "protein": 27
+        },
+        {
+          "name": "수수밥",
+          "isMain": false,
+          "calorie": 382,
+          "carbohydrate": 87,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "건새우아욱된장국",
+          "isMain": false,
+          "calorie": 52,
+          "carbohydrate": 5,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 2,
+          "protein": 5
+        },
+        {
+          "name": "계란말이",
+          "isMain": false,
+          "calorie": 202,
+          "carbohydrate": 2,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 13,
+          "protein": 18
+        },
+        {
+          "name": "상추겉절이",
+          "isMain": false,
+          "calorie": 25,
+          "carbohydrate": 5,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "오미자차",
+          "isMain": false,
+          "calorie": 17,
+          "carbohydrate": 4,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "날치알크림소스스파게티",
+      "courseName": "B:일품",
+      "setName": "날치알크림소스스파게티&시나몬토스트",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/main/100026/1412.png",
+      "nutrition": [
+        {
+          "name": "날치알크림소스스파게티",
+          "isMain": true,
+          "calorie": 842,
+          "carbohydrate": 104,
+          "sugar": 12,
+          "fiber": 3,
+          "fat": 36,
+          "protein": 28
+        },
+        {
+          "name": "제로탄산",
+          "isMain": false,
+          "calorie": 0,
+          "carbohydrate": 0,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "시나몬토스트",
+          "isMain": false,
+          "calorie": 148,
+          "carbohydrate": 25,
+          "sugar": 4,
+          "fiber": 1,
+          "fat": 4,
+          "protein": 4
+        },
+        {
+          "name": "단호박크로켓",
+          "isMain": false,
+          "calorie": 206,
+          "carbohydrate": 37,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 5,
+          "protein": 4
+        },
+        {
+          "name": "그린샐러드",
+          "isMain": false,
+          "calorie": 10,
+          "carbohydrate": 2,
+          "sugar": 1,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 61,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 5,
+          "protein": 0
+        },
+        {
+          "name": "코올슬로",
+          "isMain": false,
+          "calorie": 147,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 3,
+          "fat": 14,
+          "protein": 1
+        },
+        {
+          "name": "오이피클",
+          "isMain": false,
+          "calorie": 64,
+          "carbohydrate": 15,
+          "sugar": 16,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "오미자차",
+          "isMain": false,
+          "calorie": 17,
+          "carbohydrate": 4,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-03T02:42:12.451Z"
+}

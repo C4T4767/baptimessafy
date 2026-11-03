@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-11",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "[놀부]부대찌개",
+      "courseName": "A:한식",
+      "setName": "[놀부]부대찌개&새우커틀릿 *빼빼로꽈배기",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261111/s20260813092652.png",
+      "nutrition": [
+        {
+          "name": "[놀부]부대찌개",
+          "isMain": true,
+          "calorie": 783,
+          "carbohydrate": 54,
+          "sugar": 4,
+          "fiber": 1,
+          "fat": 46,
+          "protein": 40
+        },
+        {
+          "name": "차조밥",
+          "isMain": false,
+          "calorie": 381,
+          "carbohydrate": 87,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "새우커틀릿",
+          "isMain": false,
+          "calorie": 180,
+          "carbohydrate": 18,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 6,
+          "protein": 13
+        },
+        {
+          "name": "숙주나물",
+          "isMain": false,
+          "calorie": 12,
+          "carbohydrate": 2,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "매운미역초무침",
+          "isMain": false,
+          "calorie": 35,
+          "carbohydrate": 8,
+          "sugar": 4,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "그린샐러드",
+          "isMain": false,
+          "calorie": 10,
+          "carbohydrate": 2,
+          "sugar": 1,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 41,
+          "carbohydrate": 10,
+          "sugar": 9,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "빼빼로꽈배기",
+          "isMain": false,
+          "calorie": 156,
+          "carbohydrate": 24,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 5,
+          "protein": 4
+        },
+        {
+          "name": "ICE초코",
+          "isMain": false,
+          "calorie": 41,
+          "carbohydrate": 7,
+          "sugar": 6,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 1
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-03T02:42:11.984Z"
+}
