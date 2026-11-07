@@ -1,0 +1,174 @@
+{
+  "date": "2026-11-16",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "장터국밥",
+      "courseName": "A:한식",
+      "setName": "장터국밥&해물파전",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261116/s20260306135446.png",
+      "nutrition": [
+        {
+          "name": "장터국밥",
+          "isMain": true,
+          "calorie": 448,
+          "carbohydrate": 86,
+          "sugar": 2,
+          "fiber": 3,
+          "fat": 4,
+          "protein": 20
+        },
+        {
+          "name": "흑미밥",
+          "isMain": false,
+          "calorie": 354,
+          "carbohydrate": 81,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 7
+        },
+        {
+          "name": "해물파전",
+          "isMain": false,
+          "calorie": 223,
+          "carbohydrate": 32,
+          "sugar": 0,
+          "fiber": 2,
+          "fat": 4,
+          "protein": 16
+        },
+        {
+          "name": "연근땅콩강정",
+          "isMain": false,
+          "calorie": 148,
+          "carbohydrate": 30,
+          "sugar": 11,
+          "fiber": 2,
+          "fat": 3,
+          "protein": 1
+        },
+        {
+          "name": "건새우마늘종볶음",
+          "isMain": false,
+          "calorie": 46,
+          "carbohydrate": 7,
+          "sugar": 4,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 3
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "복분자차",
+          "isMain": false,
+          "calorie": 150,
+          "carbohydrate": 38,
+          "sugar": 26,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "수제오므라이스",
+      "courseName": "B:일품",
+      "setName": "수제오므라이스&세블락소시지구이",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261116/s20241003104726.png",
+      "nutrition": [
+        {
+          "name": "수제오므라이스",
+          "isMain": true,
+          "calorie": 269,
+          "carbohydrate": 28,
+          "sugar": 8,
+          "fiber": 4,
+          "fat": 11,
+          "protein": 14
+        },
+        {
+          "name": "세블락소시지구이",
+          "isMain": false,
+          "calorie": 254,
+          "carbohydrate": 10,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 17,
+          "protein": 15
+        },
+        {
+          "name": "어묵김칫국",
+          "isMain": false,
+          "calorie": 65,
+          "carbohydrate": 9,
+          "sugar": 3,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 5
+        },
+        {
+          "name": "연근땅콩강정",
+          "isMain": false,
+          "calorie": 148,
+          "carbohydrate": 30,
+          "sugar": 11,
+          "fiber": 2,
+          "fat": 3,
+          "protein": 1
+        },
+        {
+          "name": "건새우마늘종볶음",
+          "isMain": false,
+          "calorie": 46,
+          "carbohydrate": 7,
+          "sugar": 4,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 3
+        },
+        {
+          "name": "마카로니콘샐러드",
+          "isMain": false,
+          "calorie": 191,
+          "carbohydrate": 13,
+          "sugar": 4,
+          "fiber": 3,
+          "fat": 15,
+          "protein": 2
+        },
+        {
+          "name": "유자청단무지 ",
+          "isMain": false,
+          "calorie": 5,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "복분자차",
+          "isMain": false,
+          "calorie": 150,
+          "carbohydrate": 38,
+          "sugar": 26,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-07T00:28:01.502Z"
+}
