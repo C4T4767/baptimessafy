@@ -1,0 +1,204 @@
+{
+  "date": "2026-11-17",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "숯불돼지고기버섯고추장볶음",
+      "courseName": "A:한식",
+      "setName": "숯불돼지고기버섯고추장볶음&햄채소스크램블에그",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261117/s20211217110051.png",
+      "nutrition": [
+        {
+          "name": "숯불돼지고기버섯고추장볶음",
+          "isMain": true,
+          "calorie": 291,
+          "carbohydrate": 25,
+          "sugar": 11,
+          "fiber": 3,
+          "fat": 15,
+          "protein": 24
+        },
+        {
+          "name": "차조밥",
+          "isMain": false,
+          "calorie": 381,
+          "carbohydrate": 87,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "배추된장국",
+          "isMain": false,
+          "calorie": 40,
+          "carbohydrate": 5,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 3
+        },
+        {
+          "name": "햄채소스크램블에그",
+          "isMain": false,
+          "calorie": 158,
+          "carbohydrate": 5,
+          "sugar": 1,
+          "fiber": 2,
+          "fat": 10,
+          "protein": 11
+        },
+        {
+          "name": "양배추쌈&쌈장",
+          "isMain": false,
+          "calorie": 12,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 5,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "무생채",
+          "isMain": false,
+          "calorie": 33,
+          "carbohydrate": 7,
+          "sugar": 5,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "아이스티(복숭아맛)",
+          "isMain": false,
+          "calorie": 49,
+          "carbohydrate": 8,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 1
+        }
+      ]
+    },
+    {
+      "name": "등심돈가스&",
+      "courseName": "B:일품",
+      "setName": "등심돈가스&생선가스&옥수수스프",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261117/s20260619164455.png",
+      "nutrition": [
+        {
+          "name": "등심돈가스&",
+          "isMain": true,
+          "calorie": 398,
+          "carbohydrate": 35,
+          "sugar": 11,
+          "fiber": 0,
+          "fat": 22,
+          "protein": 15
+        },
+        {
+          "name": "생선가스",
+          "isMain": false,
+          "calorie": 134,
+          "carbohydrate": 13,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 5,
+          "protein": 9
+        },
+        {
+          "name": "쌀밥&후리가케",
+          "isMain": false,
+          "calorie": 209,
+          "carbohydrate": 48,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 4
+        },
+        {
+          "name": "옥수수스프",
+          "isMain": false,
+          "calorie": 70,
+          "carbohydrate": 12,
+          "sugar": 4,
+          "fiber": 0,
+          "fat": 2,
+          "protein": 1
+        },
+        {
+          "name": "클링클컷(감자튀김)",
+          "isMain": false,
+          "calorie": 235,
+          "carbohydrate": 32,
+          "sugar": 0,
+          "fiber": 3,
+          "fat": 10,
+          "protein": 3
+        },
+        {
+          "name": "더운채소",
+          "isMain": false,
+          "calorie": 67,
+          "carbohydrate": 5,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 5,
+          "protein": 1
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 10,
+          "carbohydrate": 2,
+          "sugar": 1,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱 ",
+          "isMain": false,
+          "calorie": 20,
+          "carbohydrate": 3,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "오이피클",
+          "isMain": false,
+          "calorie": 64,
+          "carbohydrate": 15,
+          "sugar": 16,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "아이스티(복숭아맛)",
+          "isMain": false,
+          "calorie": 49,
+          "carbohydrate": 8,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 1
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-08T00:03:18.479Z"
+}
