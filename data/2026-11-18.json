@@ -1,0 +1,174 @@
+{
+  "date": "2026-11-18",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "순살안동찜닭",
+      "courseName": "A:한식",
+      "setName": "순살안동찜닭&두부양념구이",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261118/s20260507130241.png",
+      "nutrition": [
+        {
+          "name": "순살안동찜닭",
+          "isMain": true,
+          "calorie": 382,
+          "carbohydrate": 43,
+          "sugar": 13,
+          "fiber": 1,
+          "fat": 13,
+          "protein": 25
+        },
+        {
+          "name": "수수밥",
+          "isMain": false,
+          "calorie": 382,
+          "carbohydrate": 87,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "콩나물국",
+          "isMain": false,
+          "calorie": 16,
+          "carbohydrate": 2,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 2
+        },
+        {
+          "name": "두부양념구이",
+          "isMain": false,
+          "calorie": 134,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 6,
+          "fat": 9,
+          "protein": 10
+        },
+        {
+          "name": "오이고추장무침",
+          "isMain": false,
+          "calorie": 72,
+          "carbohydrate": 13,
+          "sugar": 7,
+          "fiber": 1,
+          "fat": 2,
+          "protein": 2
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "ICE초코",
+          "isMain": false,
+          "calorie": 41,
+          "carbohydrate": 7,
+          "sugar": 6,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 1
+        }
+      ]
+    },
+    {
+      "name": "해물토마토스파게티",
+      "courseName": "B:일품",
+      "setName": "해물토마토스파게티&으깬고구마샐러드",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/main/100026/1410.png",
+      "nutrition": [
+        {
+          "name": "해물토마토스파게티",
+          "isMain": true,
+          "calorie": 559,
+          "carbohydrate": 106,
+          "sugar": 17,
+          "fiber": 6,
+          "fat": 5,
+          "protein": 27
+        },
+        {
+          "name": "제로탄산",
+          "isMain": false,
+          "calorie": 5,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "마늘바게트",
+          "isMain": false,
+          "calorie": 103,
+          "carbohydrate": 15,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 2
+        },
+        {
+          "name": "으깬고구마샐러드",
+          "isMain": false,
+          "calorie": 275,
+          "carbohydrate": 39,
+          "sugar": 13,
+          "fiber": 3,
+          "fat": 12,
+          "protein": 3
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 10,
+          "carbohydrate": 2,
+          "sugar": 1,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 37,
+          "carbohydrate": 9,
+          "sugar": 8,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "오이피클",
+          "isMain": false,
+          "calorie": 64,
+          "carbohydrate": 15,
+          "sugar": 16,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "ICE초코",
+          "isMain": false,
+          "calorie": 41,
+          "carbohydrate": 7,
+          "sugar": 6,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 1
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-09T00:12:33.412Z"
+}
