@@ -1,0 +1,164 @@
+{
+  "date": "2026-11-19",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "설렁탕",
+      "courseName": "A:한식",
+      "setName": "설렁탕&궁중떡볶이",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/main/100026/1124.png",
+      "nutrition": [
+        {
+          "name": "설렁탕",
+          "isMain": true,
+          "calorie": 172,
+          "carbohydrate": 17,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 6,
+          "protein": 11
+        },
+        {
+          "name": "혼합잡곡밥",
+          "isMain": false,
+          "calorie": 355,
+          "carbohydrate": 80,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "비엔나소시지파인애플볶음",
+          "isMain": false,
+          "calorie": 323,
+          "carbohydrate": 20,
+          "sugar": 9,
+          "fiber": 1,
+          "fat": 22,
+          "protein": 12
+        },
+        {
+          "name": "잡채",
+          "isMain": false,
+          "calorie": 228,
+          "carbohydrate": 39,
+          "sugar": 6,
+          "fiber": 1,
+          "fat": 7,
+          "protein": 4
+        },
+        {
+          "name": "궁중떡볶이",
+          "isMain": false,
+          "calorie": 432,
+          "carbohydrate": 82,
+          "sugar": 5,
+          "fiber": 5,
+          "fat": 7,
+          "protein": 9
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 69,
+          "carbohydrate": 17,
+          "sugar": 15,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "김치잔치국수",
+      "courseName": "B:일품",
+      "setName": "김치잔치국수&궁중떡볶이",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261119/s20251112103723.png",
+      "nutrition": [
+        {
+          "name": "김치잔치국수",
+          "isMain": true,
+          "calorie": 517,
+          "carbohydrate": 94,
+          "sugar": 9,
+          "fiber": 4,
+          "fat": 8,
+          "protein": 18
+        },
+        {
+          "name": "미니멸치볶음밥",
+          "isMain": false,
+          "calorie": 309,
+          "carbohydrate": 60,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 4,
+          "protein": 9
+        },
+        {
+          "name": "모둠채소튀김",
+          "isMain": false,
+          "calorie": 219,
+          "carbohydrate": 43,
+          "sugar": 3,
+          "fiber": 2,
+          "fat": 4,
+          "protein": 4
+        },
+        {
+          "name": "잡채",
+          "isMain": false,
+          "calorie": 227,
+          "carbohydrate": 39,
+          "sugar": 6,
+          "fiber": 1,
+          "fat": 7,
+          "protein": 4
+        },
+        {
+          "name": "궁중떡볶이",
+          "isMain": false,
+          "calorie": 432,
+          "carbohydrate": 82,
+          "sugar": 5,
+          "fiber": 5,
+          "fat": 7,
+          "protein": 9
+        },
+        {
+          "name": "배추겉절이",
+          "isMain": false,
+          "calorie": 34,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 4,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 69,
+          "carbohydrate": 17,
+          "sugar": 15,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-10T03:01:14.879Z"
+}
