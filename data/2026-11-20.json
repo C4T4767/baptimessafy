@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-20",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "(뚝)짬뽕순두부찌개",
+      "courseName": "A:한식",
+      "setName": "(뚝)짬뽕순두부찌개&참나물채소전",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261120/s20250804053933.png",
+      "nutrition": [
+        {
+          "name": "(뚝)짬뽕순두부찌개",
+          "isMain": true,
+          "calorie": 691,
+          "carbohydrate": 85,
+          "sugar": 9,
+          "fiber": 11,
+          "fat": 26,
+          "protein": 34
+        },
+        {
+          "name": "보리밥",
+          "isMain": false,
+          "calorie": 397,
+          "carbohydrate": 91,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 8
+        },
+        {
+          "name": "참나물채소전",
+          "isMain": false,
+          "calorie": 168,
+          "carbohydrate": 34,
+          "sugar": 0,
+          "fiber": 3,
+          "fat": 2,
+          "protein": 6
+        },
+        {
+          "name": "미니비빔국수",
+          "isMain": false,
+          "calorie": 194,
+          "carbohydrate": 42,
+          "sugar": 11,
+          "fiber": 3,
+          "fat": 1,
+          "protein": 6
+        },
+        {
+          "name": "깻잎지절임",
+          "isMain": false,
+          "calorie": 50,
+          "carbohydrate": 10,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "건파래볶음",
+          "isMain": false,
+          "calorie": 28,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 2
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "식혜",
+          "isMain": false,
+          "calorie": 55,
+          "carbohydrate": 14,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-11T00:56:06.365Z"
+}
