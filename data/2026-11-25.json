@@ -1,0 +1,174 @@
+{
+  "date": "2026-11-25",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "밀양돼지국밥",
+      "courseName": "A:한식",
+      "setName": "밀양돼지국밥&김치전",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261125/s20250408132916.png",
+      "nutrition": [
+        {
+          "name": "밀양돼지국밥",
+          "isMain": true,
+          "calorie": 466,
+          "carbohydrate": 73,
+          "sugar": 3,
+          "fiber": 4,
+          "fat": 11,
+          "protein": 24
+        },
+        {
+          "name": "흑미밥",
+          "isMain": false,
+          "calorie": 354,
+          "carbohydrate": 81,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 7
+        },
+        {
+          "name": "김치전",
+          "isMain": false,
+          "calorie": 236,
+          "carbohydrate": 48,
+          "sugar": 1,
+          "fiber": 3,
+          "fat": 2,
+          "protein": 7
+        },
+        {
+          "name": "매운메추리알감자조림",
+          "isMain": false,
+          "calorie": 126,
+          "carbohydrate": 14,
+          "sugar": 6,
+          "fiber": 0,
+          "fat": 5,
+          "protein": 6
+        },
+        {
+          "name": "열무된장나물",
+          "isMain": false,
+          "calorie": 29,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 3
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "아이스티(복숭아)",
+          "isMain": false,
+          "calorie": 49,
+          "carbohydrate": 8,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 1
+        }
+      ]
+    },
+    {
+      "name": "로제떡볶이",
+      "courseName": "B:일품",
+      "setName": "로제떡볶이&피자맛치즈볼카츠",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261125/s20250314151632.png",
+      "nutrition": [
+        {
+          "name": "로제떡볶이",
+          "isMain": true,
+          "calorie": 1189,
+          "carbohydrate": 147,
+          "sugar": 19,
+          "fiber": 3,
+          "fat": 57,
+          "protein": 20
+        },
+        {
+          "name": "김가루양념밥",
+          "isMain": false,
+          "calorie": 375,
+          "carbohydrate": 81,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 3,
+          "protein": 7
+        },
+        {
+          "name": "가다랭이국",
+          "isMain": false,
+          "calorie": 9,
+          "carbohydrate": 2,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "피자맛치즈볼카츠",
+          "isMain": false,
+          "calorie": 178,
+          "carbohydrate": 13,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 11,
+          "protein": 8
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 10,
+          "carbohydrate": 2,
+          "sugar": 1,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 67,
+          "carbohydrate": 4,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 6,
+          "protein": 0
+        },
+        {
+          "name": "단무지무침",
+          "isMain": false,
+          "calorie": 26,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "아이스티(복숭아)",
+          "isMain": false,
+          "calorie": 49,
+          "carbohydrate": 8,
+          "sugar": 12,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 1
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-16T00:29:25.897Z"
+}
