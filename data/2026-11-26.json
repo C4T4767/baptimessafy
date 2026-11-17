@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-26",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "쇠고기규동덮밥",
+      "courseName": "A:한식",
+      "setName": "쇠고기규동덮밥&꿔바로우",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261126/s20240119081139.png",
+      "nutrition": [
+        {
+          "name": "쇠고기규동덮밥",
+          "isMain": true,
+          "calorie": 702,
+          "carbohydrate": 101,
+          "sugar": 5,
+          "fiber": 1,
+          "fat": 22,
+          "protein": 26
+        },
+        {
+          "name": "유부장국",
+          "isMain": false,
+          "calorie": 45,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 2,
+          "protein": 3
+        },
+        {
+          "name": "꿔바로우",
+          "isMain": false,
+          "calorie": 490,
+          "carbohydrate": 67,
+          "sugar": 23,
+          "fiber": 1,
+          "fat": 15,
+          "protein": 20
+        },
+        {
+          "name": "미역초무침",
+          "isMain": false,
+          "calorie": 34,
+          "carbohydrate": 8,
+          "sugar": 4,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 10,
+          "carbohydrate": 2,
+          "sugar": 1,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 14,
+          "carbohydrate": 1,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "블루베리맛홍초",
+          "isMain": false,
+          "calorie": 93,
+          "carbohydrate": 24,
+          "sugar": 13,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        }
+      ]
+    },
+    {
+      "name": "차이나스파게티",
+      "courseName": "B:일품",
+      "setName": "차이나스파게티&으깬단호박샐러드",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261126/s20260123144910.png",
+      "nutrition": [
+        {
+          "name": "차이나스파게티",
+          "isMain": true,
+          "calorie": 469,
+          "carbohydrate": 91,
+          "sugar": 6,
+          "fiber": 4,
+          "fat": 3,
+          "protein": 24
+        },
+        {
+          "name": "마늘빵(모닝빵)",
+          "isMain": false,
+          "calorie": 208,
+          "carbohydrate": 18,
+          "sugar": 6,
+          "fiber": 0,
+          "fat": 14,
+          "protein": 2
+        },
+        {
+          "name": "제로음료 ",
+          "isMain": false,
+          "calorie": 0,
+          "carbohydrate": 0,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "으깬단호박샐러드",
+          "isMain": false,
+          "calorie": 142,
+          "carbohydrate": 19,
+          "sugar": 8,
+          "fiber": 0,
+          "fat": 7,
+          "protein": 1
+        },
+        {
+          "name": "스마일감자튀김",
+          "isMain": false,
+          "calorie": 196,
+          "carbohydrate": 22,
+          "sugar": 0,
+          "fiber": 2,
+          "fat": 11,
+          "protein": 2
+        },
+        {
+          "name": "샐러드",
+          "isMain": false,
+          "calorie": 10,
+          "carbohydrate": 2,
+          "sugar": 1,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 11,
+          "carbohydrate": 0,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "피클",
+          "isMain": false,
+          "calorie": 64,
+          "carbohydrate": 15,
+          "sugar": 16,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "블루베리맛홍초",
+          "isMain": false,
+          "calorie": 93,
+          "carbohydrate": 24,
+          "sugar": 13,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-17T03:15:32.270Z"
+}
