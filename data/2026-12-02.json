@@ -2,6 +2,85 @@
   "date": "2026-12-02",
   "restaurant": "멀티캠퍼스",
   "mealTime": "점심",
-  "meals": [],
-  "updatedAt": "2026-11-23T01:12:46.641Z"
+  "meals": [
+    {
+      "name": "[송계옥]닭칼국수",
+      "courseName": "A:한식",
+      "setName": "[송계옥]닭칼국수&녹두전",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261202/s20261015111732.png",
+      "nutrition": [
+        {
+          "name": "[송계옥]닭칼국수",
+          "isMain": true,
+          "calorie": 562,
+          "carbohydrate": 77,
+          "sugar": 3,
+          "fiber": 5,
+          "fat": 22,
+          "protein": 21
+        },
+        {
+          "name": "미니현미밥",
+          "isMain": false,
+          "calorie": 208,
+          "carbohydrate": 47,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 4
+        },
+        {
+          "name": "녹두전",
+          "isMain": false,
+          "calorie": 80,
+          "carbohydrate": 13,
+          "sugar": 0,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 4
+        },
+        {
+          "name": "매운감자조림",
+          "isMain": false,
+          "calorie": 96,
+          "carbohydrate": 19,
+          "sugar": 3,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 3
+        },
+        {
+          "name": "숙주게맛살나물",
+          "isMain": false,
+          "calorie": 35,
+          "carbohydrate": 4,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 2
+        },
+        {
+          "name": "배추겉절이",
+          "isMain": false,
+          "calorie": 34,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 4,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "복분자차 ",
+          "isMain": false,
+          "calorie": 150,
+          "carbohydrate": 38,
+          "sugar": 26,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-24T05:02:22.987Z"
 }

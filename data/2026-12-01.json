@@ -2,6 +2,125 @@
   "date": "2026-12-01",
   "restaurant": "멀티캠퍼스",
   "mealTime": "점심",
-  "meals": [],
-  "updatedAt": "2026-11-23T01:12:46.373Z"
+  "meals": [
+    {
+      "name": "수제등심돈가스",
+      "courseName": "A:한식",
+      "setName": "수제등심돈가스&크림스프",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/main/100034/28325.png",
+      "nutrition": [
+        {
+          "name": "수제등심돈가스",
+          "isMain": true,
+          "calorie": 1139,
+          "carbohydrate": 139,
+          "sugar": 18,
+          "fiber": 5,
+          "fat": 41,
+          "protein": 54
+        },
+        {
+          "name": "쌀밥&후리가케",
+          "isMain": false,
+          "calorie": 209,
+          "carbohydrate": 48,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 4
+        },
+        {
+          "name": "크림스프",
+          "isMain": false,
+          "calorie": 89,
+          "carbohydrate": 14,
+          "sugar": 5,
+          "fiber": 0,
+          "fat": 3,
+          "protein": 1
+        },
+        {
+          "name": "마카로니콘샐러드",
+          "isMain": false,
+          "calorie": 191,
+          "carbohydrate": 13,
+          "sugar": 4,
+          "fiber": 3,
+          "fat": 15,
+          "protein": 2
+        },
+        {
+          "name": "베이키드빈스&콘",
+          "isMain": false,
+          "calorie": 44,
+          "carbohydrate": 8,
+          "sugar": 0,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 2
+        },
+        {
+          "name": "양배추샐러드",
+          "isMain": false,
+          "calorie": 11,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 33,
+          "carbohydrate": 4,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 2,
+          "protein": 0
+        },
+        {
+          "name": "풋고추",
+          "isMain": false,
+          "calorie": 3,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "쌈장",
+          "isMain": false,
+          "calorie": 20,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "ICE초코",
+          "isMain": false,
+          "calorie": 41,
+          "carbohydrate": 7,
+          "sugar": 6,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 1
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-24T05:02:22.499Z"
 }

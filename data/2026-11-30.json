@@ -2,6 +2,85 @@
   "date": "2026-11-30",
   "restaurant": "멀티캠퍼스",
   "mealTime": "점심",
-  "meals": [],
-  "updatedAt": "2026-11-23T01:12:46.146Z"
+  "meals": [
+    {
+      "name": "버섯육개장",
+      "courseName": "A:한식",
+      "setName": "버섯육개장&비엔나소시지케첩볶음",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/main/100026/1118.png",
+      "nutrition": [
+        {
+          "name": "버섯육개장",
+          "isMain": true,
+          "calorie": 214,
+          "carbohydrate": 17,
+          "sugar": 2,
+          "fiber": 5,
+          "fat": 10,
+          "protein": 14
+        },
+        {
+          "name": "차조밥",
+          "isMain": false,
+          "calorie": 381,
+          "carbohydrate": 87,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 7
+        },
+        {
+          "name": "비엔나소시지케첩볶음",
+          "isMain": false,
+          "calorie": 379,
+          "carbohydrate": 20,
+          "sugar": 10,
+          "fiber": 3,
+          "fat": 27,
+          "protein": 15
+        },
+        {
+          "name": "마늘종고추장무침",
+          "isMain": false,
+          "calorie": 54,
+          "carbohydrate": 11,
+          "sugar": 5,
+          "fiber": 3,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "상추겉절이",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "석류차",
+          "isMain": false,
+          "calorie": 150,
+          "carbohydrate": 37,
+          "sugar": 35,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-24T05:02:22.026Z"
 }

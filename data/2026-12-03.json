@@ -1,0 +1,106 @@
+{
+  "date": "2026-12-03",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "직화돼지고기고추장볶음",
+      "courseName": "A:한식",
+      "setName": "직화돼지고기고추장볶음&삼색계란말이",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261203/s20250429172406.png",
+      "nutrition": [
+        {
+          "name": "직화돼지고기고추장볶음",
+          "isMain": true,
+          "calorie": 321,
+          "carbohydrate": 26,
+          "sugar": 12,
+          "fiber": 5,
+          "fat": 16,
+          "protein": 27
+        },
+        {
+          "name": "보리밥",
+          "isMain": false,
+          "calorie": 397,
+          "carbohydrate": 91,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 8
+        },
+        {
+          "name": "아욱된장국",
+          "isMain": false,
+          "calorie": 41,
+          "carbohydrate": 4,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 1,
+          "protein": 4
+        },
+        {
+          "name": "삼색계란말이",
+          "isMain": false,
+          "calorie": 156,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 1,
+          "fat": 9,
+          "protein": 14
+        },
+        {
+          "name": "양배추쌈",
+          "isMain": false,
+          "calorie": 12,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 5,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "쌈장",
+          "isMain": false,
+          "calorie": 20,
+          "carbohydrate": 3,
+          "sugar": 1,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "미나리무생채",
+          "isMain": false,
+          "calorie": 43,
+          "carbohydrate": 9,
+          "sugar": 6,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "배추김치",
+          "isMain": false,
+          "calorie": 21,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 2,
+          "fat": 1,
+          "protein": 1
+        },
+        {
+          "name": "매실차",
+          "isMain": false,
+          "calorie": 69,
+          "carbohydrate": 17,
+          "sugar": 15,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-24T05:02:23.461Z"
+}
