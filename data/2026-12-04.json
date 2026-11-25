@@ -1,0 +1,86 @@
+{
+  "date": "2026-12-04",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "(뚝)나주곰탕",
+      "courseName": "A:한식",
+      "setName": "(뚝)나주곰탕&해물파전",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261204/s20240801132357.png",
+      "nutrition": [
+        {
+          "name": "(뚝)나주곰탕",
+          "isMain": true,
+          "calorie": 219,
+          "carbohydrate": 20,
+          "sugar": 4,
+          "fiber": 2,
+          "fat": 9,
+          "protein": 13
+        },
+        {
+          "name": "흑미밥",
+          "isMain": false,
+          "calorie": 354,
+          "carbohydrate": 81,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 7
+        },
+        {
+          "name": "해물파전",
+          "isMain": false,
+          "calorie": 224,
+          "carbohydrate": 32,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 4,
+          "protein": 16
+        },
+        {
+          "name": "어묵곤약조림",
+          "isMain": false,
+          "calorie": 88,
+          "carbohydrate": 12,
+          "sugar": 5,
+          "fiber": 1,
+          "fat": 2,
+          "protein": 5
+        },
+        {
+          "name": "도라지오이생채",
+          "isMain": false,
+          "calorie": 47,
+          "carbohydrate": 11,
+          "sugar": 6,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "깍두기",
+          "isMain": false,
+          "calorie": 31,
+          "carbohydrate": 6,
+          "sugar": 3,
+          "fiber": 3,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "아이스티",
+          "isMain": false,
+          "calorie": 53,
+          "carbohydrate": 13,
+          "sugar": 13,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-25T03:51:01.175Z"
+}
