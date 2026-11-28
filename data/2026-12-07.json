@@ -1,0 +1,116 @@
+{
+  "date": "2026-12-07",
+  "restaurant": "멀티캠퍼스",
+  "mealTime": "점심",
+  "meals": [
+    {
+      "name": "옛날짬뽕밥",
+      "courseName": "A:한식",
+      "setName": "옛날짬뽕밥&군만두",
+      "photoUrl": "https://img-welmenu.welstory.com/data/manager/recipe/E110/20261207/s20260417084131.jpg",
+      "nutrition": [
+        {
+          "name": "옛날짬뽕밥",
+          "isMain": true,
+          "calorie": 749,
+          "carbohydrate": 126,
+          "sugar": 4,
+          "fiber": 6,
+          "fat": 16,
+          "protein": 28
+        },
+        {
+          "name": "흑미밥",
+          "isMain": false,
+          "calorie": 354,
+          "carbohydrate": 81,
+          "sugar": 0,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 7
+        },
+        {
+          "name": "군만두",
+          "isMain": false,
+          "calorie": 222,
+          "carbohydrate": 32,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 7,
+          "protein": 8
+        },
+        {
+          "name": "토핑용과일",
+          "isMain": false,
+          "calorie": 10,
+          "carbohydrate": 3,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "열대과일토핑그린샐러드",
+          "isMain": false,
+          "calorie": 10,
+          "carbohydrate": 2,
+          "sugar": 1,
+          "fiber": 2,
+          "fat": 0,
+          "protein": 1
+        },
+        {
+          "name": "드레싱",
+          "isMain": false,
+          "calorie": 18,
+          "carbohydrate": 3,
+          "sugar": 3,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "천사채샐러드",
+          "isMain": false,
+          "calorie": 140,
+          "carbohydrate": 2,
+          "sugar": 1,
+          "fiber": 2,
+          "fat": 14,
+          "protein": 1
+        },
+        {
+          "name": "짜사이채무침",
+          "isMain": false,
+          "calorie": 22,
+          "carbohydrate": 4,
+          "sugar": 2,
+          "fiber": 0,
+          "fat": 1,
+          "protein": 0
+        },
+        {
+          "name": "단무지",
+          "isMain": false,
+          "calorie": 5,
+          "carbohydrate": 1,
+          "sugar": 0,
+          "fiber": 1,
+          "fat": 0,
+          "protein": 0
+        },
+        {
+          "name": "유자차",
+          "isMain": false,
+          "calorie": 52,
+          "carbohydrate": 13,
+          "sugar": 12,
+          "fiber": 0,
+          "fat": 0,
+          "protein": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-28T02:59:07.787Z"
+}
